@@ -10,14 +10,14 @@ your building experience.
 
 ![DIY-synths-title](/pics/meta/repo-title.jpg)
 
-1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,738 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
+1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,739 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
 2. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) ⚠️ Archived — An experimental physical interface for the NSynth AI algorithm
-3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,646 | 🐛 81 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
-4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 948 | 🐛 0 | 🌐 C++ | 📅 2026-08-03 — Platform for ultimate MIDI control deck building
-5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 632 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
-6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 497 | 🐛 176 | 🌐 C++ | 📅 2026-05-28 — Low cost music tracker platform
+3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,648 | 🐛 81 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
+4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 949 | 🐛 0 | 🌐 C++ | 📅 2026-08-03 — Platform for ultimate MIDI control deck building
+5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 633 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
+6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 498 | 🐛 176 | 🌐 C++ | 📅 2026-05-28 — Low cost music tracker platform
 7. [Portable synth](https://github.com/prajwal1121/Portable-Synth) ⭐ 443 | 🐛 2 | 🌐 C++ | 📅 2021-10-12 — OP-1 style portable groovebox based on Teensy 4
-8. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 434 | 🐛 27 | 🌐 C++ | 📅 2026-07-04 — Suzuki's Omnichord-like pocket instrument based on Teensy
+8. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 434 | 🐛 28 | 🌐 C++ | 📅 2026-07-04 — Suzuki's Omnichord-like pocket instrument based on Teensy
 9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 379 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
 10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 351 | 🐛 27 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
 11. [PicoStepSeq](https://github.com/todbot/picostepseq) ⭐ 348 | 🐛 3 | 🌐 C | 📅 2025-10-19 — 8-step MIDI sequencer
@@ -27,7 +27,7 @@ your building experience.
 15. [Plinky](https://github.com/plinkysynth/plinky_public/tree/main) ⭐ 216 | 🐛 17 | 🌐 C | 📅 2025-10-31 — 8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds
 16. [ArduTouch](https://github.com/maltman23/ArduTouch) ⭐ 214 | 🐛 2 | 🌐 C++ | 📅 2021-01-03 — Arduino-compatible music synthesizer
 17. [Moduleur](https://github.com/shmoergh/moduleur) ⭐ 207 | 🐛 9 | 🌐 HTML | 📅 2026-05-29 — Double-voice analog modular design with a touch of digital magic
-18. [Pikocore](https://github.com/schollz/pikocore) ⭐ 164 | 🐛 4 | 🌐 C++ | 📅 2026-08-12 — Hackable, lo-fi music mangler based on the Raspberry Pi Pico
+18. [Pikocore](https://github.com/schollz/pikocore) ⭐ 165 | 🐛 4 | 🌐 C++ | 📅 2026-08-12 — Hackable, lo-fi music mangler based on the Raspberry Pi Pico
 19. [PreenFM 2](https://github.com/Ixox/preenfm2) ⭐ 149 | 🐛 12 | 🌐 C | 📅 2024-03-23 — Beloved old FM synthesis in small, modern DIY box
 20. [Zeptocore](https://github.com/schollz/_core) ⭐ 148 | 🐛 13 | 🌐 C | 📅 2026-08-10 — Player and synthesizer, featuring stereo playback
 21. [Wirehead Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) ⭐ 139 | 🐛 9 | 🌐 G-code | 📅 2024-10-24 — Dual-voice, 2 operator, 8-bit FM synth in Volca form-factor
@@ -35,12 +35,12 @@ your building experience.
 23. [Hog](https://github.com/shmoergh/hog/) ⭐ 123 | 🐛 10 | 🌐 C++ | 📅 2025-07-13 — Double-voice analog monophonic synthesizer with two oscillators
 24. [NESizer2](https://github.com/Jaffe-/NESizer2/tree/master) ⭐ 121 | 🐛 11 | 🌐 C | 📅 2024-10-31 — NES 2A03 chip controlled by ATmega328 with battery backed patch memory
 25. [Mega MIDI](https://github.com/AidanHockey5/MegaMIDI) ⭐ 116 | 🐛 2 | 🌐 C++ | 📅 2022-04-03 — MIDI-compatible Sega Genesis/Megadrive synthesizer with real sound chips
-26. [Acid Drip](https://github.com/lonesoulsurfer/Acid_Drip_Bassline_and_Drum_Synth) ⭐ 109 | 🐛 2 | 📅 2026-08-13 — Acid bassline synth and drum machine
-27. [YM2149 Synth](https://github.com/trash80/Ym2149Synth) ⭐ 109 | 🐛 1 | 🌐 Max | 📅 2017-07-26 — Little chip that was used in various retro arcade machines and consoles now ready to serve
+26. [YM2149 Synth](https://github.com/trash80/Ym2149Synth) ⭐ 110 | 🐛 1 | 🌐 Max | 📅 2017-07-26 — Little chip that was used in various retro arcade machines and consoles now ready to serve
+27. [Acid Drip](https://github.com/lonesoulsurfer/Acid_Drip_Bassline_and_Drum_Synth) ⭐ 109 | 🐛 2 | 📅 2026-08-13 — Acid bassline synth and drum machine
 28. [Teensy Audio FX](https://github.com/mattvenn/teensy-audio-fx) ⭐ 93 | 🐛 7 | 🌐 C++ | 📅 2021-09-18 — Playable effects modeled on the Teenage Engineering PO series
 29. [POLY555](https://github.com/oskitone/poly555) ⭐ 89 | 🐛 0 | 🌐 OpenSCAD | 📅 2024-11-23 — Polyphonic, analog, square wave synth based on the 555 timer
 30. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) ⭐ 87 | 🐛 0 | 📅 2023-12-24 — Full analog, semi modular synthesizer
-31. [Kastle 2](https://github.com/bastl-instruments/kastle2) ⭐ 85 | 🐛 0 | 🌐 C++ | 📅 2026-07-29 — Patchable, pocketable and open platforrm
+31. [Kastle 2](https://github.com/bastl-instruments/kastle2) ⭐ 86 | 🐛 0 | 🌐 C++ | 📅 2026-07-29 — Patchable, pocketable and open platforrm
 32. [Wirehead Mutant](https://github.com/Meebleeps/MeeBleeps-Mutant-Synth) ⭐ 85 | 🐛 6 | 🌐 C++ | 📅 2024-10-24 — 8-bit, 2-oscillator subtractive Arduino synth for generative techno in Volca form-factor
 33. [MiniMO](https://github.com/enveloop/miniMO) ⭐ 76 | 🐛 0 | 🌐 C++ | 📅 2020-12-30 — ATtiny85 mini modular system
 34. [Le Strum](https://github.com/hotchk155/Voici-Le-Strum) ⭐ 70 | 🐛 4 | 🌐 C | 📅 2025-04-09 — Compact and simple yet funny MIDI strummer
@@ -109,4 +109,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

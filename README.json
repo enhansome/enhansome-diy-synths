@@ -14,7 +14,7 @@
             "last_commit": "2023-01-23T08:31:10Z",
             "owner": "bitfieldaudio",
             "repo": "OTTO",
-            "stars": 2738
+            "stars": 2739
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-04-18T09:39:51Z",
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1646
+            "stars": 1648
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-03T09:53:10Z",
             "owner": "shanteacontrols",
             "repo": "OpenDeck",
-            "stars": 948
+            "stars": 949
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-02-07T18:50:45Z",
             "owner": "monome",
             "repo": "norns-shield",
-            "stars": 632
+            "stars": 633
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-05-28T06:09:03Z",
             "owner": "xiphonics",
             "repo": "picoTracker",
-            "stars": 497
+            "stars": 498
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-12T19:46:14Z",
             "owner": "schollz",
             "repo": "pikocore",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -355,20 +355,6 @@
         },
         {
           "node_type": "item",
-          "title": "Acid Drip",
-          "description": "Acid bassline synth and drum machine",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-13T07:38:22Z",
-            "owner": "lonesoulsurfer",
-            "repo": "Acid_Drip_Bassline_and_Drum_Synth",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
           "title": "YM2149 Synth",
           "description": "Little chip that was used in various retro arcade machines and consoles now ready to serve",
           "children": [],
@@ -378,6 +364,20 @@
             "last_commit": "2017-07-26T03:43:49Z",
             "owner": "trash80",
             "repo": "Ym2149Synth",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Acid Drip",
+          "description": "Acid bassline synth and drum machine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T07:38:22Z",
+            "owner": "lonesoulsurfer",
+            "repo": "Acid_Drip_Bassline_and_Drum_Synth",
             "stars": 109
           }
         },
@@ -434,7 +434,7 @@
             "last_commit": "2026-07-29T10:00:49Z",
             "owner": "bastl-instruments",
             "repo": "kastle2",
-            "stars": 85
+            "stars": 86
           }
         },
         {
@@ -980,7 +980,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:48:46.970Z",
+    "last_updated": "2026-08-14T08:42:00.549Z",
     "original_repository": "Atarity/diy-synths",
     "original_repository_sha": "0d58563eca06af84e7722975dc80018277c0074e",
     "enhanced_repository": "enhansome/enhansome-diy-synths",
