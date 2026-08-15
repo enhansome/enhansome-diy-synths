@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-28T06:09:03Z",
+            "last_commit": "2026-08-14T10:56:26Z",
             "owner": "xiphonics",
             "repo": "picoTracker",
             "stars": 498
@@ -112,7 +112,7 @@
             "last_commit": "2026-07-04T07:32:44Z",
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 434
+            "stars": 437
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2025-11-27T09:38:59Z",
             "owner": "midilab",
             "repo": "aciduino",
-            "stars": 324
+            "stars": 325
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2020-09-05T12:28:45Z",
             "owner": "zueblin",
             "repo": "Polaron",
-            "stars": 221
+            "stars": 222
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-12T19:46:14Z",
             "owner": "schollz",
             "repo": "pikocore",
-            "stars": 165
+            "stars": 166
           }
         },
         {
@@ -277,7 +277,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-10T13:18:07Z",
+            "last_commit": "2026-08-14T23:10:25Z",
             "owner": "schollz",
             "repo": "_core",
             "stars": 148
@@ -336,7 +336,7 @@
             "last_commit": "2024-10-31T04:12:05Z",
             "owner": "Jaffe-",
             "repo": "NESizer2",
-            "stars": 121
+            "stars": 122
           }
         },
         {
@@ -411,6 +411,20 @@
         },
         {
           "node_type": "item",
+          "title": "Kastle 2",
+          "description": "Patchable, pocketable and open platforrm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-14T09:19:35Z",
+            "owner": "bastl-instruments",
+            "repo": "kastle2",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Polykit X1",
           "description": "Full analog, semi modular synthesizer",
           "children": [],
@@ -421,20 +435,6 @@
             "owner": "polykit",
             "repo": "polykit-x-monosynth",
             "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kastle 2",
-          "description": "Patchable, pocketable and open platforrm",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-29T10:00:49Z",
-            "owner": "bastl-instruments",
-            "repo": "kastle2",
-            "stars": 86
           }
         },
         {
@@ -980,7 +980,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:42:00.549Z",
+    "last_updated": "2026-08-15T07:49:19.440Z",
     "original_repository": "Atarity/diy-synths",
     "original_repository_sha": "0d58563eca06af84e7722975dc80018277c0074e",
     "enhanced_repository": "enhansome/enhansome-diy-synths",
