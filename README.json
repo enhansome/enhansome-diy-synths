@@ -42,7 +42,7 @@
             "last_commit": "2026-04-18T09:39:51Z",
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1648
+            "stars": 1649
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-02-07T18:50:45Z",
             "owner": "monome",
             "repo": "norns-shield",
-            "stars": 633
+            "stars": 634
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-07-04T07:32:44Z",
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 437
+            "stars": 438
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2025-11-27T09:38:59Z",
             "owner": "midilab",
             "repo": "aciduino",
-            "stars": 325
+            "stars": 326
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-12T19:46:14Z",
             "owner": "schollz",
             "repo": "pikocore",
-            "stars": 166
+            "stars": 167
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2026-08-14T23:10:25Z",
             "owner": "schollz",
             "repo": "_core",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -644,7 +644,7 @@
             "last_commit": "2023-07-21T15:32:29Z",
             "owner": "triglav-modular",
             "repo": "Hypjolin",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -980,7 +980,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:49:19.440Z",
+    "last_updated": "2026-08-16T07:51:48.466Z",
     "original_repository": "Atarity/diy-synths",
     "original_repository_sha": "0d58563eca06af84e7722975dc80018277c0074e",
     "enhanced_repository": "enhansome/enhansome-diy-synths",
