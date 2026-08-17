@@ -42,7 +42,7 @@
             "last_commit": "2026-04-18T09:39:51Z",
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1649
+            "stars": 1650
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-02-07T18:50:45Z",
             "owner": "monome",
             "repo": "norns-shield",
-            "stars": 634
+            "stars": 635
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-07-04T07:32:44Z",
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 438
+            "stars": 441
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2023-12-21T13:20:57Z",
             "owner": "rasteri",
             "repo": "SC1000",
-            "stars": 351
+            "stars": 352
           }
         },
         {
@@ -277,7 +277,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T23:10:25Z",
+            "last_commit": "2026-08-16T17:35:40Z",
             "owner": "schollz",
             "repo": "_core",
             "stars": 149
@@ -364,7 +364,7 @@
             "last_commit": "2017-07-26T03:43:49Z",
             "owner": "trash80",
             "repo": "Ym2149Synth",
-            "stars": 110
+            "stars": 111
           }
         },
         {
@@ -374,8 +374,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": null,
-            "last_commit": "2026-08-13T07:38:22Z",
+            "language": "C++",
+            "last_commit": "2026-08-17T07:57:14Z",
             "owner": "lonesoulsurfer",
             "repo": "Acid_Drip_Bassline_and_Drum_Synth",
             "stars": 109
@@ -392,7 +392,7 @@
             "last_commit": "2021-09-18T16:37:08Z",
             "owner": "mattvenn",
             "repo": "teensy-audio-fx",
-            "stars": 93
+            "stars": 94
           }
         },
         {
@@ -980,7 +980,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:51:48.466Z",
+    "last_updated": "2026-08-17T08:05:24.579Z",
     "original_repository": "Atarity/diy-synths",
     "original_repository_sha": "0d58563eca06af84e7722975dc80018277c0074e",
     "enhanced_repository": "enhansome/enhansome-diy-synths",
