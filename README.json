@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "This is a list of synthesizers and related hardware you can build on your own. All designs are open-source including firmware. Submit designs which is not in list and discuss your building experience.\n",
+      "description": "This is a list of synthesizers and related hardware you can build on your own. All designs are open-source including firmware. Submit designs which is not in list and discuss your building experience.\nupd: 2026-06-27",
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82694455,
             "language": "C++",
             "last_commit": "2023-01-23T08:31:10Z",
             "owner": "bitfieldaudio",
             "repo": "OTTO",
-            "stars": 2739
+            "stars": 2738
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 117828358,
             "language": "C++",
             "last_commit": "2025-08-18T19:23:57Z",
             "owner": "googlecreativelab",
             "repo": "open-nsynth-super",
-            "stars": 2495
+            "stars": 2493
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 455922808,
             "language": "C++",
             "last_commit": "2026-04-18T09:39:51Z",
             "owner": "probonopd",
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19407252,
             "language": "C++",
             "last_commit": "2026-08-03T09:53:10Z",
             "owner": "shanteacontrols",
             "repo": "OpenDeck",
-            "stars": 949
+            "stars": 948
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208627602,
             "language": null,
             "last_commit": "2026-02-07T18:50:45Z",
             "owner": "monome",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 624427818,
             "language": "C++",
             "last_commit": "2026-08-14T10:56:26Z",
             "owner": "xiphonics",
@@ -89,11 +95,27 @@
         },
         {
           "node_type": "item",
+          "title": "Minichord",
+          "description": "Suzuki's Omnichord-like pocket instrument based on Teensy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 848864434,
+            "language": "C++",
+            "last_commit": "2026-07-04T07:32:44Z",
+            "owner": "BenjaminPoilve",
+            "repo": "minichord",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Portable synth",
           "description": "OP-1 style portable groovebox based on Teensy 4",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290274097,
             "language": "C++",
             "last_commit": "2021-10-12T13:13:08Z",
             "owner": "prajwal1121",
@@ -103,25 +125,12 @@
         },
         {
           "node_type": "item",
-          "title": "Minichord",
-          "description": "Suzuki's Omnichord-like pocket instrument based on Teensy",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-04T07:32:44Z",
-            "owner": "BenjaminPoilve",
-            "repo": "minichord",
-            "stars": 442
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Faderbank 16n",
           "description": "16 faders MIDI-controller compatible with modular world",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101160990,
             "language": "C++",
             "last_commit": "2025-04-06T20:28:18Z",
             "owner": "16n-faderbank",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156127441,
             "language": "C",
             "last_commit": "2023-12-21T13:20:57Z",
             "owner": "rasteri",
@@ -150,11 +160,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 521769562,
             "language": "C",
             "last_commit": "2025-10-19T19:18:25Z",
             "owner": "todbot",
             "repo": "picostepseq",
-            "stars": 348
+            "stars": 347
           }
         },
         {
@@ -164,11 +175,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124693844,
             "language": "C++",
             "last_commit": "2025-11-27T09:38:59Z",
             "owner": "midilab",
             "repo": "aciduino",
-            "stars": 326
+            "stars": 325
           }
         },
         {
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70167252,
             "language": "C",
             "last_commit": "2025-01-29T09:00:42Z",
             "owner": "bastl-instruments",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148971267,
             "language": "C++",
             "last_commit": "2020-09-05T12:28:45Z",
             "owner": "zueblin",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660207910,
             "language": "C",
             "last_commit": "2025-10-31T15:52:38Z",
             "owner": "plinkysynth",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57227493,
             "language": "C++",
             "last_commit": "2021-01-03T18:14:26Z",
             "owner": "maltman23",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 994144641,
             "language": "HTML",
             "last_commit": "2026-05-29T06:57:11Z",
             "owner": "shmoergh",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 667617348,
             "language": "C++",
             "last_commit": "2026-08-12T19:46:14Z",
             "owner": "schollz",
@@ -262,11 +280,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 679110604,
             "language": "C",
             "last_commit": "2026-08-16T17:35:40Z",
             "owner": "schollz",
             "repo": "_core",
-            "stars": 150
+            "stars": 151
           }
         },
         {
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9582656,
             "language": "C",
             "last_commit": "2024-03-23T10:55:56Z",
             "owner": "Ixox",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 441926840,
             "language": "G-code",
             "last_commit": "2024-10-24T13:20:57Z",
             "owner": "Meebleeps",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176140513,
             "language": "HTML",
             "last_commit": "2025-03-27T15:36:45Z",
             "owner": "mattybrad",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 879273351,
             "language": "C++",
             "last_commit": "2025-07-13T10:46:41Z",
             "owner": "shmoergh",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18074002,
             "language": "C",
             "last_commit": "2024-10-31T04:12:05Z",
             "owner": "Jaffe-",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164371914,
             "language": "C++",
             "last_commit": "2022-04-03T02:48:10Z",
             "owner": "AidanHockey5",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66615258,
             "language": "Max",
             "last_commit": "2017-07-26T03:43:49Z",
             "owner": "trash80",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1264548131,
             "language": "C++",
             "last_commit": "2026-08-17T07:57:14Z",
             "owner": "lonesoulsurfer",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230794019,
             "language": "C++",
             "last_commit": "2021-09-18T16:37:08Z",
             "owner": "mattvenn",
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278250265,
             "language": "OpenSCAD",
             "last_commit": "2024-11-23T19:15:05Z",
             "owner": "oskitone",
@@ -416,11 +445,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1138201931,
             "language": "C++",
             "last_commit": "2026-08-14T09:19:35Z",
             "owner": "bastl-instruments",
             "repo": "kastle2",
-            "stars": 87
+            "stars": 88
           }
         },
         {
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523489974,
             "language": null,
             "last_commit": "2023-12-24T09:02:54Z",
             "owner": "polykit",
@@ -444,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 438248921,
             "language": "C++",
             "last_commit": "2024-10-24T13:22:08Z",
             "owner": "Meebleeps",
@@ -458,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50959565,
             "language": "C++",
             "last_commit": "2020-12-30T10:56:34Z",
             "owner": "enveloop",
@@ -472,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8166763,
             "language": "C",
             "last_commit": "2025-04-09T10:08:21Z",
             "owner": "hotchk155",
@@ -486,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190005842,
             "language": "C++",
             "last_commit": "2020-10-17T16:58:05Z",
             "owner": "friedpies",
@@ -500,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148588504,
             "language": "C++",
             "last_commit": "2021-02-08T21:31:20Z",
             "owner": "trailhead",
@@ -514,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289689486,
             "language": null,
             "last_commit": "2023-02-25T16:09:51Z",
             "owner": "Shik-Tech",
@@ -528,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424017837,
             "language": "C++",
             "last_commit": "2025-01-12T13:32:59Z",
             "owner": "pangrus",
@@ -542,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71398992,
             "language": "Eagle",
             "last_commit": "2017-03-08T18:25:26Z",
             "owner": "MeeBlip",
@@ -556,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 650486950,
             "language": "C++",
             "last_commit": "2026-02-17T04:45:23Z",
             "owner": "CaratacusPotts",
@@ -570,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126165379,
             "language": "C",
             "last_commit": "2018-10-30T14:10:44Z",
             "owner": "NANOmodules",
@@ -584,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 612065761,
             "language": "C++",
             "last_commit": "2026-01-25T19:31:52Z",
             "owner": "schollz",
@@ -598,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2920156,
             "language": null,
             "last_commit": "2011-12-05T21:52:23Z",
             "owner": "MeeBlip",
@@ -612,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2920156,
             "language": null,
             "last_commit": "2011-12-05T21:52:23Z",
             "owner": "MeeBlip",
@@ -626,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13239035,
             "language": "C",
             "last_commit": "2025-07-14T23:56:54Z",
             "owner": "gligli",
@@ -640,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 528826036,
             "language": null,
             "last_commit": "2023-07-21T15:32:29Z",
             "owner": "triglav-modular",
@@ -654,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1251144824,
             "language": "C",
             "last_commit": "2026-08-05T11:21:51Z",
             "owner": "rob-scape",
@@ -668,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131713490,
             "language": "C++",
             "last_commit": "2018-06-10T17:04:32Z",
             "owner": "ghztomash",
@@ -682,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13936615,
             "language": "C",
             "last_commit": "2014-01-14T23:52:58Z",
             "owner": "buranelectrix",
@@ -696,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 500201989,
             "language": null,
             "last_commit": "2024-03-04T15:27:03Z",
             "owner": "MattKuebrich",
@@ -710,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123983890,
             "language": "C++",
             "last_commit": "2023-01-11T14:26:59Z",
             "owner": "noisio",
@@ -724,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57316657,
             "language": "C++",
             "last_commit": "2022-08-23T10:11:31Z",
             "owner": "e-licktronic",
@@ -738,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54579420,
             "language": null,
             "last_commit": "2025-04-06T13:02:35Z",
             "owner": "thomasfredericks",
@@ -752,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 367029502,
             "language": "C",
             "last_commit": "2022-02-23T15:05:25Z",
             "owner": "Marzac",
@@ -766,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262630576,
             "language": "C++",
             "last_commit": "2025-02-04T00:54:25Z",
             "owner": "handeyeco",
@@ -780,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 576917102,
             "language": null,
             "last_commit": "2024-07-15T12:28:53Z",
             "owner": "diysynth",
@@ -794,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 433946317,
             "language": "Prolog",
             "last_commit": "2025-03-29T22:24:02Z",
             "owner": "Atarity",
@@ -808,6 +865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 502480149,
             "language": "C++",
             "last_commit": "2023-10-05T14:08:22Z",
             "owner": "MattKuebrich",
@@ -822,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244594067,
             "language": "C++",
             "last_commit": "2023-11-02T20:44:01Z",
             "owner": "pangrus",
@@ -836,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 922304371,
             "language": null,
             "last_commit": "2025-02-23T22:40:30Z",
             "owner": "uvknhn",
@@ -850,6 +910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 527927500,
             "language": "C++",
             "last_commit": "2023-09-27T06:51:23Z",
             "owner": "e-licktronic",
@@ -864,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134702555,
             "language": null,
             "last_commit": "2022-04-29T12:29:22Z",
             "owner": "pangrus",
@@ -878,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57336192,
             "language": "HTML",
             "last_commit": "2025-04-23T15:24:22Z",
             "owner": "thomasfredericks",
@@ -892,6 +955,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12635602,
             "language": "Assembly",
             "last_commit": "2013-09-06T04:35:02Z",
             "owner": "NTHSynth",
@@ -906,6 +970,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 519602419,
             "language": "C",
             "last_commit": "2025-04-08T19:42:31Z",
             "owner": "SloBloLabs",
@@ -920,6 +985,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293319387,
             "language": "nesC",
             "last_commit": "2023-09-16T17:05:24Z",
             "owner": "bjc01",
@@ -934,6 +1000,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 960611627,
             "language": null,
             "last_commit": "2025-04-04T19:09:10Z",
             "owner": "poetaster",
@@ -948,6 +1015,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103067599,
             "language": "Python",
             "last_commit": "2017-09-11T13:51:53Z",
             "owner": "emceha",
@@ -962,25 +1030,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 892500712,
             "language": "C++",
             "last_commit": "2026-03-29T12:56:17Z",
             "owner": "poetaster",
             "repo": "spires",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Yowler",
-          "description": "Compact and versatile noise/drone synth",
-          "children": []
         }
       ],
       "title": "WEB VERSION / SUBMIT DESIGN / DISCUSSION"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:59:11.728Z",
+    "last_updated": "2026-08-19T07:59:07.524Z",
     "original_repository": "Atarity/diy-synths",
     "original_repository_sha": "0d58563eca06af84e7722975dc80018277c0074e",
     "enhanced_repository": "enhansome/enhansome-diy-synths",
