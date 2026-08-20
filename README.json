@@ -45,7 +45,7 @@
             "last_commit": "2026-04-18T09:39:51Z",
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1650
+            "stars": 1653
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 624427818,
             "language": "C++",
-            "last_commit": "2026-08-14T10:56:26Z",
+            "last_commit": "2026-08-20T08:01:13Z",
             "owner": "xiphonics",
             "repo": "picoTracker",
             "stars": 498
@@ -180,7 +180,7 @@
             "last_commit": "2025-11-27T09:38:59Z",
             "owner": "midilab",
             "repo": "aciduino",
-            "stars": 325
+            "stars": 327
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-08-16T17:35:40Z",
             "owner": "schollz",
             "repo": "_core",
-            "stars": 151
+            "stars": 152
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2011-12-05T21:52:23Z",
             "owner": "MeeBlip",
             "repo": "meeblip-circuits",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2011-12-05T21:52:23Z",
             "owner": "MeeBlip",
             "repo": "meeblip-circuits",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -1043,7 +1043,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:26:38.753Z",
+    "last_updated": "2026-08-20T08:02:04.544Z",
     "original_repository": "Atarity/diy-synths",
     "original_repository_id": 412188228,
     "original_repository_sha": "0d58563eca06af84e7722975dc80018277c0074e",

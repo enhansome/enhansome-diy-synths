@@ -1,34 +1,34 @@
 # Awesome diy synths with stars
 
-## [WEB VERSION](https://diy-synths.snnkv.com/)  /  [SUBMIT DESIGN](https://github.com/Atarity/diy-synths/discussions) ⭐ 558 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27  /  [DISCUSSION](https://github.com/Atarity/diy-synths/discussions) ⭐ 558 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
+## [WEB VERSION](https://diy-synths.snnkv.com/)  /  [SUBMIT DESIGN](https://github.com/Atarity/diy-synths/discussions) ⭐ 559 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27  /  [DISCUSSION](https://github.com/Atarity/diy-synths/discussions) ⭐ 559 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
 
 This is a list of synthesizers and related hardware you can build
 on your own. All designs are open-source including firmware.
-[Submit designs](https://github.com/Atarity/diy-synths/discussions) ⭐ 558 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27 which is not
-in list and [discuss](https://github.com/Atarity/diy-synths/discussions) ⭐ 558 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
+[Submit designs](https://github.com/Atarity/diy-synths/discussions) ⭐ 559 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27 which is not
+in list and [discuss](https://github.com/Atarity/diy-synths/discussions) ⭐ 559 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
 your building experience.
 
 ![DIY-synths-title](/pics/meta/repo-title.jpg)
 
 1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,738 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
 2. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) ⚠️ Archived — An experimental physical interface for the NSynth AI algorithm
-3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,650 | 🐛 81 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
+3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,653 | 🐛 81 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
 4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 948 | 🐛 0 | 🌐 C++ | 📅 2026-08-03 — Platform for ultimate MIDI control deck building
 5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 635 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
-6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 498 | 🐛 172 | 🌐 C++ | 📅 2026-08-14 — Low cost music tracker platform
+6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 498 | 🐛 172 | 🌐 C++ | 📅 2026-08-20 — Low cost music tracker platform
 7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 443 | 🐛 29 | 🌐 C++ | 📅 2026-07-04 — Suzuki's Omnichord-like pocket instrument based on Teensy
 8. [Portable synth](https://github.com/prajwal1121/Portable-Synth) ⭐ 443 | 🐛 2 | 🌐 C++ | 📅 2021-10-12 — OP-1 style portable groovebox based on Teensy 4
 9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 379 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
 10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 352 | 🐛 27 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
 11. [PicoStepSeq](https://github.com/todbot/picostepseq) ⭐ 347 | 🐛 3 | 🌐 C | 📅 2025-10-19 — 8-step MIDI sequencer
-12. [Aciduino](https://github.com/midilab/aciduino/tree/master/v1/) ⭐ 325 | 🐛 2 | 🌐 C++ | 📅 2025-11-27 — Roland TB-303 step sequencer clone aimed for live interaction
+12. [Aciduino](https://github.com/midilab/aciduino/tree/master/v1/) ⭐ 327 | 🐛 2 | 🌐 C++ | 📅 2025-11-27 — Roland TB-303 step sequencer clone aimed for live interaction
 13. [Kastle](https://github.com/bastl-instruments/kastle) ⭐ 265 | 🐛 10 | 🌐 C | 📅 2025-01-29 — Lo-fi, pocketable modular synth
 14. [Polaron](https://github.com/zueblin/Polaron) ⭐ 222 | 🐛 0 | 🌐 C++ | 📅 2020-09-05 — Digital drum machine based on Teensy 3
 15. [Plinky](https://github.com/plinkysynth/plinky_public/tree/main) ⭐ 216 | 🐛 17 | 🌐 C | 📅 2025-10-31 — 8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds
 16. [ArduTouch](https://github.com/maltman23/ArduTouch) ⭐ 214 | 🐛 2 | 🌐 C++ | 📅 2021-01-03 — Arduino-compatible music synthesizer
 17. [Moduleur](https://github.com/shmoergh/moduleur) ⭐ 207 | 🐛 9 | 🌐 HTML | 📅 2026-05-29 — Double-voice analog modular design with a touch of digital magic
 18. [Pikocore](https://github.com/schollz/pikocore) ⭐ 168 | 🐛 4 | 🌐 C++ | 📅 2026-08-12 — Hackable, lo-fi music mangler based on the Raspberry Pi Pico
-19. [Zeptocore](https://github.com/schollz/_core) ⭐ 151 | 🐛 13 | 🌐 C | 📅 2026-08-16 — Player and synthesizer, featuring stereo playback
+19. [Zeptocore](https://github.com/schollz/_core) ⭐ 152 | 🐛 13 | 🌐 C | 📅 2026-08-16 — Player and synthesizer, featuring stereo playback
 20. [PreenFM 2](https://github.com/Ixox/preenfm2) ⭐ 149 | 🐛 12 | 🌐 C | 📅 2024-03-23 — Beloved old FM synthesis in small, modern DIY box
 21. [Wirehead Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) ⭐ 139 | 🐛 9 | 🌐 G-code | 📅 2024-10-24 — Dual-voice, 2 operator, 8-bit FM synth in Volca form-factor
 22. [DrumKid](https://github.com/mattybrad/drumkid) ⭐ 137 | 🐛 12 | 🌐 HTML | 📅 2025-03-27 — Lo-fi aleatoric Arduino drum machine
@@ -52,8 +52,8 @@ your building experience.
 40. [Matrix sequencer](https://github.com/CaratacusPotts/Matrix-Sequencer) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2026-02-17 — Standalone MIDI sequencer
 41. [Nano minipops](https://github.com/NANOmodules/NANO-Minipops) ⭐ 46 | 🐛 5 | 🌐 C | 📅 2018-10-30 — Korg Minipops drum machine made around Arduino
 42. [Nyblcore](https://github.com/schollz/nyblcore) ⭐ 46 | 🐛 1 | 🌐 C++ | 📅 2026-01-25 — Tiny ATtiny85-based sample player device
-43. [Meeblip Micro](https://github.com/MeeBlip/meeblip-circuits) ⭐ 44 | 🐛 0 | 📅 2011-12-05 — Hackable monophonic synth
-44. [Meeblip SE](https://github.com/MeeBlip/meeblip-circuits) ⭐ 44 | 🐛 0 | 📅 2011-12-05 — Hackable monophonic synth
+43. [Meeblip Micro](https://github.com/MeeBlip/meeblip-circuits) ⭐ 45 | 🐛 0 | 📅 2011-12-05 — Hackable monophonic synth
+44. [Meeblip SE](https://github.com/MeeBlip/meeblip-circuits) ⭐ 45 | 🐛 0 | 📅 2011-12-05 — Hackable monophonic synth
 45. [Overcycler](https://github.com/gligli/overcycler) ⭐ 44 | 🐛 5 | 🌐 C | 📅 2025-07-14 — Polyphonic hybrid single cycle / analog synthesizer
 46. [Hypjolin](https://github.com/triglav-modular/Hypjolin) ⭐ 42 | 🐛 0 | 📅 2023-07-21 — Cross-modulating ultra-chaos generator
 47. [Noisferatu](https://github.com/rob-scape/noisferatu) ⭐ 38 | 🐛 0 | 🌐 C | 📅 2026-08-05 — Compact, generative texture synthesizer
@@ -109,4 +109,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
