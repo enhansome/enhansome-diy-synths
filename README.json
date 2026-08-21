@@ -60,7 +60,7 @@
             "last_commit": "2026-08-03T09:53:10Z",
             "owner": "shanteacontrols",
             "repo": "OpenDeck",
-            "stars": 948
+            "stars": 949
           }
         },
         {
@@ -87,10 +87,25 @@
             "archived": false,
             "id": 624427818,
             "language": "C++",
-            "last_commit": "2026-08-20T08:01:13Z",
+            "last_commit": "2026-08-20T08:34:40Z",
             "owner": "xiphonics",
             "repo": "picoTracker",
             "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portable synth",
+          "description": "OP-1 style portable groovebox based on Teensy 4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290274097,
+            "language": "C++",
+            "last_commit": "2021-10-12T13:13:08Z",
+            "owner": "prajwal1121",
+            "repo": "Portable-Synth",
+            "stars": 444
           }
         },
         {
@@ -110,21 +125,6 @@
         },
         {
           "node_type": "item",
-          "title": "Portable synth",
-          "description": "OP-1 style portable groovebox based on Teensy 4",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 290274097,
-            "language": "C++",
-            "last_commit": "2021-10-12T13:13:08Z",
-            "owner": "prajwal1121",
-            "repo": "Portable-Synth",
-            "stars": 443
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Faderbank 16n",
           "description": "16 faders MIDI-controller compatible with modular world",
           "children": [],
@@ -135,7 +135,7 @@
             "last_commit": "2025-04-06T20:28:18Z",
             "owner": "16n-faderbank",
             "repo": "16n",
-            "stars": 379
+            "stars": 380
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-10-19T19:18:25Z",
             "owner": "todbot",
             "repo": "picostepseq",
-            "stars": 347
+            "stars": 348
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-12T19:46:14Z",
             "owner": "schollz",
             "repo": "pikocore",
-            "stars": 168
+            "stars": 169
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2021-09-18T16:37:08Z",
             "owner": "mattvenn",
             "repo": "teensy-audio-fx",
-            "stars": 94
+            "stars": 92
           }
         },
         {
@@ -755,6 +755,21 @@
         },
         {
           "node_type": "item",
+          "title": "OP-Synth",
+          "description": "Modular micro analog synth",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54579420,
+            "language": null,
+            "last_commit": "2025-04-06T13:02:35Z",
+            "owner": "thomasfredericks",
+            "repo": "Op-Synth",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
           "title": "ATtiny Punk Console",
           "description": "ATtiny85 implementation of Atari Punk Console",
           "children": [],
@@ -780,21 +795,6 @@
             "last_commit": "2022-08-23T10:11:31Z",
             "owner": "e-licktronic",
             "repo": "Nava-v1.0",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OP-Synth",
-          "description": "Modular micro analog synth",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 54579420,
-            "language": null,
-            "last_commit": "2025-04-06T13:02:35Z",
-            "owner": "thomasfredericks",
-            "repo": "Op-Synth",
             "stars": 28
           }
         },
@@ -855,7 +855,7 @@
             "last_commit": "2025-03-29T22:24:02Z",
             "owner": "Atarity",
             "repo": "totoro-synth",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -890,21 +890,6 @@
         },
         {
           "node_type": "item",
-          "title": "Beam Catcher",
-          "description": "Analog light-based synthesizer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 922304371,
-            "language": null,
-            "last_commit": "2025-02-23T22:40:30Z",
-            "owner": "uvknhn",
-            "repo": "Beam-Catcher",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Yocto",
           "description": "Clone of Roland TR-808 drum machine",
           "children": [],
@@ -915,6 +900,21 @@
             "last_commit": "2023-09-27T06:51:23Z",
             "owner": "e-licktronic",
             "repo": "Yocto-V2.0",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beam Catcher",
+          "description": "Analog light-based synthesizer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 922304371,
+            "language": null,
+            "last_commit": "2025-02-23T22:40:30Z",
+            "owner": "uvknhn",
+            "repo": "Beam-Catcher",
             "stars": 13
           }
         },
@@ -1043,7 +1043,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:02:04.544Z",
+    "last_updated": "2026-08-21T08:02:38.565Z",
     "original_repository": "Atarity/diy-synths",
     "original_repository_id": 412188228,
     "original_repository_sha": "0d58563eca06af84e7722975dc80018277c0074e",
