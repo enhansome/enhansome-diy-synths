@@ -1,11 +1,11 @@
 # Awesome diy synths with stars
 
-## [WEB VERSION](https://diy-synths.snnkv.com/)  /  [SUBMIT DESIGN](https://github.com/Atarity/diy-synths/discussions) ⭐ 559 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27  /  [DISCUSSION](https://github.com/Atarity/diy-synths/discussions) ⭐ 559 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
+## [WEB VERSION](https://diy-synths.snnkv.com/)  /  [SUBMIT DESIGN](https://github.com/Atarity/diy-synths/discussions) ⭐ 561 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27  /  [DISCUSSION](https://github.com/Atarity/diy-synths/discussions) ⭐ 561 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
 
 This is a list of synthesizers and related hardware you can build
 on your own. All designs are open-source including firmware.
-[Submit designs](https://github.com/Atarity/diy-synths/discussions) ⭐ 559 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27 which is not
-in list and [discuss](https://github.com/Atarity/diy-synths/discussions) ⭐ 559 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
+[Submit designs](https://github.com/Atarity/diy-synths/discussions) ⭐ 561 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27 which is not
+in list and [discuss](https://github.com/Atarity/diy-synths/discussions) ⭐ 561 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
 your building experience.
 
 ![DIY-synths-title](/pics/meta/repo-title.jpg)
@@ -109,4 +109,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
