@@ -15,7 +15,7 @@
             "last_commit": "2023-01-23T08:31:10Z",
             "owner": "bitfieldaudio",
             "repo": "OTTO",
-            "stars": 2737
+            "stars": 2738
           }
         },
         {
@@ -95,6 +95,21 @@
         },
         {
           "node_type": "item",
+          "title": "Minichord",
+          "description": "Suzuki's Omnichord-like pocket instrument based on Teensy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 848864434,
+            "language": "C++",
+            "last_commit": "2026-07-04T07:32:44Z",
+            "owner": "BenjaminPoilve",
+            "repo": "minichord",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Portable synth",
           "description": "OP-1 style portable groovebox based on Teensy 4",
           "children": [],
@@ -106,21 +121,6 @@
             "owner": "prajwal1121",
             "repo": "Portable-Synth",
             "stars": 444
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Minichord",
-          "description": "Suzuki's Omnichord-like pocket instrument based on Teensy",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 848864434,
-            "language": "C++",
-            "last_commit": "2026-07-04T07:32:44Z",
-            "owner": "BenjaminPoilve",
-            "repo": "minichord",
-            "stars": 443
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2025-11-27T09:38:59Z",
             "owner": "midilab",
             "repo": "aciduino",
-            "stars": 327
+            "stars": 328
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-12T19:46:14Z",
             "owner": "schollz",
             "repo": "pikocore",
-            "stars": 169
+            "stars": 170
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2024-11-23T19:15:05Z",
             "owner": "oskitone",
             "repo": "poly555",
-            "stars": 89
+            "stars": 90
           }
         },
         {
@@ -1043,7 +1043,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:53:26.680Z",
+    "last_updated": "2026-08-24T08:09:36.652Z",
     "original_repository": "Atarity/diy-synths",
     "original_repository_id": 412188228,
     "original_repository_sha": "0d58563eca06af84e7722975dc80018277c0074e",
