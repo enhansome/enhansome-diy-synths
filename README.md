@@ -27,7 +27,7 @@ your building experience.
 15. [Plinky](https://github.com/plinkysynth/plinky_public/tree/main) ⭐ 216 | 🐛 17 | 🌐 C | 📅 2025-10-31 — 8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds
 16. [ArduTouch](https://github.com/maltman23/ArduTouch) ⭐ 214 | 🐛 2 | 🌐 C++ | 📅 2021-01-03 — Arduino-compatible music synthesizer
 17. [Moduleur](https://github.com/shmoergh/moduleur) ⭐ 207 | 🐛 9 | 🌐 HTML | 📅 2026-05-29 — Double-voice analog modular design with a touch of digital magic
-18. [Pikocore](https://github.com/schollz/pikocore) ⭐ 170 | 🐛 5 | 🌐 C++ | 📅 2026-08-12 — Hackable, lo-fi music mangler based on the Raspberry Pi Pico
+18. [Pikocore](https://github.com/schollz/pikocore) ⭐ 171 | 🐛 5 | 🌐 C++ | 📅 2026-08-12 — Hackable, lo-fi music mangler based on the Raspberry Pi Pico
 19. [Zeptocore](https://github.com/schollz/_core) ⭐ 152 | 🐛 13 | 🌐 C | 📅 2026-08-16 — Player and synthesizer, featuring stereo playback
 20. [PreenFM 2](https://github.com/Ixox/preenfm2) ⭐ 149 | 🐛 12 | 🌐 C | 📅 2024-03-23 — Beloved old FM synthesis in small, modern DIY box
 21. [Wirehead Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) ⭐ 139 | 🐛 9 | 🌐 G-code | 📅 2024-10-24 — Dual-voice, 2 operator, 8-bit FM synth in Volca form-factor
