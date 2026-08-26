@@ -47,7 +47,7 @@
                 "last_commit": "2026-04-18T09:39:51Z",
                 "owner": "probonopd",
                 "repo": "MiniDexed",
-                "stars": 1652
+                "stars": 1654
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-03T09:53:10Z",
                 "owner": "shanteacontrols",
                 "repo": "OpenDeck",
-                "stars": 949
+                "stars": 950
               }
             },
             {
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 624427818,
                 "language": "C++",
-                "last_commit": "2026-08-20T08:34:40Z",
+                "last_commit": "2026-08-25T22:57:42Z",
                 "owner": "xiphonics",
                 "repo": "picoTracker",
                 "stars": 498
@@ -227,7 +227,7 @@
                 "last_commit": "2025-10-31T15:52:38Z",
                 "owner": "plinkysynth",
                 "repo": "plinky_public",
-                "stars": 216
+                "stars": 217
               }
             },
             {
@@ -257,7 +257,7 @@
                 "last_commit": "2026-05-29T06:57:11Z",
                 "owner": "shmoergh",
                 "repo": "moduleur",
-                "stars": 207
+                "stars": 209
               }
             },
             {
@@ -287,7 +287,7 @@
                 "last_commit": "2026-08-16T17:35:40Z",
                 "owner": "schollz",
                 "repo": "_core",
-                "stars": 152
+                "stars": 153
               }
             },
             {
@@ -382,6 +382,21 @@
             },
             {
               "node_type": "item",
+              "title": "Acid Drip",
+              "description": "Acid bassline synth and drum machine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1264548131,
+                "language": "C++",
+                "last_commit": "2026-08-17T07:57:14Z",
+                "owner": "lonesoulsurfer",
+                "repo": "Acid_Drip_Bassline_and_Drum_Synth",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
               "title": "YM2149 Synth",
               "description": "Little chip that was used in various retro arcade machines and consoles now ready to serve",
               "children": [],
@@ -397,21 +412,6 @@
             },
             {
               "node_type": "item",
-              "title": "Acid Drip",
-              "description": "Acid bassline synth and drum machine",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1264548131,
-                "language": "C++",
-                "last_commit": "2026-08-17T07:57:14Z",
-                "owner": "lonesoulsurfer",
-                "repo": "Acid_Drip_Bassline_and_Drum_Synth",
-                "stars": 110
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Teensy Audio FX",
               "description": "Playable effects modeled on the Teenage Engineering PO series",
               "children": [],
@@ -422,7 +422,7 @@
                 "last_commit": "2021-09-18T16:37:08Z",
                 "owner": "mattvenn",
                 "repo": "teensy-audio-fx",
-                "stars": 92
+                "stars": 93
               }
             },
             {
@@ -902,7 +902,7 @@
                 "last_commit": "2023-09-27T06:51:23Z",
                 "owner": "e-licktronic",
                 "repo": "Yocto-V2.0",
-                "stars": 14
+                "stars": 15
               }
             },
             {
@@ -1050,7 +1050,7 @@
             "last_commit": "2026-06-27T20:45:11Z",
             "owner": "Atarity",
             "repo": "diy-synths",
-            "stars": 561
+            "stars": 562
           },
           "title": "WEB VERSION / SUBMIT DESIGN / DISCUSSION"
         }
@@ -1059,7 +1059,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:04:38.898Z",
+    "last_updated": "2026-08-26T08:05:42.745Z",
     "original_repository": "Atarity/diy-synths",
     "original_repository_id": 412188228,
     "original_repository_sha": "0d58563eca06af84e7722975dc80018277c0074e",
