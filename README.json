@@ -77,7 +77,7 @@
                 "last_commit": "2026-02-07T18:50:45Z",
                 "owner": "monome",
                 "repo": "norns-shield",
-                "stars": 636
+                "stars": 637
               }
             },
             {
@@ -692,7 +692,7 @@
                 "last_commit": "2023-07-21T15:32:29Z",
                 "owner": "triglav-modular",
                 "repo": "Hypjolin",
-                "stars": 42
+                "stars": 43
               }
             },
             {
@@ -1050,7 +1050,7 @@
             "last_commit": "2026-06-27T20:45:11Z",
             "owner": "Atarity",
             "repo": "diy-synths",
-            "stars": 562
+            "stars": 563
           },
           "title": "WEB VERSION / SUBMIT DESIGN / DISCUSSION"
         }
@@ -1059,9 +1059,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:05:42.745Z",
-    "original_repository": "Atarity/diy-synths",
-    "original_repository_id": 412188228,
+    "last_updated": "2026-08-27T11:34:30.328Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 412188228,
+      "language": "JavaScript",
+      "last_commit": "2026-06-27T20:45:11Z",
+      "owner": "Atarity",
+      "repo": "diy-synths",
+      "stars": 563
+    },
     "original_repository_sha": "0d58563eca06af84e7722975dc80018277c0074e",
     "enhanced_repository": "enhansome/enhansome-diy-synths",
     "enhanced_repository_description": null,
