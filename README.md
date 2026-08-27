@@ -18,7 +18,7 @@ your building experience.
 6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 498 | 🐛 170 | 🌐 C++ | 📅 2026-08-25 — Low cost music tracker platform
 7. [Portable synth](https://github.com/prajwal1121/Portable-Synth) ⭐ 445 | 🐛 2 | 🌐 C++ | 📅 2021-10-12 — OP-1 style portable groovebox based on Teensy 4
 8. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 444 | 🐛 29 | 🌐 C++ | 📅 2026-07-04 — Suzuki's Omnichord-like pocket instrument based on Teensy
-9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 380 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
+9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 381 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
 10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 352 | 🐛 27 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
 11. [PicoStepSeq](https://github.com/todbot/picostepseq) ⭐ 348 | 🐛 3 | 🌐 C | 📅 2025-10-19 — 8-step MIDI sequencer
 12. [Aciduino](https://github.com/midilab/aciduino/tree/master/v1/) ⭐ 328 | 🐛 2 | 🌐 C++ | 📅 2025-11-27 — Roland TB-303 step sequencer clone aimed for live interaction
