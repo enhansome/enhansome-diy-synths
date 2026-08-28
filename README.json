@@ -17,8 +17,9 @@
                 "last_commit": "2023-01-23T08:31:10Z",
                 "owner": "bitfieldaudio",
                 "repo": "OTTO",
-                "stars": 2738
-              }
+                "stars": 2739
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "googlecreativelab",
                 "repo": "open-nsynth-super",
                 "stars": 2493
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "probonopd",
                 "repo": "MiniDexed",
                 "stars": 1654
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "shanteacontrols",
                 "repo": "OpenDeck",
                 "stars": 950
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "monome",
                 "repo": "norns-shield",
                 "stars": 637
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,24 @@
                 "owner": "xiphonics",
                 "repo": "picoTracker",
                 "stars": 498
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Minichord",
+              "description": "Suzuki's Omnichord-like pocket instrument based on Teensy",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 848864434,
+                "language": "C++",
+                "last_commit": "2026-07-04T07:32:44Z",
+                "owner": "BenjaminPoilve",
+                "repo": "minichord",
+                "stars": 445
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -108,22 +130,8 @@
                 "owner": "prajwal1121",
                 "repo": "Portable-Synth",
                 "stars": 445
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Minichord",
-              "description": "Suzuki's Omnichord-like pocket instrument based on Teensy",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 848864434,
-                "language": "C++",
-                "last_commit": "2026-07-04T07:32:44Z",
-                "owner": "BenjaminPoilve",
-                "repo": "minichord",
-                "stars": 444
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "16n-faderbank",
                 "repo": "16n",
                 "stars": 381
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "rasteri",
                 "repo": "SC1000",
                 "stars": 352
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -167,8 +177,9 @@
                 "last_commit": "2025-10-19T19:18:25Z",
                 "owner": "todbot",
                 "repo": "picostepseq",
-                "stars": 348
-              }
+                "stars": 349
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "midilab",
                 "repo": "aciduino",
                 "stars": 328
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "bastl-instruments",
                 "repo": "kastle",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "zueblin",
                 "repo": "Polaron",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "plinkysynth",
                 "repo": "plinky_public",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "maltman23",
                 "repo": "ArduTouch",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -257,8 +273,9 @@
                 "last_commit": "2026-05-29T06:57:11Z",
                 "owner": "shmoergh",
                 "repo": "moduleur",
-                "stars": 209
-              }
+                "stars": 210
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "schollz",
                 "repo": "pikocore",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -288,7 +306,8 @@
                 "owner": "schollz",
                 "repo": "_core",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -303,7 +322,8 @@
                 "owner": "Ixox",
                 "repo": "preenfm2",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -318,7 +338,8 @@
                 "owner": "Meebleeps",
                 "repo": "MeeBleeps-Freaq-FM-Synth",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -333,7 +354,8 @@
                 "owner": "mattybrad",
                 "repo": "drumkid",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -348,7 +370,8 @@
                 "owner": "shmoergh",
                 "repo": "hog",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -363,7 +386,8 @@
                 "owner": "Jaffe-",
                 "repo": "NESizer2",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -378,7 +402,8 @@
                 "owner": "AidanHockey5",
                 "repo": "MegaMIDI",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -392,8 +417,9 @@
                 "last_commit": "2026-08-17T07:57:14Z",
                 "owner": "lonesoulsurfer",
                 "repo": "Acid_Drip_Bassline_and_Drum_Synth",
-                "stars": 111
-              }
+                "stars": 112
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -408,7 +434,8 @@
                 "owner": "trash80",
                 "repo": "Ym2149Synth",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -423,7 +450,8 @@
                 "owner": "mattvenn",
                 "repo": "teensy-audio-fx",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -438,7 +466,8 @@
                 "owner": "oskitone",
                 "repo": "poly555",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -453,7 +482,8 @@
                 "owner": "bastl-instruments",
                 "repo": "kastle2",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -467,8 +497,9 @@
                 "last_commit": "2023-12-24T09:02:54Z",
                 "owner": "polykit",
                 "repo": "polykit-x-monosynth",
-                "stars": 87
-              }
+                "stars": 88
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -483,7 +514,8 @@
                 "owner": "Meebleeps",
                 "repo": "MeeBleeps-Mutant-Synth",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -498,7 +530,8 @@
                 "owner": "enveloop",
                 "repo": "miniMO",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -513,7 +546,8 @@
                 "owner": "hotchk155",
                 "repo": "Voici-Le-Strum",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -528,7 +562,8 @@
                 "owner": "friedpies",
                 "repo": "kelpie-pocket-synth",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -543,7 +578,8 @@
                 "owner": "trailhead",
                 "repo": "teensy-beats",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -558,7 +594,8 @@
                 "owner": "Shik-Tech",
                 "repo": "N32B",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -573,7 +610,8 @@
                 "owner": "pangrus",
                 "repo": "multi",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -588,7 +626,8 @@
                 "owner": "MeeBlip",
                 "repo": "meeblip-triode",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -603,7 +642,8 @@
                 "owner": "CaratacusPotts",
                 "repo": "Matrix-Sequencer",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -618,7 +658,8 @@
                 "owner": "NANOmodules",
                 "repo": "NANO-Minipops",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -633,7 +674,8 @@
                 "owner": "schollz",
                 "repo": "nyblcore",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -648,7 +690,8 @@
                 "owner": "MeeBlip",
                 "repo": "meeblip-circuits",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -663,7 +706,8 @@
                 "owner": "MeeBlip",
                 "repo": "meeblip-circuits",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -678,7 +722,8 @@
                 "owner": "gligli",
                 "repo": "overcycler",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -693,7 +738,8 @@
                 "owner": "triglav-modular",
                 "repo": "Hypjolin",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -708,7 +754,8 @@
                 "owner": "rob-scape",
                 "repo": "noisferatu",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -723,7 +770,8 @@
                 "owner": "ghztomash",
                 "repo": "fasma_drum",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -738,7 +786,8 @@
                 "owner": "buranelectrix",
                 "repo": "lunchbeat-PCB",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -753,7 +802,8 @@
                 "owner": "MattKuebrich",
                 "repo": "roundabout",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -768,7 +818,8 @@
                 "owner": "thomasfredericks",
                 "repo": "Op-Synth",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -783,7 +834,8 @@
                 "owner": "noisio",
                 "repo": "ATtiny-Punk-Console",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -798,7 +850,8 @@
                 "owner": "e-licktronic",
                 "repo": "Nava-v1.0",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -813,7 +866,8 @@
                 "owner": "Marzac",
                 "repo": "zekit",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -828,7 +882,8 @@
                 "owner": "handeyeco",
                 "repo": "Grandbot",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -843,7 +898,8 @@
                 "owner": "diysynth",
                 "repo": "STANDALONE-DEVICES",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -857,8 +913,9 @@
                 "last_commit": "2025-03-29T22:24:02Z",
                 "owner": "Atarity",
                 "repo": "totoro-synth",
-                "stars": 19
-              }
+                "stars": 20
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -873,7 +930,8 @@
                 "owner": "MattKuebrich",
                 "repo": "flounder",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -888,7 +946,8 @@
                 "owner": "pangrus",
                 "repo": "Protean",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -903,7 +962,8 @@
                 "owner": "e-licktronic",
                 "repo": "Yocto-V2.0",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -918,7 +978,8 @@
                 "owner": "uvknhn",
                 "repo": "Beam-Catcher",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -933,7 +994,8 @@
                 "owner": "pangrus",
                 "repo": "HSE-Hidden_Sound_Explorer",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -948,7 +1010,8 @@
                 "owner": "thomasfredericks",
                 "repo": "Mozard",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -963,7 +1026,8 @@
                 "owner": "NTHSynth",
                 "repo": "NTH_DSP",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -978,7 +1042,8 @@
                 "owner": "SloBloLabs",
                 "repo": "LivSynth",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -993,7 +1058,8 @@
                 "owner": "bjc01",
                 "repo": "D-D_Teensy",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -1008,7 +1074,8 @@
                 "owner": "poetaster",
                 "repo": "keep",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -1023,7 +1090,8 @@
                 "owner": "emceha",
                 "repo": "RealSIDShield",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             },
             {
               "node_type": "item",
@@ -1038,7 +1106,8 @@
                 "owner": "poetaster",
                 "repo": "spires",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
             }
           ],
           "description": "This is a list of synthesizers and related hardware you can build on your own. All designs are open-source including firmware. Submit designs which is not in list and discuss your building experience.\nupd: 2026-06-27",
@@ -1052,14 +1121,15 @@
             "repo": "diy-synths",
             "stars": 563
           },
-          "title": "WEB VERSION / SUBMIT DESIGN / DISCUSSION"
+          "title": "WEB VERSION / SUBMIT DESIGN / DISCUSSION",
+          "first_seen": "2026-08-28T19:29:52.019Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:20:29.966Z",
+    "last_updated": "2026-08-28T19:29:52.019Z",
     "original_repository_info": {
       "archived": false,
       "id": 412188228,
