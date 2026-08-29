@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sampler, Sequencer, Multi-engine synth and effects - in a box! [WIP]",
+                "homepage": "https://bitfieldaudio.com",
                 "id": 82694455,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-01-23T08:31:10Z",
+                "open_issues": 19,
                 "owner": "bitfieldaudio",
                 "repo": "OTTO",
-                "stars": 2739
+                "stars": 2739,
+                "topics": [
+                  "audio",
+                  "audio-processing",
+                  "music",
+                  "raspberry-pi",
+                  "sequencing",
+                  "synth",
+                  "synthesizer",
+                  "ui-design"
+                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -28,12 +42,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Open NSynth Super is an experimental physical interface for the NSynth algorithm",
+                "homepage": null,
                 "id": 117828358,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-18T19:23:57Z",
+                "open_issues": 45,
                 "owner": "googlecreativelab",
                 "repo": "open-nsynth-super",
-                "stars": 2493
+                "stars": 2493,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -44,12 +63,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dexed FM synthesizer similar to 8x DX7 (TX816/TX802) running on a bare metal Raspberry Pi (without a Linux kernel or operating system)",
+                "homepage": "https://github.com/probonopd/MiniDexed/wiki",
                 "id": 455922808,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-18T09:39:51Z",
+                "open_issues": 81,
                 "owner": "probonopd",
                 "repo": "MiniDexed",
-                "stars": 1654
+                "stars": 1654,
+                "topics": [
+                  "frequency-modulation",
+                  "raspberry-pi",
+                  "synthesizer"
+                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -60,12 +88,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A platform for building interactive control and sensing devices using MIDI and OSC built with Zephyr RTOS.",
+                "homepage": "https://shanteacontrols.com",
                 "id": 19407252,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-03T09:53:10Z",
+                "open_issues": 0,
                 "owner": "shanteacontrols",
                 "repo": "OpenDeck",
-                "stars": 950
+                "stars": 950,
+                "topics": [
+                  "midi",
+                  "midi-controller",
+                  "osc",
+                  "webmidi",
+                  "webusb",
+                  "zephyr",
+                  "zephyr-rtos"
+                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -76,12 +117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "minimal/tiny open-source/DIY shield for Raspberry Pi boards, providing hardware compatibility with the norns ecosystem.",
+                "homepage": null,
                 "id": 208627602,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-07T18:50:45Z",
+                "open_issues": 1,
                 "owner": "monome",
                 "repo": "norns-shield",
-                "stars": 637
+                "stars": 637,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -92,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 624427818,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T22:57:42Z",
+                "open_issues": 170,
                 "owner": "xiphonics",
                 "repo": "picoTracker",
-                "stars": 498
+                "stars": 498,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -108,12 +159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pocket-sized musical instrument ",
+                "homepage": "https://minichord.com/",
                 "id": 848864434,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-07-04T07:32:44Z",
+                "open_issues": 29,
                 "owner": "BenjaminPoilve",
                 "repo": "minichord",
-                "stars": 445
+                "stars": 445,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -124,12 +180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OP-1 style portable groovebox based around Teensy 4.1",
+                "homepage": null,
                 "id": 290274097,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2021-10-12T13:13:08Z",
+                "open_issues": 2,
                 "owner": "prajwal1121",
                 "repo": "Portable-Synth",
-                "stars": 445
+                "stars": 445,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -140,12 +201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sixteen faders, a Teensy, MIDI over USB and jack, CV out, and I2C out. Phew.",
+                "homepage": null,
                 "id": 101160990,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-06T20:28:18Z",
+                "open_issues": 23,
                 "owner": "16n-faderbank",
                 "repo": "16n",
-                "stars": 381
+                "stars": 381,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -156,12 +222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source digital portable turntablist instrument",
+                "homepage": null,
                 "id": 156127441,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2023-12-21T13:20:57Z",
+                "open_issues": 27,
                 "owner": "rasteri",
                 "repo": "SC1000",
-                "stars": 352
+                "stars": 352,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -172,12 +243,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MIDI sequencer using Raspberry Pi Pico in Arduino & CircuitPython",
+                "homepage": null,
                 "id": 521769562,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-19T19:18:25Z",
+                "open_issues": 3,
                 "owner": "todbot",
                 "repo": "picostepseq",
-                "stars": 349
+                "stars": 349,
+                "topics": [
+                  "circuitpython",
+                  "midi",
+                  "midi-controller",
+                  "raspberrypipico",
+                  "rotary-encoder",
+                  "rp2040",
+                  "sequencer",
+                  "ssd1306",
+                  "usb-midi"
+                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -188,12 +274,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Affordable and DIY, Roland TB-303 and TR-808 step sequencer clone and midi controller. Packed with additional features, specifically designed for musicians and DJs to use on live performances or streamline their studio creative process.",
+                "homepage": "http://midilab.co/aciduino",
                 "id": 124693844,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-11-27T09:38:59Z",
+                "open_issues": 2,
                 "owner": "midilab",
                 "repo": "aciduino",
-                "stars": 328
+                "stars": 328,
+                "topics": [
+                  "303",
+                  "arduino",
+                  "c",
+                  "hardware",
+                  "hardware-designs",
+                  "music",
+                  "roland",
+                  "tb303"
+                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -204,12 +304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The OG mini modular synth (Kastle 1.5 and others).",
+                "homepage": null,
                 "id": 70167252,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-01-29T09:00:42Z",
+                "open_issues": 10,
                 "owner": "bastl-instruments",
                 "repo": "kastle",
-                "stars": 265
+                "stars": 265,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -220,12 +325,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A DIY drum machine for the teensy microcontroller (hardware / software) ",
+                "homepage": null,
                 "id": 148971267,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-09-05T12:28:45Z",
+                "open_issues": 0,
                 "owner": "zueblin",
                 "repo": "Polaron",
-                "stars": 222
+                "stars": 222,
+                "topics": [
+                  "arduino",
+                  "audio",
+                  "diy",
+                  "drummachine",
+                  "hardware",
+                  "polaron",
+                  "sequencer",
+                  "synthesizer",
+                  "teensy",
+                  "teensyduino"
+                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -236,12 +357,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a public release of the plinky sw and hw",
+                "homepage": null,
                 "id": 660207910,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-31T15:52:38Z",
+                "open_issues": 17,
                 "owner": "plinkysynth",
                 "repo": "plinky_public",
-                "stars": 217
+                "stars": 217,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -252,12 +378,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "==> ARDUTOUCH KITS ARE AVAILABLE at CornfieldElectronics.com <==  ArduTouch is an Arduino-compatible music synthesizer kit with a built-in touch keyboard, and with built-in speaker/amplifier.  Build it, and it works!  Way low cost (currently $30.)  It comes pre-programmed with a music synthesizer (called \"Thick\") that makes really nice sounds and music and noise.  Other diverse synthesizers available at CornfieldElectronics.com .  An ArduTouch Arduino library is available for programming in more super nice synthesizer features.  The ArduTouch Arduino library comes with many way cool example synthesizer sketches that also serve as a tutorial for making your own ArduTouch synthesizers (which are Arduino sketches).  For those who want to learn more, the documentation teaches the basics of Digital Signal Processing for audio generation (with more documentation to come)).",
+                "homepage": "http://cornfieldelectronics.com/cfe/products/buy.php?productId=synth",
                 "id": 57227493,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-01-03T18:14:26Z",
+                "open_issues": 2,
                 "owner": "maltman23",
                 "repo": "ArduTouch",
-                "stars": 214
+                "stars": 214,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -268,12 +399,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fully analog DIY-friendly modular synth",
+                "homepage": "https://www.shmoergh.com/moduleur",
                 "id": 994144641,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-05-29T06:57:11Z",
+                "open_issues": 9,
                 "owner": "shmoergh",
                 "repo": "moduleur",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "analog",
+                  "diy",
+                  "diy-electronics",
+                  "hardware-designs",
+                  "modular",
+                  "synthesizer"
+                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -284,12 +427,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "source for the pikocore drum machine",
+                "homepage": "https://pikocore.com",
                 "id": 667617348,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-12T19:46:14Z",
+                "open_issues": 5,
                 "owner": "schollz",
                 "repo": "pikocore",
-                "stars": 171
+                "stars": 171,
+                "topics": [
+                  "pico",
+                  "pikocore",
+                  "rp2040"
+                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -300,12 +452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "firmware for the zeptocore, zeptoboard, ectocore, and ezeptocore",
+                "homepage": "https://zeptocore.com",
                 "id": 679110604,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-16T17:35:40Z",
+                "open_issues": 13,
                 "owner": "schollz",
                 "repo": "_core",
-                "stars": 153
+                "stars": 153,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -316,12 +473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "preenFM2 firmware",
+                "homepage": null,
                 "id": 9582656,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-03-23T10:55:56Z",
+                "open_issues": 12,
                 "owner": "Ixox",
                 "repo": "preenfm2",
-                "stars": 149
+                "stars": 149,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -332,12 +494,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 441926840,
                 "language": "G-code",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-24T13:20:57Z",
+                "open_issues": 9,
                 "owner": "Meebleeps",
                 "repo": "MeeBleeps-Freaq-FM-Synth",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -348,12 +515,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 176140513,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-27T15:36:45Z",
+                "open_issues": 12,
                 "owner": "mattybrad",
                 "repo": "drumkid",
-                "stars": 137
+                "stars": 137,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -364,12 +536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fully analog two-voice monophonic synth for live performances",
+                "homepage": "https://www.shmoergh.com",
                 "id": 879273351,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2025-07-13T10:46:41Z",
+                "open_issues": 10,
                 "owner": "shmoergh",
                 "repo": "hog",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -380,12 +557,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A synthesizer based on the 2A03 (NES APU)",
+                "homepage": null,
                 "id": 18074002,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-10-31T04:12:05Z",
+                "open_issues": 11,
                 "owner": "Jaffe-",
                 "repo": "NESizer2",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -396,12 +578,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A MIDI-compatible Sega Genesis/Megadrive Synthesizer with REAL sound chips.",
+                "homepage": "https://www.aidanlawrence.com/mega-midi-a-playable-version-of-my-hardware-sega-genesis-synth/",
                 "id": 164371914,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-04-03T02:48:10Z",
+                "open_issues": 2,
                 "owner": "AidanHockey5",
                 "repo": "MegaMIDI",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -412,12 +599,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All in one acid bassline and groove box - run off a Raspberry Pi",
+                "homepage": null,
                 "id": 1264548131,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-17T07:57:14Z",
+                "open_issues": 2,
                 "owner": "lonesoulsurfer",
                 "repo": "Acid_Drip_Bassline_and_Drum_Synth",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -428,12 +620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YM2149F Teensy Synthesizer",
+                "homepage": null,
                 "id": 66615258,
                 "language": "Max",
+                "license": "GPL-3.0",
                 "last_commit": "2017-07-26T03:43:49Z",
+                "open_issues": 1,
                 "owner": "trash80",
                 "repo": "Ym2149Synth",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -444,12 +641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Playable effects modeled on the Teenage Engineering Pocket operator series. Featuring Teensy 4 for audio processing.",
+                "homepage": null,
                 "id": 230794019,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-09-18T16:37:08Z",
+                "open_issues": 7,
                 "owner": "mattvenn",
                 "repo": "teensy-audio-fx",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -460,12 +662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The POLY555 is a polyphonic, analog, square wave synth based on the 555 timer chip.",
+                "homepage": "https://www.oskitone.com/product/poly555-synth",
                 "id": 278250265,
                 "language": "OpenSCAD",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-23T19:15:05Z",
+                "open_issues": 0,
                 "owner": "oskitone",
                 "repo": "poly555",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -476,12 +683,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modular DSP platform that fits into your pocket! Comes with open-source codebase and schematics. Citadel compatible.",
+                "homepage": null,
                 "id": 1138201931,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-14T09:19:35Z",
+                "open_issues": 0,
                 "owner": "bastl-instruments",
                 "repo": "kastle2",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "audio-processing",
+                  "bastl",
+                  "diy-electronics",
+                  "diy-synth",
+                  "dsp",
+                  "eurorack",
+                  "fixed-point-arithmetic",
+                  "pi-pico",
+                  "rp2040",
+                  "synthesizer"
+                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -492,12 +715,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Polykit X1 is a DIY semi-modular, analog, patchable synthesizer",
+                "homepage": null,
                 "id": 523489974,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-12-24T09:02:54Z",
+                "open_issues": 0,
                 "owner": "polykit",
                 "repo": "polykit-x-monosynth",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "adsr",
+                  "analog",
+                  "diy",
+                  "kicad",
+                  "modular",
+                  "oscillator",
+                  "pcb",
+                  "schematics",
+                  "synth",
+                  "synthesizer",
+                  "vca",
+                  "vcf",
+                  "wavefolder"
+                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -508,12 +750,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 438248921,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-24T13:22:08Z",
+                "open_issues": 6,
                 "owner": "Meebleeps",
                 "repo": "MeeBleeps-Mutant-Synth",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -524,12 +771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "8-bit Programmable Synthesizer Module",
+                "homepage": "http://minimosynth.com/",
                 "id": 50959565,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-12-30T10:56:34Z",
+                "open_issues": 0,
                 "owner": "enveloop",
                 "repo": "miniMO",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -540,12 +792,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 8166763,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-04-09T10:08:21Z",
+                "open_issues": 4,
                 "owner": "hotchk155",
                 "repo": "Voici-Le-Strum",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -556,12 +813,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A portable, cheap, and easy to use, monophonic + polyphonic digital synthesizer for use with a MIDI controller",
+                "homepage": "https://hackaday.io/project/166460-kelpie-synth-module-for-keyboard-controllers",
                 "id": 190005842,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2020-10-17T16:58:05Z",
+                "open_issues": 3,
                 "owner": "friedpies",
                 "repo": "kelpie-pocket-synth",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -572,12 +834,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Teensy Beats Shield",
+                "homepage": null,
                 "id": 148588504,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2021-02-08T21:31:20Z",
+                "open_issues": 3,
                 "owner": "trailhead",
                 "repo": "teensy-beats",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -588,12 +855,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "N32B Midi controller project",
+                "homepage": null,
                 "id": 289689486,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-25T16:09:51Z",
+                "open_issues": 0,
                 "owner": "Shik-Tech",
                 "repo": "N32B",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -604,12 +876,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "USB to DIN midi converter/filter/router, sound generator",
+                "homepage": null,
                 "id": 424017837,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-12T13:32:59Z",
+                "open_issues": 1,
                 "owner": "pangrus",
                 "repo": "multi",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -620,12 +897,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MeeBlip triode monophonic MIDI synthesizer",
+                "homepage": null,
                 "id": 71398992,
                 "language": "Eagle",
+                "license": "GPL-3.0",
                 "last_commit": "2017-03-08T18:25:26Z",
+                "open_issues": 3,
                 "owner": "MeeBlip",
                 "repo": "meeblip-triode",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -636,12 +918,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stand Alone Midi Sequencer, for immediate visual interaction with hardware synthesizers",
+                "homepage": null,
                 "id": 650486950,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-17T04:45:23Z",
+                "open_issues": 0,
                 "owner": "CaratacusPotts",
                 "repo": "Matrix-Sequencer",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -652,12 +939,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minipops drum machine shield for Arduino Uno.",
+                "homepage": null,
                 "id": 126165379,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-10-30T14:10:44Z",
+                "open_issues": 5,
                 "owner": "NANOmodules",
                 "repo": "NANO-Minipops",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -668,12 +960,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ATtiny85-based sample machine with tempo-based effects.",
+                "homepage": "https://nyblcore.com",
                 "id": 612065761,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-01-25T19:31:52Z",
+                "open_issues": 1,
                 "owner": "schollz",
                 "repo": "nyblcore",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "amenbreak",
+                  "attiny85",
+                  "breakbeat"
+                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -684,12 +985,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MeeBlip Circuit Designs and Files",
+                "homepage": null,
                 "id": 2920156,
                 "language": null,
+                "license": null,
                 "last_commit": "2011-12-05T21:52:23Z",
+                "open_issues": 0,
                 "owner": "MeeBlip",
                 "repo": "meeblip-circuits",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -700,12 +1006,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MeeBlip Circuit Designs and Files",
+                "homepage": null,
                 "id": 2920156,
                 "language": null,
+                "license": null,
                 "last_commit": "2011-12-05T21:52:23Z",
+                "open_issues": 0,
                 "owner": "MeeBlip",
                 "repo": "meeblip-circuits",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -716,12 +1027,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Affordable DIY polyphonic hybrid single cycle / analog synthesizer",
+                "homepage": "http://gliglisynth.blogspot.com/search/label/overcycler",
                 "id": 13239035,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-14T23:56:54Z",
+                "open_issues": 5,
                 "owner": "gligli",
                 "repo": "overcycler",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "analog",
+                  "diy",
+                  "hybrid",
+                  "polyphonic",
+                  "synthesizer"
+                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -732,12 +1054,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-modulating ultra-chaos generator",
+                "homepage": "https://triglavmodular.hu/the-hypjolin",
                 "id": 528826036,
                 "language": null,
+                "license": "Unlicense",
                 "last_commit": "2023-07-21T15:32:29Z",
+                "open_issues": 0,
                 "owner": "triglav-modular",
                 "repo": "Hypjolin",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -748,12 +1075,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NOISFERATU is a compact handheld generative texture synthesizer. ",
+                "homepage": null,
                 "id": 1251144824,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-05T11:21:51Z",
+                "open_issues": 0,
                 "owner": "rob-scape",
                 "repo": "noisferatu",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -764,12 +1096,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Teensy based drum machine designed for Fasma Festival",
+                "homepage": null,
                 "id": 131713490,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2018-06-10T17:04:32Z",
+                "open_issues": 2,
                 "owner": "ghztomash",
                 "repo": "fasma_drum",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -780,12 +1117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "1 bit groovebox - printed circuit board version",
+                "homepage": "http://www.buranelectrix.com/lunchbeat/lunchbeat.php",
                 "id": 13936615,
                 "language": "C",
+                "license": null,
                 "last_commit": "2014-01-14T23:52:58Z",
+                "open_issues": 0,
                 "owner": "buranelectrix",
                 "repo": "lunchbeat-PCB",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -796,12 +1138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a small patchable synthesizer",
+                "homepage": null,
                 "id": 500201989,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-03-04T15:27:03Z",
+                "open_issues": 0,
                 "owner": "MattKuebrich",
                 "repo": "roundabout",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -812,12 +1159,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source modular micro analog synthesizer designed to facilitate the understanding of electronics, audio synthesis, audio theory, and filtering.",
+                "homepage": "http://tofstuff.com",
                 "id": 54579420,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-04-06T13:02:35Z",
+                "open_issues": 0,
                 "owner": "thomasfredericks",
                 "repo": "Op-Synth",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "analog",
+                  "art",
+                  "electronics",
+                  "hacking",
+                  "op-synth",
+                  "oscillator",
+                  "synthesizer"
+                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -828,12 +1188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ATtiny Punk Console Docs",
+                "homepage": null,
                 "id": 123983890,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-01-11T14:26:59Z",
+                "open_issues": 0,
                 "owner": "noisio",
                 "repo": "ATtiny-Punk-Console",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -844,12 +1209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://www.e-licktronic.com",
                 "id": 57316657,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-08-23T10:11:31Z",
+                "open_issues": 0,
                 "owner": "e-licktronic",
                 "repo": "Nava-v1.0",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -860,12 +1230,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fred's Lab ZeKit",
+                "homepage": "https://fredslab.net/en/zekit-module.php",
                 "id": 367029502,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-02-23T15:05:25Z",
+                "open_issues": 0,
                 "owner": "Marzac",
                 "repo": "zekit",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "analog",
+                  "c",
+                  "digital",
+                  "embedded",
+                  "firmware",
+                  "pic24",
+                  "synthesizer"
+                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -876,12 +1259,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A robot grand-child for my parents",
+                "homepage": null,
                 "id": 262630576,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2025-02-04T00:54:25Z",
+                "open_issues": 1,
                 "owner": "handeyeco",
                 "repo": "Grandbot",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -892,12 +1280,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(Very) basic standalone synths",
+                "homepage": null,
                 "id": 576917102,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-15T12:28:53Z",
+                "open_issues": 1,
                 "owner": "diysynth",
                 "repo": "STANDALONE-DEVICES",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -908,12 +1301,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Portable, analog, DIY synth",
+                "homepage": "https://diy-synths.snnkv.com/",
                 "id": 433946317,
                 "language": "Prolog",
+                "license": null,
                 "last_commit": "2025-03-29T22:24:02Z",
+                "open_issues": 0,
                 "owner": "Atarity",
                 "repo": "totoro-synth",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "analog",
+                  "diy-electronics",
+                  "open-source",
+                  "synth"
+                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -924,12 +1327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "usb midi keyboard + controls + stereo audio",
+                "homepage": null,
                 "id": 502480149,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-10-05T14:08:22Z",
+                "open_issues": 0,
                 "owner": "MattKuebrich",
                 "repo": "flounder",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -940,12 +1348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Protean - Motion Texture Source",
+                "homepage": null,
                 "id": 244594067,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-02T20:44:01Z",
+                "open_issues": 0,
                 "owner": "pangrus",
                 "repo": "Protean",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -956,12 +1369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All about Yocto V2.0 TR-808 clone",
+                "homepage": null,
                 "id": 527927500,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-09-27T06:51:23Z",
+                "open_issues": 0,
                 "owner": "e-licktronic",
                 "repo": "Yocto-V2.0",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -972,12 +1390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 922304371,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-23T22:40:30Z",
+                "open_issues": 0,
                 "owner": "uvknhn",
                 "repo": "Beam-Catcher",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -988,12 +1411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hidden Sound Explorer",
+                "homepage": null,
                 "id": 134702555,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-29T12:29:22Z",
+                "open_issues": 0,
                 "owner": "pangrus",
                 "repo": "HSE-Hidden_Sound_Explorer",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -1004,12 +1432,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mozard is a miniature digital synthesizer based on Mozzi and an Arduino Nano ATMEGA328p board",
+                "homepage": null,
                 "id": 57336192,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-04-23T15:24:22Z",
+                "open_issues": 0,
                 "owner": "thomasfredericks",
                 "repo": "Mozard",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -1020,12 +1453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NTH Music Synthesizer Design Source Package",
+                "homepage": null,
                 "id": 12635602,
                 "language": "Assembly",
+                "license": "NOASSERTION",
                 "last_commit": "2013-09-06T04:35:02Z",
+                "open_issues": 0,
                 "owner": "NTHSynth",
                 "repo": "NTH_DSP",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -1036,12 +1474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 519602419,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-04-08T19:42:31Z",
+                "open_issues": 0,
                 "owner": "SloBloLabs",
                 "repo": "LivSynth",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -1052,12 +1495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DIY Electronic Musical Instrument",
+                "homepage": null,
                 "id": 293319387,
                 "language": "nesC",
+                "license": null,
                 "last_commit": "2023-09-16T17:05:24Z",
+                "open_issues": 0,
                 "owner": "bjc01",
                 "repo": "D-D_Teensy",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -1068,12 +1516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keep is a mini modular, self-sequencing synth. ",
+                "homepage": null,
                 "id": 960611627,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-04T19:09:10Z",
+                "open_issues": 0,
                 "owner": "poetaster",
                 "repo": "keep",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -1084,12 +1537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Arduino shield that makes it easy to use a MOS Technology 6581/8580 SID chip (the famous C64 sound chip)",
+                "homepage": null,
                 "id": 103067599,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-09-11T13:51:53Z",
+                "open_issues": 0,
                 "owner": "emceha",
                 "repo": "RealSIDShield",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -1100,12 +1558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spires is an arpeggiating synth using time of flight sensors to drive digital oscillators.",
+                "homepage": null,
                 "id": 892500712,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-29T12:56:17Z",
+                "open_issues": 1,
                 "owner": "poetaster",
                 "repo": "spires",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             }
@@ -1114,12 +1577,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "List of open-source synths 🎹",
+            "homepage": "https://diy-synths.snnkv.com",
             "id": 412188228,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-06-27T20:45:11Z",
+            "open_issues": 0,
             "owner": "Atarity",
             "repo": "diy-synths",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "awesome-list",
+              "diy",
+              "hardware",
+              "list",
+              "open-source",
+              "sound",
+              "synth",
+              "synthesizer"
+            ]
           },
           "title": "WEB VERSION / SUBMIT DESIGN / DISCUSSION",
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1129,15 +1606,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:29:52.019Z",
+    "last_updated": "2026-08-29T04:42:00.290Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of open-source synths 🎹",
+      "homepage": "https://diy-synths.snnkv.com",
       "id": 412188228,
       "language": "JavaScript",
+      "license": null,
       "last_commit": "2026-06-27T20:45:11Z",
+      "open_issues": 0,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 563
+      "stars": 563,
+      "topics": [
+        "awesome-list",
+        "diy",
+        "hardware",
+        "list",
+        "open-source",
+        "sound",
+        "synth",
+        "synthesizer"
+      ]
     },
     "original_repository_sha": "0d58563eca06af84e7722975dc80018277c0074e",
     "enhanced_repository": "enhansome/enhansome-diy-synths",
