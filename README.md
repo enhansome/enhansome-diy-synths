@@ -15,11 +15,11 @@ your building experience.
 3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,654 | 🐛 81 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
 4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 950 | 🐛 0 | 🌐 C++ | 📅 2026-08-03 — Platform for ultimate MIDI control deck building
 5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 637 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
-6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 498 | 🐛 170 | 🌐 C++ | 📅 2026-08-25 — Low cost music tracker platform
+6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 498 | 🐛 171 | 🌐 C++ | 📅 2026-08-25 — Low cost music tracker platform
 7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 445 | 🐛 29 | 🌐 C++ | 📅 2026-07-04 — Suzuki's Omnichord-like pocket instrument based on Teensy
 8. [Portable synth](https://github.com/prajwal1121/Portable-Synth) ⭐ 445 | 🐛 2 | 🌐 C++ | 📅 2021-10-12 — OP-1 style portable groovebox based on Teensy 4
-9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 381 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
-10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 352 | 🐛 27 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
+9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 382 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
+10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 353 | 🐛 27 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
 11. [PicoStepSeq](https://github.com/todbot/picostepseq) ⭐ 349 | 🐛 3 | 🌐 C | 📅 2025-10-19 — 8-step MIDI sequencer
 12. [Aciduino](https://github.com/midilab/aciduino/tree/master/v1/) ⭐ 328 | 🐛 2 | 🌐 C++ | 📅 2025-11-27 — Roland TB-303 step sequencer clone aimed for live interaction
 13. [Kastle](https://github.com/bastl-instruments/kastle) ⭐ 265 | 🐛 10 | 🌐 C | 📅 2025-01-29 — Lo-fi, pocketable modular synth
@@ -33,7 +33,7 @@ your building experience.
 21. [Wirehead Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) ⭐ 139 | 🐛 9 | 🌐 G-code | 📅 2024-10-24 — Dual-voice, 2 operator, 8-bit FM synth in Volca form-factor
 22. [DrumKid](https://github.com/mattybrad/drumkid) ⭐ 137 | 🐛 12 | 🌐 HTML | 📅 2025-03-27 — Lo-fi aleatoric Arduino drum machine
 23. [Hog](https://github.com/shmoergh/hog/) ⭐ 123 | 🐛 10 | 🌐 C++ | 📅 2025-07-13 — Double-voice analog monophonic synthesizer with two oscillators
-24. [NESizer2](https://github.com/Jaffe-/NESizer2/tree/master) ⭐ 122 | 🐛 11 | 🌐 C | 📅 2024-10-31 — NES 2A03 chip controlled by ATmega328 with battery backed patch memory
+24. [NESizer2](https://github.com/Jaffe-/NESizer2/tree/master) ⭐ 123 | 🐛 11 | 🌐 C | 📅 2024-10-31 — NES 2A03 chip controlled by ATmega328 with battery backed patch memory
 25. [Mega MIDI](https://github.com/AidanHockey5/MegaMIDI) ⭐ 116 | 🐛 2 | 🌐 C++ | 📅 2022-04-03 — MIDI-compatible Sega Genesis/Megadrive synthesizer with real sound chips
 26. [Acid Drip](https://github.com/lonesoulsurfer/Acid_Drip_Bassline_and_Drum_Synth) ⭐ 112 | 🐛 2 | 🌐 C++ | 📅 2026-08-17 — Acid bassline synth and drum machine
 27. [YM2149 Synth](https://github.com/trash80/Ym2149Synth) ⭐ 111 | 🐛 1 | 🌐 Max | 📅 2017-07-26 — Little chip that was used in various retro arcade machines and consoles now ready to serve
@@ -109,4 +109,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
