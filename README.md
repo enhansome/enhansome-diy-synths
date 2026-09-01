@@ -1,22 +1,22 @@
 # Awesome diy synths with stars
 
-## [WEB VERSION](https://diy-synths.snnkv.com/)  /  [SUBMIT DESIGN](https://github.com/Atarity/diy-synths/discussions) ⭐ 564 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27  /  [DISCUSSION](https://github.com/Atarity/diy-synths/discussions) ⭐ 564 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
+## [WEB VERSION](https://diy-synths.snnkv.com/)  /  [SUBMIT DESIGN](https://github.com/Atarity/diy-synths/discussions) ⭐ 565 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27  /  [DISCUSSION](https://github.com/Atarity/diy-synths/discussions) ⭐ 565 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
 
 This is a list of synthesizers and related hardware you can build
 on your own. All designs are open-source including firmware.
-[Submit designs](https://github.com/Atarity/diy-synths/discussions) ⭐ 564 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27 which is not
-in list and [discuss](https://github.com/Atarity/diy-synths/discussions) ⭐ 564 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
+[Submit designs](https://github.com/Atarity/diy-synths/discussions) ⭐ 565 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27 which is not
+in list and [discuss](https://github.com/Atarity/diy-synths/discussions) ⭐ 565 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
 your building experience.
 
 ![DIY-synths-title](/pics/meta/repo-title.jpg)
 
 1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,740 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
 2. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) ⚠️ Archived — An experimental physical interface for the NSynth AI algorithm
-3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,656 | 🐛 81 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
+3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,659 | 🐛 82 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
 4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 950 | 🐛 0 | 🌐 C++ | 📅 2026-08-03 — Platform for ultimate MIDI control deck building
 5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 637 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
 6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 498 | 🐛 171 | 🌐 C++ | 📅 2026-08-25 — Low cost music tracker platform
-7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 445 | 🐛 29 | 🌐 C++ | 📅 2026-07-04 — Suzuki's Omnichord-like pocket instrument based on Teensy
+7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 446 | 🐛 29 | 🌐 C++ | 📅 2026-07-04 — Suzuki's Omnichord-like pocket instrument based on Teensy
 8. [Portable synth](https://github.com/prajwal1121/Portable-Synth) ⭐ 445 | 🐛 2 | 🌐 C++ | 📅 2021-10-12 — OP-1 style portable groovebox based on Teensy 4
 9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 382 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
 10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 353 | 🐛 27 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
@@ -56,7 +56,7 @@ your building experience.
 44. [Meeblip SE](https://github.com/MeeBlip/meeblip-circuits) ⭐ 45 | 🐛 0 | 📅 2011-12-05 — Hackable monophonic synth
 45. [Overcycler](https://github.com/gligli/overcycler) ⭐ 44 | 🐛 5 | 🌐 C | 📅 2025-07-14 — Polyphonic hybrid single cycle / analog synthesizer
 46. [Hypjolin](https://github.com/triglav-modular/Hypjolin) ⭐ 43 | 🐛 0 | 📅 2023-07-21 — Cross-modulating ultra-chaos generator
-47. [Noisferatu](https://github.com/rob-scape/noisferatu) ⭐ 38 | 🐛 0 | 🌐 C | 📅 2026-08-05 — Compact, generative texture synthesizer
+47. [Noisferatu](https://github.com/rob-scape/noisferatu) ⭐ 40 | 🐛 0 | 🌐 C | 📅 2026-08-05 — Compact, generative texture synthesizer
 48. [Fasma Festival](https://github.com/ghztomash/fasma_drum) ⭐ 34 | 🐛 2 | 🌐 C++ | 📅 2018-06-10 — Yet another Teensy drum machine with clock sync
 49. [Lunchbeat](https://github.com/buranelectrix/lunchbeat-PCB) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2014-01-14 — 1-bit percussion sounds and a sequencer
 50. [Roundabout](https://github.com/MattKuebrich/roundabout) ⭐ 33 | 🐛 0 | 📅 2024-03-04 — Compact, CMOS-based, patchable synth
@@ -70,7 +70,7 @@ your building experience.
 58. [Flounder](https://github.com/MattKuebrich/flounder) ⭐ 17 | 🐛 0 | 🌐 C++ | 📅 2023-10-05 — Teensy based USB midi keyboard + controls + stereo audio
 59. [Protean](https://github.com/pangrus/Protean) ⭐ 17 | 🐛 0 | 🌐 C++ | 📅 2023-11-02 — CMOS-based motion texture source
 60. [Yocto](https://github.com/e-licktronic/Yocto-V2.0) ⭐ 15 | 🐛 0 | 🌐 C++ | 📅 2023-09-27 — Clone of Roland TR-808 drum machine
-61. [Beam Catcher](https://github.com/uvknhn/Beam-Catcher) ⭐ 13 | 🐛 0 | 📅 2025-02-23 — Analog light-based synthesizer
+61. [Beam Catcher](https://github.com/uvknhn/Beam-Catcher) ⭐ 13 | 🐛 0 | 📅 2026-08-31 — Analog light-based synthesizer
 62. [Hidden Sound Explorer](https://github.com/pangrus/HSE-Hidden_Sound_Explorer) ⭐ 12 | 🐛 0 | 📅 2022-04-29 — Electromagnetic fields analog transducer
 63. [Mozard](https://github.com/thomasfredericks/Mozard) ⭐ 7 | 🐛 0 | 🌐 HTML | 📅 2025-04-23 — Arduino, Mozzi -based, 6 engines synth
 64. [NTH synth](https://github.com/NTHSynth/NTH_DSP) ⭐ 7 | 🐛 0 | 🌐 Assembly | 📅 2013-09-06 — 8-bit hackable mono synth
@@ -109,4 +109,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

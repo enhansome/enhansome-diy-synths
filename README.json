@@ -69,10 +69,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-04-18T09:39:51Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "probonopd",
                 "repo": "MiniDexed",
-                "stars": 1656,
+                "stars": 1659,
                 "topics": [
                   "frequency-modulation",
                   "raspberry-pi",
@@ -168,7 +168,7 @@
                 "open_issues": 29,
                 "owner": "BenjaminPoilve",
                 "repo": "minichord",
-                "stars": 445,
+                "stars": 446,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1084,7 +1084,7 @@
                 "open_issues": 0,
                 "owner": "rob-scape",
                 "repo": "noisferatu",
-                "stars": 38,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1395,7 +1395,7 @@
                 "id": 922304371,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2025-02-23T22:40:30Z",
+                "last_commit": "2026-08-31T22:50:37Z",
                 "open_issues": 0,
                 "owner": "uvknhn",
                 "repo": "Beam-Catcher",
@@ -1586,7 +1586,7 @@
             "open_issues": 0,
             "owner": "Atarity",
             "repo": "diy-synths",
-            "stars": 564,
+            "stars": 565,
             "topics": [
               "awesome-list",
               "diy",
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T15:13:13.669Z",
+    "last_updated": "2026-09-01T12:38:15.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1618,7 +1618,7 @@
       "open_issues": 0,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 564,
+      "stars": 565,
       "topics": [
         "awesome-list",
         "diy",
