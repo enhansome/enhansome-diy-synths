@@ -97,7 +97,7 @@
                 "open_issues": 0,
                 "owner": "shanteacontrols",
                 "repo": "OpenDeck",
-                "stars": 950,
+                "stars": 951,
                 "topics": [
                   "midi",
                   "midi-controller",
@@ -168,7 +168,7 @@
                 "open_issues": 29,
                 "owner": "BenjaminPoilve",
                 "repo": "minichord",
-                "stars": 446,
+                "stars": 447,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -189,7 +189,7 @@
                 "open_issues": 2,
                 "owner": "prajwal1121",
                 "repo": "Portable-Synth",
-                "stars": 445,
+                "stars": 446,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1084,7 +1084,7 @@
                 "open_issues": 0,
                 "owner": "rob-scape",
                 "repo": "noisferatu",
-                "stars": 40,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1378,7 +1378,7 @@
                 "open_issues": 0,
                 "owner": "e-licktronic",
                 "repo": "Yocto-V2.0",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T12:38:15.308Z",
+    "last_updated": "2026-09-02T12:10:18.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
