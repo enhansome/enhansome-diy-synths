@@ -72,7 +72,7 @@
                 "open_issues": 82,
                 "owner": "probonopd",
                 "repo": "MiniDexed",
-                "stars": 1659,
+                "stars": 1660,
                 "topics": [
                   "frequency-modulation",
                   "raspberry-pi",
@@ -147,7 +147,7 @@
                 "open_issues": 171,
                 "owner": "xiphonics",
                 "repo": "picoTracker",
-                "stars": 498,
+                "stars": 500,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -313,7 +313,7 @@
                 "open_issues": 10,
                 "owner": "bastl-instruments",
                 "repo": "kastle",
-                "stars": 265,
+                "stars": 267,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -366,7 +366,7 @@
                 "open_issues": 17,
                 "owner": "plinkysynth",
                 "repo": "plinky_public",
-                "stars": 217,
+                "stars": 218,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -531,27 +531,6 @@
             },
             {
               "node_type": "item",
-              "title": "Hog",
-              "description": "Double-voice analog monophonic synthesizer with two oscillators",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Fully analog two-voice monophonic synth for live performances",
-                "homepage": "https://www.shmoergh.com",
-                "id": 879273351,
-                "language": "C++",
-                "license": null,
-                "last_commit": "2025-07-13T10:46:41Z",
-                "open_issues": 10,
-                "owner": "shmoergh",
-                "repo": "hog",
-                "stars": 123,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:29:52.019Z"
-            },
-            {
-              "node_type": "item",
               "title": "NESizer2",
               "description": "NES 2A03 chip controlled by ATmega328 with battery backed patch memory",
               "children": [],
@@ -566,6 +545,27 @@
                 "open_issues": 11,
                 "owner": "Jaffe-",
                 "repo": "NESizer2",
+                "stars": 124,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Hog",
+              "description": "Double-voice analog monophonic synthesizer with two oscillators",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fully analog two-voice monophonic synth for live performances",
+                "homepage": "https://www.shmoergh.com",
+                "id": 879273351,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2025-07-13T10:46:41Z",
+                "open_issues": 10,
+                "owner": "shmoergh",
+                "repo": "hog",
                 "stars": 123,
                 "topics": []
               },
@@ -636,6 +636,38 @@
             },
             {
               "node_type": "item",
+              "title": "Kastle 2",
+              "description": "Patchable, pocketable and open platforrm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A modular DSP platform that fits into your pocket! Comes with open-source codebase and schematics. Citadel compatible.",
+                "homepage": null,
+                "id": 1138201931,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-08-14T09:19:35Z",
+                "open_issues": 0,
+                "owner": "bastl-instruments",
+                "repo": "kastle2",
+                "stars": 96,
+                "topics": [
+                  "audio-processing",
+                  "bastl",
+                  "diy-electronics",
+                  "diy-synth",
+                  "dsp",
+                  "eurorack",
+                  "fixed-point-arithmetic",
+                  "pi-pico",
+                  "rp2040",
+                  "synthesizer"
+                ]
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
+            },
+            {
+              "node_type": "item",
               "title": "Teensy Audio FX",
               "description": "Playable effects modeled on the Teenage Engineering PO series",
               "children": [],
@@ -673,38 +705,6 @@
                 "repo": "poly555",
                 "stars": 90,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T19:29:52.019Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Kastle 2",
-              "description": "Patchable, pocketable and open platforrm",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A modular DSP platform that fits into your pocket! Comes with open-source codebase and schematics. Citadel compatible.",
-                "homepage": null,
-                "id": 1138201931,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2026-08-14T09:19:35Z",
-                "open_issues": 0,
-                "owner": "bastl-instruments",
-                "repo": "kastle2",
-                "stars": 88,
-                "topics": [
-                  "audio-processing",
-                  "bastl",
-                  "diy-electronics",
-                  "diy-synth",
-                  "dsp",
-                  "eurorack",
-                  "fixed-point-arithmetic",
-                  "pi-pico",
-                  "rp2040",
-                  "synthesizer"
-                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:10:18.766Z",
+    "last_updated": "2026-09-03T12:10:04.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
