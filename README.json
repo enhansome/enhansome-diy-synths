@@ -97,7 +97,7 @@
                 "open_issues": 0,
                 "owner": "shanteacontrols",
                 "repo": "OpenDeck",
-                "stars": 951,
+                "stars": 952,
                 "topics": [
                   "midi",
                   "midi-controller",
@@ -126,7 +126,7 @@
                 "open_issues": 1,
                 "owner": "monome",
                 "repo": "norns-shield",
-                "stars": 637,
+                "stars": 638,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -650,7 +650,7 @@
                 "open_issues": 0,
                 "owner": "bastl-instruments",
                 "repo": "kastle2",
-                "stars": 96,
+                "stars": 97,
                 "topics": [
                   "audio-processing",
                   "bastl",
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:11:07.254Z",
+    "last_updated": "2026-09-05T11:18:52.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
