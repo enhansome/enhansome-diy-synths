@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "bitfieldaudio",
                 "repo": "OTTO",
-                "stars": 2740,
+                "stars": 2739,
                 "topics": [
                   "audio",
                   "audio-processing",
@@ -51,7 +51,7 @@
                 "open_issues": 45,
                 "owner": "googlecreativelab",
                 "repo": "open-nsynth-super",
-                "stars": 2493,
+                "stars": 2492,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -72,7 +72,7 @@
                 "open_issues": 82,
                 "owner": "probonopd",
                 "repo": "MiniDexed",
-                "stars": 1662,
+                "stars": 1664,
                 "topics": [
                   "frequency-modulation",
                   "raspberry-pi",
@@ -147,7 +147,7 @@
                 "open_issues": 171,
                 "owner": "xiphonics",
                 "repo": "picoTracker",
-                "stars": 500,
+                "stars": 501,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -231,7 +231,7 @@
                 "open_issues": 27,
                 "owner": "rasteri",
                 "repo": "SC1000",
-                "stars": 352,
+                "stars": 353,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -650,7 +650,7 @@
                 "open_issues": 0,
                 "owner": "bastl-instruments",
                 "repo": "kastle2",
-                "stars": 97,
+                "stars": 98,
                 "topics": [
                   "audio-processing",
                   "bastl",
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:18:52.090Z",
+    "last_updated": "2026-09-06T11:42:18.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
