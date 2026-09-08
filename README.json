@@ -231,7 +231,7 @@
                 "open_issues": 28,
                 "owner": "rasteri",
                 "repo": "SC1000",
-                "stars": 353,
+                "stars": 354,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -405,7 +405,7 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2026-05-29T06:57:11Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "shmoergh",
                 "repo": "moduleur",
                 "stars": 211,
@@ -650,7 +650,7 @@
                 "open_issues": 0,
                 "owner": "bastl-instruments",
                 "repo": "kastle2",
-                "stars": 99,
+                "stars": 100,
                 "topics": [
                   "audio-processing",
                   "bastl",
@@ -1154,6 +1154,27 @@
             },
             {
               "node_type": "item",
+              "title": "ATtiny Punk Console",
+              "description": "ATtiny85 implementation of Atari Punk Console",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ATtiny Punk Console Docs",
+                "homepage": null,
+                "id": 123983890,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2023-01-11T14:26:59Z",
+                "open_issues": 0,
+                "owner": "noisio",
+                "repo": "ATtiny-Punk-Console",
+                "stars": 29,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
+            },
+            {
+              "node_type": "item",
               "title": "OP-Synth",
               "description": "Modular micro analog synth",
               "children": [],
@@ -1178,27 +1199,6 @@
                   "oscillator",
                   "synthesizer"
                 ]
-              },
-              "first_seen": "2026-08-28T19:29:52.019Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ATtiny Punk Console",
-              "description": "ATtiny85 implementation of Atari Punk Console",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ATtiny Punk Console Docs",
-                "homepage": null,
-                "id": 123983890,
-                "language": "C++",
-                "license": null,
-                "last_commit": "2023-01-11T14:26:59Z",
-                "open_issues": 0,
-                "owner": "noisio",
-                "repo": "ATtiny-Punk-Console",
-                "stars": 28,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T13:34:56.366Z",
+    "last_updated": "2026-09-08T12:12:26.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
