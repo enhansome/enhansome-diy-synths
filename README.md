@@ -13,12 +13,12 @@ your building experience.
 1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,739 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
 2. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) ⚠️ Archived — An experimental physical interface for the NSynth AI algorithm
 3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,665 | 🐛 82 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
-4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 953 | 🐛 0 | 🌐 C++ | 📅 2026-08-03 — Platform for ultimate MIDI control deck building
-5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 638 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
+4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 954 | 🐛 0 | 🌐 C++ | 📅 2026-08-03 — Platform for ultimate MIDI control deck building
+5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 639 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
 6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 501 | 🐛 171 | 🌐 C++ | 📅 2026-08-25 — Low cost music tracker platform
-7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 448 | 🐛 29 | 🌐 C++ | 📅 2026-07-04 — Suzuki's Omnichord-like pocket instrument based on Teensy
+7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 448 | 🐛 27 | 🌐 C++ | 📅 2026-07-04 — Suzuki's Omnichord-like pocket instrument based on Teensy
 8. [Portable synth](https://github.com/prajwal1121/Portable-Synth) ⭐ 447 | 🐛 2 | 🌐 C++ | 📅 2021-10-12 — OP-1 style portable groovebox based on Teensy 4
-9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 382 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
+9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 383 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
 10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 354 | 🐛 28 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
 11. [PicoStepSeq](https://github.com/todbot/picostepseq) ⭐ 350 | 🐛 3 | 🌐 C | 📅 2025-10-19 — 8-step MIDI sequencer
 12. [Aciduino](https://github.com/midilab/aciduino/tree/master/v1/) ⭐ 328 | 🐛 2 | 🌐 C++ | 📅 2025-11-27 — Roland TB-303 step sequencer clone aimed for live interaction
@@ -54,9 +54,9 @@ your building experience.
 42. [Nyblcore](https://github.com/schollz/nyblcore) ⭐ 46 | 🐛 1 | 🌐 C++ | 📅 2026-01-25 — Tiny ATtiny85-based sample player device
 43. [Meeblip Micro](https://github.com/MeeBlip/meeblip-circuits) ⭐ 45 | 🐛 0 | 📅 2011-12-05 — Hackable monophonic synth
 44. [Meeblip SE](https://github.com/MeeBlip/meeblip-circuits) ⭐ 45 | 🐛 0 | 📅 2011-12-05 — Hackable monophonic synth
-45. [Noisferatu](https://github.com/rob-scape/noisferatu) ⭐ 44 | 🐛 0 | 🌐 C | 📅 2026-08-05 — Compact, generative texture synthesizer
-46. [Overcycler](https://github.com/gligli/overcycler) ⭐ 44 | 🐛 5 | 🌐 C | 📅 2025-07-14 — Polyphonic hybrid single cycle / analog synthesizer
-47. [Hypjolin](https://github.com/triglav-modular/Hypjolin) ⭐ 43 | 🐛 0 | 📅 2023-07-21 — Cross-modulating ultra-chaos generator
+45. [Hypjolin](https://github.com/triglav-modular/Hypjolin) ⭐ 44 | 🐛 0 | 📅 2023-07-21 — Cross-modulating ultra-chaos generator
+46. [Noisferatu](https://github.com/rob-scape/noisferatu) ⭐ 44 | 🐛 0 | 🌐 C | 📅 2026-08-05 — Compact, generative texture synthesizer
+47. [Overcycler](https://github.com/gligli/overcycler) ⭐ 44 | 🐛 5 | 🌐 C | 📅 2025-07-14 — Polyphonic hybrid single cycle / analog synthesizer
 48. [Fasma Festival](https://github.com/ghztomash/fasma_drum) ⭐ 34 | 🐛 2 | 🌐 C++ | 📅 2018-06-10 — Yet another Teensy drum machine with clock sync
 49. [Lunchbeat](https://github.com/buranelectrix/lunchbeat-PCB) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2014-01-14 — 1-bit percussion sounds and a sequencer
 50. [Roundabout](https://github.com/MattKuebrich/roundabout) ⭐ 33 | 🐛 0 | 📅 2024-03-04 — Compact, CMOS-based, patchable synth
@@ -109,4 +109,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
