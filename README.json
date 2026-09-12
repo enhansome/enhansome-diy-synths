@@ -165,7 +165,7 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-07-04T07:32:44Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "BenjaminPoilve",
                 "repo": "minichord",
                 "stars": 448,
@@ -231,7 +231,7 @@
                 "open_issues": 28,
                 "owner": "rasteri",
                 "repo": "SC1000",
-                "stars": 354,
+                "stars": 355,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -408,7 +408,7 @@
                 "open_issues": 10,
                 "owner": "shmoergh",
                 "repo": "moduleur",
-                "stars": 211,
+                "stars": 212,
                 "topics": [
                   "analog",
                   "diy",
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:15:51.632Z",
+    "last_updated": "2026-09-12T11:39:50.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",

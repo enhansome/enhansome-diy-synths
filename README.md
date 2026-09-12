@@ -16,17 +16,17 @@ your building experience.
 4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 954 | 🐛 0 | 🌐 C++ | 📅 2026-08-03 — Platform for ultimate MIDI control deck building
 5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 639 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
 6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 501 | 🐛 171 | 🌐 C++ | 📅 2026-08-25 — Low cost music tracker platform
-7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 448 | 🐛 37 | 🌐 C++ | 📅 2026-07-04 — Suzuki's Omnichord-like pocket instrument based on Teensy
+7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 448 | 🐛 38 | 🌐 C++ | 📅 2026-07-04 — Suzuki's Omnichord-like pocket instrument based on Teensy
 8. [Portable synth](https://github.com/prajwal1121/Portable-Synth) ⭐ 447 | 🐛 2 | 🌐 C++ | 📅 2021-10-12 — OP-1 style portable groovebox based on Teensy 4
 9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 383 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
-10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 354 | 🐛 28 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
+10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 355 | 🐛 28 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
 11. [PicoStepSeq](https://github.com/todbot/picostepseq) ⭐ 350 | 🐛 3 | 🌐 C | 📅 2025-10-19 — 8-step MIDI sequencer
 12. [Aciduino](https://github.com/midilab/aciduino/tree/master/v1/) ⭐ 328 | 🐛 2 | 🌐 C++ | 📅 2025-11-27 — Roland TB-303 step sequencer clone aimed for live interaction
 13. [Kastle](https://github.com/bastl-instruments/kastle) ⭐ 267 | 🐛 10 | 🌐 C | 📅 2025-01-29 — Lo-fi, pocketable modular synth
 14. [Polaron](https://github.com/zueblin/Polaron) ⭐ 223 | 🐛 0 | 🌐 C++ | 📅 2020-09-05 — Digital drum machine based on Teensy 3
 15. [Plinky](https://github.com/plinkysynth/plinky_public/tree/main) ⭐ 219 | 🐛 17 | 🌐 C | 📅 2025-10-31 — 8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds
 16. [ArduTouch](https://github.com/maltman23/ArduTouch) ⭐ 214 | 🐛 2 | 🌐 C++ | 📅 2021-01-03 — Arduino-compatible music synthesizer
-17. [Moduleur](https://github.com/shmoergh/moduleur) ⭐ 211 | 🐛 10 | 🌐 HTML | 📅 2026-05-29 — Double-voice analog modular design with a touch of digital magic
+17. [Moduleur](https://github.com/shmoergh/moduleur) ⭐ 212 | 🐛 10 | 🌐 HTML | 📅 2026-05-29 — Double-voice analog modular design with a touch of digital magic
 18. [Pikocore](https://github.com/schollz/pikocore) ⭐ 173 | 🐛 5 | 🌐 C++ | 📅 2026-08-12 — Hackable, lo-fi music mangler based on the Raspberry Pi Pico
 19. [Zeptocore](https://github.com/schollz/_core) ⭐ 154 | 🐛 13 | 🌐 C | 📅 2026-08-16 — Player and synthesizer, featuring stereo playback
 20. [PreenFM 2](https://github.com/Ixox/preenfm2) ⭐ 149 | 🐛 12 | 🌐 C | 📅 2024-03-23 — Beloved old FM synthesis in small, modern DIY box
@@ -109,4 +109,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
