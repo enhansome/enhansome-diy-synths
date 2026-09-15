@@ -1,22 +1,22 @@
 # Awesome diy synths with stars
 
-## [WEB VERSION](https://diy-synths.snnkv.com/)  /  [SUBMIT DESIGN](https://github.com/Atarity/diy-synths/discussions) ⭐ 568 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27  /  [DISCUSSION](https://github.com/Atarity/diy-synths/discussions) ⭐ 568 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
+## [WEB VERSION](https://diy-synths.snnkv.com/)  /  [SUBMIT DESIGN](https://github.com/Atarity/diy-synths/discussions) ⭐ 569 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27  /  [DISCUSSION](https://github.com/Atarity/diy-synths/discussions) ⭐ 569 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
 
 This is a list of synthesizers and related hardware you can build
 on your own. All designs are open-source including firmware.
-[Submit designs](https://github.com/Atarity/diy-synths/discussions) ⭐ 568 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27 which is not
-in list and [discuss](https://github.com/Atarity/diy-synths/discussions) ⭐ 568 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
+[Submit designs](https://github.com/Atarity/diy-synths/discussions) ⭐ 569 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27 which is not
+in list and [discuss](https://github.com/Atarity/diy-synths/discussions) ⭐ 569 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
 your building experience.
 
 ![DIY-synths-title](/pics/meta/repo-title.jpg)
 
-1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,740 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
+1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,741 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
 2. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) ⚠️ Archived — An experimental physical interface for the NSynth AI algorithm
-3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,670 | 🐛 82 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
+3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,676 | 🐛 82 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
 4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 954 | 🐛 0 | 🌐 C++ | 📅 2026-08-03 — Platform for ultimate MIDI control deck building
 5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 640 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
-6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 503 | 🐛 171 | 🌐 C++ | 📅 2026-08-25 — Low cost music tracker platform
-7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 449 | 🐛 40 | 🌐 C++ | 📅 2026-07-04 — Suzuki's Omnichord-like pocket instrument based on Teensy
+6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 504 | 🐛 172 | 🌐 C++ | 📅 2026-09-15 — Low cost music tracker platform
+7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 449 | 🐛 33 | 🌐 C++ | 📅 2026-09-15 — Suzuki's Omnichord-like pocket instrument based on Teensy
 8. [Portable synth](https://github.com/prajwal1121/Portable-Synth) ⭐ 447 | 🐛 2 | 🌐 C++ | 📅 2021-10-12 — OP-1 style portable groovebox based on Teensy 4
 9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 383 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
 10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 355 | 🐛 28 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
@@ -35,12 +35,12 @@ your building experience.
 23. [NESizer2](https://github.com/Jaffe-/NESizer2/tree/master) ⭐ 124 | 🐛 11 | 🌐 C | 📅 2024-10-31 — NES 2A03 chip controlled by ATmega328 with battery backed patch memory
 24. [Hog](https://github.com/shmoergh/hog/) ⭐ 123 | 🐛 10 | 🌐 C++ | 📅 2025-07-13 — Double-voice analog monophonic synthesizer with two oscillators
 25. [Mega MIDI](https://github.com/AidanHockey5/MegaMIDI) ⭐ 116 | 🐛 2 | 🌐 C++ | 📅 2022-04-03 — MIDI-compatible Sega Genesis/Megadrive synthesizer with real sound chips
-26. [Acid Drip](https://github.com/lonesoulsurfer/Acid_Drip_Bassline_and_Drum_Synth) ⭐ 113 | 🐛 3 | 🌐 C++ | 📅 2026-09-13 — Acid bassline synth and drum machine
+26. [Acid Drip](https://github.com/lonesoulsurfer/Acid_Drip_Bassline_and_Drum_Synth) ⭐ 114 | 🐛 3 | 🌐 C++ | 📅 2026-09-13 — Acid bassline synth and drum machine
 27. [YM2149 Synth](https://github.com/trash80/Ym2149Synth) ⭐ 111 | 🐛 1 | 🌐 Max | 📅 2017-07-26 — Little chip that was used in various retro arcade machines and consoles now ready to serve
 28. [Kastle 2](https://github.com/bastl-instruments/kastle2) ⭐ 101 | 🐛 0 | 🌐 C++ | 📅 2026-08-14 — Patchable, pocketable and open platforrm
 29. [Teensy Audio FX](https://github.com/mattvenn/teensy-audio-fx) ⭐ 93 | 🐛 7 | 🌐 C++ | 📅 2021-09-18 — Playable effects modeled on the Teenage Engineering PO series
 30. [POLY555](https://github.com/oskitone/poly555) ⭐ 91 | 🐛 0 | 🌐 OpenSCAD | 📅 2024-11-23 — Polyphonic, analog, square wave synth based on the 555 timer
-31. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) ⭐ 88 | 🐛 0 | 📅 2023-12-24 — Full analog, semi modular synthesizer
+31. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) ⭐ 89 | 🐛 0 | 📅 2023-12-24 — Full analog, semi modular synthesizer
 32. [Wirehead Mutant](https://github.com/Meebleeps/MeeBleeps-Mutant-Synth) ⭐ 85 | 🐛 6 | 🌐 C++ | 📅 2024-10-24 — 8-bit, 2-oscillator subtractive Arduino synth for generative techno in Volca form-factor
 33. [MiniMO](https://github.com/enveloop/miniMO) ⭐ 76 | 🐛 0 | 🌐 C++ | 📅 2020-12-30 — ATtiny85 mini modular system
 34. [Le Strum](https://github.com/hotchk155/Voici-Le-Strum) ⭐ 70 | 🐛 4 | 🌐 C | 📅 2025-04-09 — Compact and simple yet funny MIDI strummer
@@ -76,8 +76,8 @@ your building experience.
 64. [NTH synth](https://github.com/NTHSynth/NTH_DSP) ⭐ 7 | 🐛 0 | 🌐 Assembly | 📅 2013-09-06 — 8-bit hackable mono synth
 65. [S54 Liv's Synth](https://github.com/SloBloLabs/LivSynth) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2025-04-08 — Hybrid mono synth with full analogue signal path
 66. [Drone & Drama](https://github.com/bjc01/D-D_Teensy) ⭐ 5 | 🐛 0 | 🌐 nesC | 📅 2023-09-16 — Simple Teensy-based drone synth
-67. [Keep](https://github.com/poetaster/keep) ⭐ 4 | 🐛 0 | 📅 2025-04-04 — Self-modulating analog synth based on the ancient XR 2206 IC
-68. [Real SID shield](https://github.com/emceha/RealSIDShield) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2017-09-11 — Digital interface to SID chip of Commodore 64
+67. [Real SID shield](https://github.com/emceha/RealSIDShield) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2017-09-11 — Digital interface to SID chip of Commodore 64
+68. [Keep](https://github.com/poetaster/keep) ⭐ 4 | 🐛 0 | 📅 2025-04-04 — Self-modulating analog synth based on the ancient XR 2206 IC
 69. [Spires](https://github.com/poetaster/spires) ⭐ 2 | 🐛 1 | 🌐 C++ | 📅 2026-03-29 — Laser arpeggiator
 70. [Ambika](https://mutable-instruments.net/archive/) — Multi-voice, hybrid synthesizer. Descendant of Shruthi.
 71. [Anushri](https://mutable-instruments.net/archive/) — Analog monosynth with a lo-fi digital drums
@@ -109,4 +109,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
