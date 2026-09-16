@@ -143,11 +143,11 @@
                 "id": 624427818,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T12:25:30Z",
-                "open_issues": 172,
+                "last_commit": "2026-09-16T06:25:55Z",
+                "open_issues": 171,
                 "owner": "xiphonics",
                 "repo": "picoTracker",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -165,7 +165,7 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-09-15T09:57:55Z",
-                "open_issues": 33,
+                "open_issues": 36,
                 "owner": "BenjaminPoilve",
                 "repo": "minichord",
                 "stars": 449,
@@ -252,7 +252,7 @@
                 "open_issues": 3,
                 "owner": "todbot",
                 "repo": "picostepseq",
-                "stars": 350,
+                "stars": 351,
                 "topics": [
                   "circuitpython",
                   "midi",
@@ -457,7 +457,7 @@
                 "id": 679110604,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-16T17:35:40Z",
+                "last_commit": "2026-09-16T12:33:36Z",
                 "open_issues": 13,
                 "owner": "schollz",
                 "repo": "_core",
@@ -650,7 +650,7 @@
                 "open_issues": 0,
                 "owner": "bastl-instruments",
                 "repo": "kastle2",
-                "stars": 101,
+                "stars": 102,
                 "topics": [
                   "audio-processing",
                   "bastl",
@@ -1264,7 +1264,7 @@
                 "id": 262630576,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2025-02-04T00:54:25Z",
+                "last_commit": "2026-09-15T16:16:17Z",
                 "open_issues": 1,
                 "owner": "handeyeco",
                 "repo": "Grandbot",
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:45:33.981Z",
+    "last_updated": "2026-09-16T12:40:13.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
