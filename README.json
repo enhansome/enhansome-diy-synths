@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "bitfieldaudio",
                 "repo": "OTTO",
-                "stars": 2741,
+                "stars": 2742,
                 "topics": [
                   "audio",
                   "audio-processing",
@@ -51,7 +51,7 @@
                 "open_issues": 45,
                 "owner": "googlecreativelab",
                 "repo": "open-nsynth-super",
-                "stars": 2492,
+                "stars": 2491,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -72,7 +72,7 @@
                 "open_issues": 82,
                 "owner": "probonopd",
                 "repo": "MiniDexed",
-                "stars": 1676,
+                "stars": 1677,
                 "topics": [
                   "frequency-modulation",
                   "raspberry-pi",
@@ -147,7 +147,7 @@
                 "open_issues": 171,
                 "owner": "xiphonics",
                 "repo": "picoTracker",
-                "stars": 505,
+                "stars": 506,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -457,8 +457,8 @@
                 "id": 679110604,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T12:33:36Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-16T20:15:15Z",
+                "open_issues": 14,
                 "owner": "schollz",
                 "repo": "_core",
                 "stars": 154,
@@ -682,7 +682,7 @@
                 "open_issues": 7,
                 "owner": "mattvenn",
                 "repo": "teensy-audio-fx",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1322,27 +1322,6 @@
             },
             {
               "node_type": "item",
-              "title": "Flounder",
-              "description": "Teensy based USB midi keyboard + controls + stereo audio",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "usb midi keyboard + controls + stereo audio",
-                "homepage": null,
-                "id": 502480149,
-                "language": "C++",
-                "license": null,
-                "last_commit": "2023-10-05T14:08:22Z",
-                "open_issues": 0,
-                "owner": "MattKuebrich",
-                "repo": "flounder",
-                "stars": 17,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:29:52.019Z"
-            },
-            {
-              "node_type": "item",
               "title": "Protean",
               "description": "CMOS-based motion texture source",
               "children": [],
@@ -1357,6 +1336,27 @@
                 "open_issues": 0,
                 "owner": "pangrus",
                 "repo": "Protean",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Flounder",
+              "description": "Teensy based USB midi keyboard + controls + stereo audio",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "usb midi keyboard + controls + stereo audio",
+                "homepage": null,
+                "id": 502480149,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2023-10-05T14:08:22Z",
+                "open_issues": 0,
+                "owner": "MattKuebrich",
+                "repo": "flounder",
                 "stars": 17,
                 "topics": []
               },
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T12:40:13.519Z",
+    "last_updated": "2026-09-17T12:39:28.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
