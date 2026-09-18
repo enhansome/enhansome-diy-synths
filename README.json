@@ -165,7 +165,7 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-09-15T09:57:55Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "BenjaminPoilve",
                 "repo": "minichord",
                 "stars": 449,
@@ -210,7 +210,7 @@
                 "open_issues": 23,
                 "owner": "16n-faderbank",
                 "repo": "16n",
-                "stars": 383,
+                "stars": 382,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -457,8 +457,8 @@
                 "id": 679110604,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T20:15:15Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-17T22:16:53Z",
+                "open_issues": 13,
                 "owner": "schollz",
                 "repo": "_core",
                 "stars": 154,
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T12:39:28.808Z",
+    "last_updated": "2026-09-18T12:17:31.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
