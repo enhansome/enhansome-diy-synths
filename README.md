@@ -10,7 +10,7 @@ your building experience.
 
 ![DIY-synths-title](/pics/meta/repo-title.jpg)
 
-1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,742 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
+1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,743 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
 2. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) ⚠️ Archived — An experimental physical interface for the NSynth AI algorithm
 3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,677 | 🐛 82 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
 4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 954 | 🐛 0 | 🌐 C++ | 📅 2026-08-03 — Platform for ultimate MIDI control deck building
@@ -21,21 +21,21 @@ your building experience.
 9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 382 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
 10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 355 | 🐛 28 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
 11. [PicoStepSeq](https://github.com/todbot/picostepseq) ⭐ 351 | 🐛 3 | 🌐 C | 📅 2025-10-19 — 8-step MIDI sequencer
-12. [Aciduino](https://github.com/midilab/aciduino/tree/master/v1/) ⭐ 329 | 🐛 2 | 🌐 C++ | 📅 2025-11-27 — Roland TB-303 step sequencer clone aimed for live interaction
+12. [Aciduino](https://github.com/midilab/aciduino/tree/master/v1/) ⭐ 330 | 🐛 2 | 🌐 C++ | 📅 2025-11-27 — Roland TB-303 step sequencer clone aimed for live interaction
 13. [Kastle](https://github.com/bastl-instruments/kastle) ⭐ 267 | 🐛 10 | 🌐 C | 📅 2025-01-29 — Lo-fi, pocketable modular synth
 14. [Polaron](https://github.com/zueblin/Polaron) ⭐ 223 | 🐛 0 | 🌐 C++ | 📅 2020-09-05 — Digital drum machine based on Teensy 3
 15. [Plinky](https://github.com/plinkysynth/plinky_public/tree/main) ⭐ 219 | 🐛 17 | 🌐 C | 📅 2025-10-31 — 8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds
 16. [ArduTouch](https://github.com/maltman23/ArduTouch) ⭐ 214 | 🐛 2 | 🌐 C++ | 📅 2021-01-03 — Arduino-compatible music synthesizer
 17. [Moduleur](https://github.com/shmoergh/moduleur) ⭐ 212 | 🐛 10 | 🌐 HTML | 📅 2026-05-29 — Double-voice analog modular design with a touch of digital magic
 18. [Pikocore](https://github.com/schollz/pikocore) ⭐ 174 | 🐛 5 | 🌐 C++ | 📅 2026-08-12 — Hackable, lo-fi music mangler based on the Raspberry Pi Pico
-19. [Zeptocore](https://github.com/schollz/_core) ⭐ 154 | 🐛 13 | 🌐 C | 📅 2026-09-17 — Player and synthesizer, featuring stereo playback
+19. [Zeptocore](https://github.com/schollz/_core) ⭐ 154 | 🐛 13 | 🌐 C | 📅 2026-09-18 — Player and synthesizer, featuring stereo playback
 20. [PreenFM 2](https://github.com/Ixox/preenfm2) ⭐ 149 | 🐛 12 | 🌐 C | 📅 2024-03-23 — Beloved old FM synthesis in small, modern DIY box
 21. [Wirehead Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) ⭐ 139 | 🐛 9 | 🌐 G-code | 📅 2024-10-24 — Dual-voice, 2 operator, 8-bit FM synth in Volca form-factor
 22. [DrumKid](https://github.com/mattybrad/drumkid) ⭐ 137 | 🐛 12 | 🌐 HTML | 📅 2025-03-27 — Lo-fi aleatoric Arduino drum machine
 23. [NESizer2](https://github.com/Jaffe-/NESizer2/tree/master) ⭐ 124 | 🐛 11 | 🌐 C | 📅 2024-10-31 — NES 2A03 chip controlled by ATmega328 with battery backed patch memory
 24. [Hog](https://github.com/shmoergh/hog/) ⭐ 123 | 🐛 10 | 🌐 C++ | 📅 2025-07-13 — Double-voice analog monophonic synthesizer with two oscillators
 25. [Mega MIDI](https://github.com/AidanHockey5/MegaMIDI) ⭐ 116 | 🐛 2 | 🌐 C++ | 📅 2022-04-03 — MIDI-compatible Sega Genesis/Megadrive synthesizer with real sound chips
-26. [Acid Drip](https://github.com/lonesoulsurfer/Acid_Drip_Bassline_and_Drum_Synth) ⭐ 114 | 🐛 3 | 🌐 C++ | 📅 2026-09-13 — Acid bassline synth and drum machine
+26. [Acid Drip](https://github.com/lonesoulsurfer/Acid_Drip_Bassline_and_Drum_Synth) ⭐ 115 | 🐛 3 | 🌐 C++ | 📅 2026-09-13 — Acid bassline synth and drum machine
 27. [YM2149 Synth](https://github.com/trash80/Ym2149Synth) ⭐ 111 | 🐛 1 | 🌐 Max | 📅 2017-07-26 — Little chip that was used in various retro arcade machines and consoles now ready to serve
 28. [Kastle 2](https://github.com/bastl-instruments/kastle2) ⭐ 102 | 🐛 0 | 🌐 C++ | 📅 2026-08-14 — Patchable, pocketable and open platforrm
 29. [Teensy Audio FX](https://github.com/mattvenn/teensy-audio-fx) ⭐ 94 | 🐛 7 | 🌐 C++ | 📅 2021-09-18 — Playable effects modeled on the Teenage Engineering PO series
@@ -109,4 +109,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "bitfieldaudio",
                 "repo": "OTTO",
-                "stars": 2742,
+                "stars": 2743,
                 "topics": [
                   "audio",
                   "audio-processing",
@@ -283,7 +283,7 @@
                 "open_issues": 2,
                 "owner": "midilab",
                 "repo": "aciduino",
-                "stars": 329,
+                "stars": 330,
                 "topics": [
                   "303",
                   "arduino",
@@ -457,7 +457,7 @@
                 "id": 679110604,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T22:16:53Z",
+                "last_commit": "2026-09-18T21:47:29Z",
                 "open_issues": 13,
                 "owner": "schollz",
                 "repo": "_core",
@@ -608,7 +608,7 @@
                 "open_issues": 3,
                 "owner": "lonesoulsurfer",
                 "repo": "Acid_Drip_Bassline_and_Drum_Synth",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T12:17:31.592Z",
+    "last_updated": "2026-09-19T11:58:25.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
