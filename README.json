@@ -72,7 +72,7 @@
                 "open_issues": 82,
                 "owner": "probonopd",
                 "repo": "MiniDexed",
-                "stars": 1677,
+                "stars": 1679,
                 "topics": [
                   "frequency-modulation",
                   "raspberry-pi",
@@ -210,7 +210,7 @@
                 "open_issues": 23,
                 "owner": "16n-faderbank",
                 "repo": "16n",
-                "stars": 382,
+                "stars": 383,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -408,7 +408,7 @@
                 "open_issues": 10,
                 "owner": "shmoergh",
                 "repo": "moduleur",
-                "stars": 212,
+                "stars": 213,
                 "topics": [
                   "analog",
                   "diy",
@@ -482,7 +482,7 @@
                 "open_issues": 12,
                 "owner": "Ixox",
                 "repo": "preenfm2",
-                "stars": 149,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -573,6 +573,27 @@
             },
             {
               "node_type": "item",
+              "title": "Acid Drip",
+              "description": "Acid bassline synth and drum machine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "All in one acid bassline and groove box - run off a Raspberry Pi",
+                "homepage": null,
+                "id": 1264548131,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2026-09-13T07:09:29Z",
+                "open_issues": 3,
+                "owner": "lonesoulsurfer",
+                "repo": "Acid_Drip_Bassline_and_Drum_Synth",
+                "stars": 118,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
+            },
+            {
+              "node_type": "item",
               "title": "Mega MIDI",
               "description": "MIDI-compatible Sega Genesis/Megadrive synthesizer with real sound chips",
               "children": [],
@@ -594,27 +615,6 @@
             },
             {
               "node_type": "item",
-              "title": "Acid Drip",
-              "description": "Acid bassline synth and drum machine",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "All in one acid bassline and groove box - run off a Raspberry Pi",
-                "homepage": null,
-                "id": 1264548131,
-                "language": "C++",
-                "license": null,
-                "last_commit": "2026-09-13T07:09:29Z",
-                "open_issues": 3,
-                "owner": "lonesoulsurfer",
-                "repo": "Acid_Drip_Bassline_and_Drum_Synth",
-                "stars": 115,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:29:52.019Z"
-            },
-            {
-              "node_type": "item",
               "title": "YM2149 Synth",
               "description": "Little chip that was used in various retro arcade machines and consoles now ready to serve",
               "children": [],
@@ -629,7 +629,7 @@
                 "open_issues": 1,
                 "owner": "trash80",
                 "repo": "Ym2149Synth",
-                "stars": 111,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1586,7 +1586,7 @@
             "open_issues": 0,
             "owner": "Atarity",
             "repo": "diy-synths",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "awesome-list",
               "diy",
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:58:25.851Z",
+    "last_updated": "2026-09-20T12:31:08.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1618,7 +1618,7 @@
       "open_issues": 0,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 569,
+      "stars": 570,
       "topics": [
         "awesome-list",
         "diy",
