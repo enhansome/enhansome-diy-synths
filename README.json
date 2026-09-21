@@ -72,7 +72,7 @@
                 "open_issues": 82,
                 "owner": "probonopd",
                 "repo": "MiniDexed",
-                "stars": 1679,
+                "stars": 1680,
                 "topics": [
                   "frequency-modulation",
                   "raspberry-pi",
@@ -143,11 +143,11 @@
                 "id": 624427818,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T06:25:55Z",
-                "open_issues": 171,
+                "last_commit": "2026-09-21T10:58:46Z",
+                "open_issues": 169,
                 "owner": "xiphonics",
                 "repo": "picoTracker",
-                "stars": 506,
+                "stars": 507,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -283,7 +283,7 @@
                 "open_issues": 2,
                 "owner": "midilab",
                 "repo": "aciduino",
-                "stars": 330,
+                "stars": 332,
                 "topics": [
                   "303",
                   "arduino",
@@ -334,7 +334,7 @@
                 "open_issues": 0,
                 "owner": "zueblin",
                 "repo": "Polaron",
-                "stars": 223,
+                "stars": 224,
                 "topics": [
                   "arduino",
                   "audio",
@@ -366,7 +366,7 @@
                 "open_issues": 17,
                 "owner": "plinkysynth",
                 "repo": "plinky_public",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -436,7 +436,7 @@
                 "open_issues": 5,
                 "owner": "schollz",
                 "repo": "pikocore",
-                "stars": 174,
+                "stars": 175,
                 "topics": [
                   "pico",
                   "pikocore",
@@ -587,7 +587,7 @@
                 "open_issues": 3,
                 "owner": "lonesoulsurfer",
                 "repo": "Acid_Drip_Bassline_and_Drum_Synth",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -650,7 +650,7 @@
                 "open_issues": 0,
                 "owner": "bastl-instruments",
                 "repo": "kastle2",
-                "stars": 102,
+                "stars": 103,
                 "topics": [
                   "audio-processing",
                   "bastl",
@@ -934,6 +934,48 @@
             },
             {
               "node_type": "item",
+              "title": "Meeblip Micro",
+              "description": "Hackable monophonic synth",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MeeBlip Circuit Designs and Files",
+                "homepage": null,
+                "id": 2920156,
+                "language": null,
+                "license": null,
+                "last_commit": "2011-12-05T21:52:23Z",
+                "open_issues": 0,
+                "owner": "MeeBlip",
+                "repo": "meeblip-circuits",
+                "stars": 46,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Meeblip SE",
+              "description": "Hackable monophonic synth",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MeeBlip Circuit Designs and Files",
+                "homepage": null,
+                "id": 2920156,
+                "language": null,
+                "license": null,
+                "last_commit": "2011-12-05T21:52:23Z",
+                "open_issues": 0,
+                "owner": "MeeBlip",
+                "repo": "meeblip-circuits",
+                "stars": 46,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
+            },
+            {
+              "node_type": "item",
               "title": "Nano minipops",
               "description": "Korg Minipops drum machine made around Arduino",
               "children": [],
@@ -975,48 +1017,6 @@
                   "attiny85",
                   "breakbeat"
                 ]
-              },
-              "first_seen": "2026-08-28T19:29:52.019Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Meeblip Micro",
-              "description": "Hackable monophonic synth",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MeeBlip Circuit Designs and Files",
-                "homepage": null,
-                "id": 2920156,
-                "language": null,
-                "license": null,
-                "last_commit": "2011-12-05T21:52:23Z",
-                "open_issues": 0,
-                "owner": "MeeBlip",
-                "repo": "meeblip-circuits",
-                "stars": 45,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:29:52.019Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Meeblip SE",
-              "description": "Hackable monophonic synth",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MeeBlip Circuit Designs and Files",
-                "homepage": null,
-                "id": 2920156,
-                "language": null,
-                "license": null,
-                "last_commit": "2011-12-05T21:52:23Z",
-                "open_issues": 0,
-                "owner": "MeeBlip",
-                "repo": "meeblip-circuits",
-                "stars": 45,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -1586,7 +1586,7 @@
             "open_issues": 0,
             "owner": "Atarity",
             "repo": "diy-synths",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "awesome-list",
               "diy",
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T12:31:08.488Z",
+    "last_updated": "2026-09-21T14:23:05.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1618,7 +1618,7 @@
       "open_issues": 0,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 570,
+      "stars": 571,
       "topics": [
         "awesome-list",
         "diy",
