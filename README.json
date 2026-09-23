@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "bitfieldaudio",
                 "repo": "OTTO",
-                "stars": 2744,
+                "stars": 2745,
                 "topics": [
                   "audio",
                   "audio-processing",
@@ -51,7 +51,7 @@
                 "open_issues": 45,
                 "owner": "googlecreativelab",
                 "repo": "open-nsynth-super",
-                "stars": 2491,
+                "stars": 2492,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -72,7 +72,7 @@
                 "open_issues": 82,
                 "owner": "probonopd",
                 "repo": "MiniDexed",
-                "stars": 1680,
+                "stars": 1683,
                 "topics": [
                   "frequency-modulation",
                   "raspberry-pi",
@@ -126,7 +126,7 @@
                 "open_issues": 1,
                 "owner": "monome",
                 "repo": "norns-shield",
-                "stars": 640,
+                "stars": 641,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -144,7 +144,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-22T07:50:14Z",
-                "open_issues": 166,
+                "open_issues": 167,
                 "owner": "xiphonics",
                 "repo": "picoTracker",
                 "stars": 508,
@@ -164,11 +164,11 @@
                 "id": 848864434,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-15T09:57:55Z",
-                "open_issues": 38,
+                "last_commit": "2026-09-23T09:26:01Z",
+                "open_issues": 35,
                 "owner": "BenjaminPoilve",
                 "repo": "minichord",
-                "stars": 449,
+                "stars": 450,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -189,7 +189,7 @@
                 "open_issues": 2,
                 "owner": "prajwal1121",
                 "repo": "Portable-Synth",
-                "stars": 447,
+                "stars": 448,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -366,7 +366,7 @@
                 "open_issues": 17,
                 "owner": "plinkysynth",
                 "repo": "plinky_public",
-                "stars": 220,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -408,7 +408,7 @@
                 "open_issues": 10,
                 "owner": "shmoergh",
                 "repo": "moduleur",
-                "stars": 213,
+                "stars": 214,
                 "topics": [
                   "analog",
                   "diy",
@@ -436,7 +436,7 @@
                 "open_issues": 5,
                 "owner": "schollz",
                 "repo": "pikocore",
-                "stars": 175,
+                "stars": 176,
                 "topics": [
                   "pico",
                   "pikocore",
@@ -503,7 +503,7 @@
                 "open_issues": 9,
                 "owner": "Meebleeps",
                 "repo": "MeeBleeps-Freaq-FM-Synth",
-                "stars": 139,
+                "stars": 140,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -545,7 +545,7 @@
                 "open_issues": 11,
                 "owner": "Jaffe-",
                 "repo": "NESizer2",
-                "stars": 124,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -587,7 +587,7 @@
                 "open_issues": 3,
                 "owner": "lonesoulsurfer",
                 "repo": "Acid_Drip_Bassline_and_Drum_Synth",
-                "stars": 119,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -650,7 +650,7 @@
                 "open_issues": 0,
                 "owner": "bastl-instruments",
                 "repo": "kastle2",
-                "stars": 103,
+                "stars": 104,
                 "topics": [
                   "audio-processing",
                   "bastl",
@@ -948,7 +948,7 @@
                 "open_issues": 0,
                 "owner": "MeeBlip",
                 "repo": "meeblip-circuits",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -969,7 +969,7 @@
                 "open_issues": 0,
                 "owner": "MeeBlip",
                 "repo": "meeblip-circuits",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1022,6 +1022,33 @@
             },
             {
               "node_type": "item",
+              "title": "Overcycler",
+              "description": "Polyphonic hybrid single cycle / analog synthesizer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Affordable DIY polyphonic hybrid single cycle / analog synthesizer",
+                "homepage": "http://gliglisynth.blogspot.com/search/label/overcycler",
+                "id": 13239035,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2025-07-14T23:56:54Z",
+                "open_issues": 5,
+                "owner": "gligli",
+                "repo": "overcycler",
+                "stars": 45,
+                "topics": [
+                  "analog",
+                  "diy",
+                  "hybrid",
+                  "polyphonic",
+                  "synthesizer"
+                ]
+              },
+              "first_seen": "2026-08-28T19:29:52.019Z"
+            },
+            {
+              "node_type": "item",
               "title": "Hypjolin",
               "description": "Cross-modulating ultra-chaos generator",
               "children": [],
@@ -1059,33 +1086,6 @@
                 "repo": "noisferatu",
                 "stars": 44,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T19:29:52.019Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Overcycler",
-              "description": "Polyphonic hybrid single cycle / analog synthesizer",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Affordable DIY polyphonic hybrid single cycle / analog synthesizer",
-                "homepage": "http://gliglisynth.blogspot.com/search/label/overcycler",
-                "id": 13239035,
-                "language": "C",
-                "license": "GPL-3.0",
-                "last_commit": "2025-07-14T23:56:54Z",
-                "open_issues": 5,
-                "owner": "gligli",
-                "repo": "overcycler",
-                "stars": 44,
-                "topics": [
-                  "analog",
-                  "diy",
-                  "hybrid",
-                  "polyphonic",
-                  "synthesizer"
-                ]
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
             },
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T12:42:05.954Z",
+    "last_updated": "2026-09-23T12:49:22.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
