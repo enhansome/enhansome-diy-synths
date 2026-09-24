@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "bitfieldaudio",
                 "repo": "OTTO",
-                "stars": 2745,
+                "stars": 2746,
                 "topics": [
                   "audio",
                   "audio-processing",
@@ -51,7 +51,7 @@
                 "open_issues": 45,
                 "owner": "googlecreativelab",
                 "repo": "open-nsynth-super",
-                "stars": 2492,
+                "stars": 2493,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -72,7 +72,7 @@
                 "open_issues": 82,
                 "owner": "probonopd",
                 "repo": "MiniDexed",
-                "stars": 1683,
+                "stars": 1684,
                 "topics": [
                   "frequency-modulation",
                   "raspberry-pi",
@@ -93,7 +93,7 @@
                 "id": 19407252,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-03T09:53:10Z",
+                "last_commit": "2026-09-23T16:54:23Z",
                 "open_issues": 0,
                 "owner": "shanteacontrols",
                 "repo": "OpenDeck",
@@ -147,7 +147,7 @@
                 "open_issues": 167,
                 "owner": "xiphonics",
                 "repo": "picoTracker",
-                "stars": 508,
+                "stars": 509,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:52.019Z"
@@ -165,7 +165,7 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-09-23T09:26:01Z",
-                "open_issues": 35,
+                "open_issues": 37,
                 "owner": "BenjaminPoilve",
                 "repo": "minichord",
                 "stars": 450,
@@ -207,7 +207,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2025-04-06T20:28:18Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "16n-faderbank",
                 "repo": "16n",
                 "stars": 383,
@@ -1586,7 +1586,7 @@
             "open_issues": 0,
             "owner": "Atarity",
             "repo": "diy-synths",
-            "stars": 571,
+            "stars": 573,
             "topics": [
               "awesome-list",
               "diy",
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T12:49:22.300Z",
+    "last_updated": "2026-09-24T12:47:17.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1618,7 +1618,7 @@
       "open_issues": 0,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 571,
+      "stars": 573,
       "topics": [
         "awesome-list",
         "diy",
