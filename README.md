@@ -1,18 +1,18 @@
 # Awesome diy synths with stars
 
-## [WEB VERSION](https://diy-synths.snnkv.com/)  /  [SUBMIT DESIGN](https://github.com/Atarity/diy-synths/discussions) ⭐ 574 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27  /  [DISCUSSION](https://github.com/Atarity/diy-synths/discussions) ⭐ 574 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
+## [WEB VERSION](https://diy-synths.snnkv.com/)  /  [SUBMIT DESIGN](https://github.com/Atarity/diy-synths/discussions) ⭐ 577 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27  /  [DISCUSSION](https://github.com/Atarity/diy-synths/discussions) ⭐ 577 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
 
 This is a list of synthesizers and related hardware you can build
 on your own. All designs are open-source including firmware.
-[Submit designs](https://github.com/Atarity/diy-synths/discussions) ⭐ 574 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27 which is not
-in list and [discuss](https://github.com/Atarity/diy-synths/discussions) ⭐ 574 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
+[Submit designs](https://github.com/Atarity/diy-synths/discussions) ⭐ 577 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27 which is not
+in list and [discuss](https://github.com/Atarity/diy-synths/discussions) ⭐ 577 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27
 your building experience.
 
 ![DIY-synths-title](/pics/meta/repo-title.jpg)
 
 1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,746 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
 2. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) ⚠️ Archived — An experimental physical interface for the NSynth AI algorithm
-3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,686 | 🐛 82 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
+3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,687 | 🐛 82 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
 4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 956 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 — Platform for ultimate MIDI control deck building
 5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 643 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
 6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 509 | 🐛 167 | 🌐 C++ | 📅 2026-09-26 — Low cost music tracker platform
@@ -20,14 +20,14 @@ your building experience.
 8. [Portable synth](https://github.com/prajwal1121/Portable-Synth) ⭐ 448 | 🐛 2 | 🌐 C++ | 📅 2021-10-12 — OP-1 style portable groovebox based on Teensy 4
 9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 383 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
 10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 355 | 🐛 28 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
-11. [PicoStepSeq](https://github.com/todbot/picostepseq) ⭐ 351 | 🐛 3 | 🌐 C | 📅 2025-10-19 — 8-step MIDI sequencer
+11. [PicoStepSeq](https://github.com/todbot/picostepseq) ⭐ 352 | 🐛 3 | 🌐 C | 📅 2025-10-19 — 8-step MIDI sequencer
 12. [Aciduino](https://github.com/midilab/aciduino/tree/master/v1/) ⭐ 333 | 🐛 2 | 🌐 C++ | 📅 2025-11-27 — Roland TB-303 step sequencer clone aimed for live interaction
 13. [Kastle](https://github.com/bastl-instruments/kastle) ⭐ 267 | 🐛 10 | 🌐 C | 📅 2025-01-29 — Lo-fi, pocketable modular synth
 14. [Polaron](https://github.com/zueblin/Polaron) ⭐ 224 | 🐛 0 | 🌐 C++ | 📅 2020-09-05 — Digital drum machine based on Teensy 3
 15. [Plinky](https://github.com/plinkysynth/plinky_public/tree/main) ⭐ 221 | 🐛 17 | 🌐 C | 📅 2025-10-31 — 8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds
 16. [ArduTouch](https://github.com/maltman23/ArduTouch) ⭐ 214 | 🐛 2 | 🌐 C++ | 📅 2021-01-03 — Arduino-compatible music synthesizer
 17. [Moduleur](https://github.com/shmoergh/moduleur) ⭐ 214 | 🐛 10 | 🌐 HTML | 📅 2026-05-29 — Double-voice analog modular design with a touch of digital magic
-18. [Pikocore](https://github.com/schollz/pikocore) ⭐ 176 | 🐛 5 | 🌐 C++ | 📅 2026-08-12 — Hackable, lo-fi music mangler based on the Raspberry Pi Pico
+18. [Pikocore](https://github.com/schollz/pikocore) ⭐ 177 | 🐛 5 | 🌐 C++ | 📅 2026-08-12 — Hackable, lo-fi music mangler based on the Raspberry Pi Pico
 19. [Zeptocore](https://github.com/schollz/_core) ⭐ 155 | 🐛 13 | 🌐 C | 📅 2026-09-28 — Player and synthesizer, featuring stereo playback
 20. [PreenFM 2](https://github.com/Ixox/preenfm2) ⭐ 150 | 🐛 12 | 🌐 C | 📅 2024-03-23 — Beloved old FM synthesis in small, modern DIY box
 21. [Wirehead Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) ⭐ 140 | 🐛 9 | 🌐 G-code | 📅 2024-10-24 — Dual-voice, 2 operator, 8-bit FM synth in Volca form-factor
@@ -41,7 +41,7 @@ your building experience.
 29. [Teensy Audio FX](https://github.com/mattvenn/teensy-audio-fx) ⭐ 94 | 🐛 7 | 🌐 C++ | 📅 2021-09-18 — Playable effects modeled on the Teenage Engineering PO series
 30. [POLY555](https://github.com/oskitone/poly555) ⭐ 91 | 🐛 0 | 🌐 OpenSCAD | 📅 2024-11-23 — Polyphonic, analog, square wave synth based on the 555 timer
 31. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) ⭐ 89 | 🐛 0 | 📅 2023-12-24 — Full analog, semi modular synthesizer
-32. [Wirehead Mutant](https://github.com/Meebleeps/MeeBleeps-Mutant-Synth) ⭐ 85 | 🐛 6 | 🌐 C++ | 📅 2024-10-24 — 8-bit, 2-oscillator subtractive Arduino synth for generative techno in Volca form-factor
+32. [Wirehead Mutant](https://github.com/Meebleeps/MeeBleeps-Mutant-Synth) ⭐ 86 | 🐛 6 | 🌐 C++ | 📅 2024-10-24 — 8-bit, 2-oscillator subtractive Arduino synth for generative techno in Volca form-factor
 33. [MiniMO](https://github.com/enveloop/miniMO) ⭐ 76 | 🐛 0 | 🌐 C++ | 📅 2020-12-30 — ATtiny85 mini modular system
 34. [Le Strum](https://github.com/hotchk155/Voici-Le-Strum) ⭐ 70 | 🐛 4 | 🌐 C | 📅 2025-04-09 — Compact and simple yet funny MIDI strummer
 35. [Kelpie](https://github.com/friedpies/kelpie-pocket-synth) ⭐ 68 | 🐛 3 | 🌐 C++ | 📅 2020-10-17 — Portable polyphonic digital synthesizer
@@ -109,4 +109,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
