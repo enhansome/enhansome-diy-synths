@@ -12,11 +12,11 @@ your building experience.
 
 1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,747 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
 2. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) ⚠️ Archived — An experimental physical interface for the NSynth AI algorithm
-3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,688 | 🐛 82 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
-4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 955 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 — Platform for ultimate MIDI control deck building
-5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 643 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
-6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 512 | 🐛 161 | 🌐 C++ | 📅 2026-10-04 — Low cost music tracker platform
-7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 452 | 🐛 46 | 🌐 C++ | 📅 2026-09-29 — Suzuki's Omnichord-like pocket instrument based on Teensy
+3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,687 | 🐛 82 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
+4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 956 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 — Platform for ultimate MIDI control deck building
+5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 644 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
+6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 512 | 🐛 158 | 🌐 C++ | 📅 2026-10-05 — Low cost music tracker platform
+7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 451 | 🐛 48 | 🌐 C++ | 📅 2026-09-29 — Suzuki's Omnichord-like pocket instrument based on Teensy
 8. [Portable synth](https://github.com/prajwal1121/Portable-Synth) ⭐ 448 | 🐛 2 | 🌐 C++ | 📅 2021-10-12 — OP-1 style portable groovebox based on Teensy 4
 9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 384 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
 10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 355 | 🐛 28 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
@@ -24,11 +24,11 @@ your building experience.
 12. [Aciduino](https://github.com/midilab/aciduino/tree/master/v1/) ⭐ 333 | 🐛 3 | 🌐 C++ | 📅 2025-11-27 — Roland TB-303 step sequencer clone aimed for live interaction
 13. [Kastle](https://github.com/bastl-instruments/kastle) ⭐ 267 | 🐛 10 | 🌐 C | 📅 2025-01-29 — Lo-fi, pocketable modular synth
 14. [Polaron](https://github.com/zueblin/Polaron) ⭐ 224 | 🐛 0 | 🌐 C++ | 📅 2020-09-05 — Digital drum machine based on Teensy 3
-15. [Plinky](https://github.com/plinkysynth/plinky_public/tree/main) ⭐ 221 | 🐛 17 | 🌐 C | 📅 2025-10-31 — 8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds
+15. [Plinky](https://github.com/plinkysynth/plinky_public/tree/main) ⭐ 222 | 🐛 17 | 🌐 C | 📅 2025-10-31 — 8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds
 16. [ArduTouch](https://github.com/maltman23/ArduTouch) ⭐ 214 | 🐛 2 | 🌐 C++ | 📅 2021-01-03 — Arduino-compatible music synthesizer
-17. [Moduleur](https://github.com/shmoergh/moduleur) ⭐ 214 | 🐛 10 | 🌐 HTML | 📅 2026-05-29 — Double-voice analog modular design with a touch of digital magic
+17. [Moduleur](https://github.com/shmoergh/moduleur) ⭐ 214 | 🐛 10 | 🌐 HTML | 📅 2026-10-04 — Double-voice analog modular design with a touch of digital magic
 18. [Pikocore](https://github.com/schollz/pikocore) ⭐ 177 | 🐛 5 | 🌐 C++ | 📅 2026-08-12 — Hackable, lo-fi music mangler based on the Raspberry Pi Pico
-19. [Zeptocore](https://github.com/schollz/_core) ⭐ 155 | 🐛 13 | 🌐 C | 📅 2026-10-04 — Player and synthesizer, featuring stereo playback
+19. [Zeptocore](https://github.com/schollz/_core) ⭐ 155 | 🐛 13 | 🌐 C | 📅 2026-10-05 — Player and synthesizer, featuring stereo playback
 20. [PreenFM 2](https://github.com/Ixox/preenfm2) ⭐ 150 | 🐛 12 | 🌐 C | 📅 2024-03-23 — Beloved old FM synthesis in small, modern DIY box
 21. [Wirehead Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) ⭐ 140 | 🐛 9 | 🌐 G-code | 📅 2024-10-24 — Dual-voice, 2 operator, 8-bit FM synth in Volca form-factor
 22. [DrumKid](https://github.com/mattybrad/drumkid) ⭐ 137 | 🐛 12 | 🌐 HTML | 📅 2025-03-27 — Lo-fi aleatoric Arduino drum machine
@@ -40,7 +40,7 @@ your building experience.
 28. [Kastle 2](https://github.com/bastl-instruments/kastle2) ⭐ 103 | 🐛 0 | 🌐 C++ | 📅 2026-08-14 — Patchable, pocketable and open platforrm
 29. [Teensy Audio FX](https://github.com/mattvenn/teensy-audio-fx) ⭐ 94 | 🐛 7 | 🌐 C++ | 📅 2021-09-18 — Playable effects modeled on the Teenage Engineering PO series
 30. [POLY555](https://github.com/oskitone/poly555) ⭐ 93 | 🐛 0 | 🌐 OpenSCAD | 📅 2024-11-23 — Polyphonic, analog, square wave synth based on the 555 timer
-31. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) ⭐ 89 | 🐛 0 | 📅 2023-12-24 — Full analog, semi modular synthesizer
+31. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) ⭐ 90 | 🐛 0 | 📅 2023-12-24 — Full analog, semi modular synthesizer
 32. [Wirehead Mutant](https://github.com/Meebleeps/MeeBleeps-Mutant-Synth) ⭐ 86 | 🐛 6 | 🌐 C++ | 📅 2024-10-24 — 8-bit, 2-oscillator subtractive Arduino synth for generative techno in Volca form-factor
 33. [MiniMO](https://github.com/enveloop/miniMO) ⭐ 76 | 🐛 0 | 🌐 C++ | 📅 2020-12-30 — ATtiny85 mini modular system
 34. [Le Strum](https://github.com/hotchk155/Voici-Le-Strum) ⭐ 70 | 🐛 4 | 🌐 C | 📅 2025-04-09 — Compact and simple yet funny MIDI strummer
@@ -60,8 +60,8 @@ your building experience.
 48. [Fasma Festival](https://github.com/ghztomash/fasma_drum) ⭐ 34 | 🐛 2 | 🌐 C++ | 📅 2018-06-10 — Yet another Teensy drum machine with clock sync
 49. [Lunchbeat](https://github.com/buranelectrix/lunchbeat-PCB) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2014-01-14 — 1-bit percussion sounds and a sequencer
 50. [Roundabout](https://github.com/MattKuebrich/roundabout) ⭐ 33 | 🐛 0 | 📅 2024-03-04 — Compact, CMOS-based, patchable synth
-51. [ATtiny Punk Console](https://github.com/noisio/ATtiny-Punk-Console) ⭐ 29 | 🐛 0 | 🌐 C++ | 📅 2023-01-11 — ATtiny85 implementation of Atari Punk Console
-52. [OP-Synth](https://github.com/thomasfredericks/Op-Synth) ⭐ 29 | 🐛 0 | 📅 2025-04-06 — Modular micro analog synth
+51. [OP-Synth](https://github.com/thomasfredericks/Op-Synth) ⭐ 30 | 🐛 0 | 📅 2025-04-06 — Modular micro analog synth
+52. [ATtiny Punk Console](https://github.com/noisio/ATtiny-Punk-Console) ⭐ 29 | 🐛 0 | 🌐 C++ | 📅 2023-01-11 — ATtiny85 implementation of Atari Punk Console
 53. [Nava](https://github.com/e-licktronic/Nava-v1.0) ⭐ 28 | 🐛 0 | 🌐 C++ | 📅 2022-08-23 — Clone of Roland TR-909 drum machine
 54. [ZeKit](https://github.com/Marzac/zekit) ⭐ 27 | 🐛 0 | 🌐 C | 📅 2022-02-23 — 4 voice paraphonic synth
 55. [Grandbot](https://github.com/handeyeco/Grandbot) ⭐ 23 | 🐛 1 | 🌐 C++ | 📅 2026-09-15 — Generative, pattern-based MIDI arpeggiator
@@ -109,4 +109,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._

@@ -70,7 +70,7 @@
             "open_issues": 82,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1688,
+            "stars": 1687,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -95,7 +95,7 @@
             "open_issues": 0,
             "owner": "shanteacontrols",
             "repo": "OpenDeck",
-            "stars": 955,
+            "stars": 956,
             "topics": [
               "midi",
               "midi-controller",
@@ -124,7 +124,7 @@
             "open_issues": 1,
             "owner": "monome",
             "repo": "norns-shield",
-            "stars": 643,
+            "stars": 644,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -141,8 +141,8 @@
             "id": 624427818,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T04:40:09Z",
-            "open_issues": 161,
+            "last_commit": "2026-10-05T10:52:15Z",
+            "open_issues": 158,
             "owner": "xiphonics",
             "repo": "picoTracker",
             "stars": 512,
@@ -163,10 +163,10 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-09-29T15:23:17Z",
-            "open_issues": 46,
+            "open_issues": 48,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 452,
+            "stars": 451,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -364,7 +364,7 @@
             "open_issues": 17,
             "owner": "plinkysynth",
             "repo": "plinky_public",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -402,7 +402,7 @@
             "id": 994144641,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-05-29T06:57:11Z",
+            "last_commit": "2026-10-04T14:54:48Z",
             "open_issues": 10,
             "owner": "shmoergh",
             "repo": "moduleur",
@@ -455,7 +455,7 @@
             "id": 679110604,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-04T10:55:12Z",
+            "last_commit": "2026-10-05T15:50:23Z",
             "open_issues": 13,
             "owner": "schollz",
             "repo": "_core",
@@ -722,7 +722,7 @@
             "open_issues": 0,
             "owner": "polykit",
             "repo": "polykit-x-monosynth",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "adsr",
               "analog",
@@ -1152,6 +1152,35 @@
         },
         {
           "node_type": "item",
+          "title": "OP-Synth",
+          "description": "Modular micro analog synth",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open source modular micro analog synthesizer designed to facilitate the understanding of electronics, audio synthesis, audio theory, and filtering.",
+            "homepage": "http://tofstuff.com",
+            "id": 54579420,
+            "language": null,
+            "license": null,
+            "last_commit": "2025-04-06T13:02:35Z",
+            "open_issues": 0,
+            "owner": "thomasfredericks",
+            "repo": "Op-Synth",
+            "stars": 30,
+            "topics": [
+              "analog",
+              "art",
+              "electronics",
+              "hacking",
+              "op-synth",
+              "oscillator",
+              "synthesizer"
+            ]
+          },
+          "first_seen": "2026-08-28T19:29:52.019Z"
+        },
+        {
+          "node_type": "item",
           "title": "ATtiny Punk Console",
           "description": "ATtiny85 implementation of Atari Punk Console",
           "children": [],
@@ -1168,35 +1197,6 @@
             "repo": "ATtiny-Punk-Console",
             "stars": 29,
             "topics": []
-          },
-          "first_seen": "2026-08-28T19:29:52.019Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OP-Synth",
-          "description": "Modular micro analog synth",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Open source modular micro analog synthesizer designed to facilitate the understanding of electronics, audio synthesis, audio theory, and filtering.",
-            "homepage": "http://tofstuff.com",
-            "id": 54579420,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-04-06T13:02:35Z",
-            "open_issues": 0,
-            "owner": "thomasfredericks",
-            "repo": "Op-Synth",
-            "stars": 29,
-            "topics": [
-              "analog",
-              "art",
-              "electronics",
-              "hacking",
-              "op-synth",
-              "oscillator",
-              "synthesizer"
-            ]
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
         },
@@ -1575,7 +1575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:19:09.369Z",
+    "last_updated": "2026-10-05T16:13:40.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1587,7 +1587,7 @@
       "open_issues": 0,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 580,
+      "stars": 581,
       "topics": [
         "awesome-list",
         "diy",
