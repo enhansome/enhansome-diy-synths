@@ -141,7 +141,7 @@
             "id": 624427818,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T10:52:15Z",
+            "last_commit": "2026-10-06T02:33:45Z",
             "open_issues": 158,
             "owner": "xiphonics",
             "repo": "picoTracker",
@@ -166,7 +166,7 @@
             "open_issues": 48,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 451,
+            "stars": 452,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -229,7 +229,7 @@
             "open_issues": 28,
             "owner": "rasteri",
             "repo": "SC1000",
-            "stars": 355,
+            "stars": 356,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -455,7 +455,7 @@
             "id": 679110604,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T15:50:23Z",
+            "last_commit": "2026-10-06T01:03:52Z",
             "open_issues": 13,
             "owner": "schollz",
             "repo": "_core",
@@ -1575,7 +1575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T16:13:40.096Z",
+    "last_updated": "2026-10-06T11:07:14.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1587,7 +1587,7 @@
       "open_issues": 0,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 581,
+      "stars": 582,
       "topics": [
         "awesome-list",
         "diy",
