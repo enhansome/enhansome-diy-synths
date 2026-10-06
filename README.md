@@ -14,9 +14,9 @@ your building experience.
 2. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) ⚠️ Archived — An experimental physical interface for the NSynth AI algorithm
 3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,687 | 🐛 82 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
 4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 956 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 — Platform for ultimate MIDI control deck building
-5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 644 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
+5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 645 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
 6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 512 | 🐛 158 | 🌐 C++ | 📅 2026-10-06 — Low cost music tracker platform
-7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 452 | 🐛 48 | 🌐 C++ | 📅 2026-09-29 — Suzuki's Omnichord-like pocket instrument based on Teensy
+7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 452 | 🐛 49 | 🌐 C++ | 📅 2026-09-29 — Suzuki's Omnichord-like pocket instrument based on Teensy
 8. [Portable synth](https://github.com/prajwal1121/Portable-Synth) ⭐ 448 | 🐛 2 | 🌐 C++ | 📅 2021-10-12 — OP-1 style portable groovebox based on Teensy 4
 9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 384 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
 10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 356 | 🐛 28 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
