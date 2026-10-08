@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "bitfieldaudio",
             "repo": "OTTO",
-            "stars": 2747,
+            "stars": 2749,
             "topics": [
               "audio",
               "audio-processing",
@@ -141,11 +141,11 @@
             "id": 624427818,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T02:33:45Z",
-            "open_issues": 158,
+            "last_commit": "2026-10-08T10:02:25Z",
+            "open_issues": 157,
             "owner": "xiphonics",
             "repo": "picoTracker",
-            "stars": 512,
+            "stars": 514,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -163,7 +163,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-09-29T15:23:17Z",
-            "open_issues": 49,
+            "open_issues": 53,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
             "stars": 452,
@@ -1575,7 +1575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T14:36:56.944Z",
+    "last_updated": "2026-10-08T14:43:01.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
