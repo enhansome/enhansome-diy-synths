@@ -141,11 +141,11 @@
             "id": 624427818,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T10:02:25Z",
-            "open_issues": 157,
+            "last_commit": "2026-10-09T10:42:55Z",
+            "open_issues": 150,
             "owner": "xiphonics",
             "repo": "picoTracker",
-            "stars": 514,
+            "stars": 515,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -163,7 +163,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-09-29T15:23:17Z",
-            "open_issues": 53,
+            "open_issues": 69,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
             "stars": 452,
@@ -277,7 +277,7 @@
             "id": 124693844,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-06T15:40:50Z",
+            "last_commit": "2026-10-08T17:59:35Z",
             "open_issues": 2,
             "owner": "midilab",
             "repo": "aciduino",
@@ -364,7 +364,7 @@
             "open_issues": 17,
             "owner": "plinkysynth",
             "repo": "plinky_public",
-            "stars": 222,
+            "stars": 223,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -799,7 +799,7 @@
             "open_issues": 4,
             "owner": "hotchk155",
             "repo": "Voici-Le-Strum",
-            "stars": 70,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1575,7 +1575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T14:43:01.744Z",
+    "last_updated": "2026-10-09T14:27:28.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1587,7 +1587,7 @@
       "open_issues": 0,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 582,
+      "stars": 583,
       "topics": [
         "awesome-list",
         "diy",
