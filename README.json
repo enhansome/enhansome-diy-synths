@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "bitfieldaudio",
             "repo": "OTTO",
-            "stars": 2749,
+            "stars": 2750,
             "topics": [
               "audio",
               "audio-processing",
@@ -67,10 +67,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-04-18T09:39:51Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1687,
+            "stars": 1686,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -141,8 +141,8 @@
             "id": 624427818,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T10:42:55Z",
-            "open_issues": 150,
+            "last_commit": "2026-10-10T12:05:37Z",
+            "open_issues": 144,
             "owner": "xiphonics",
             "repo": "picoTracker",
             "stars": 515,
@@ -163,7 +163,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-09-29T15:23:17Z",
-            "open_issues": 69,
+            "open_issues": 74,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
             "stars": 452,
@@ -187,7 +187,7 @@
             "open_issues": 2,
             "owner": "prajwal1121",
             "repo": "Portable-Synth",
-            "stars": 448,
+            "stars": 449,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -371,6 +371,34 @@
         },
         {
           "node_type": "item",
+          "title": "Moduleur",
+          "description": "Double-voice analog modular design with a touch of digital magic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fully analog DIY-friendly modular synth",
+            "homepage": "https://www.shmoergh.com/moduleur",
+            "id": 994144641,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-10-04T14:54:48Z",
+            "open_issues": 10,
+            "owner": "shmoergh",
+            "repo": "moduleur",
+            "stars": 215,
+            "topics": [
+              "analog",
+              "diy",
+              "diy-electronics",
+              "hardware-designs",
+              "modular",
+              "synthesizer"
+            ]
+          },
+          "first_seen": "2026-08-28T19:29:52.019Z"
+        },
+        {
+          "node_type": "item",
           "title": "ArduTouch",
           "description": "Arduino-compatible music synthesizer",
           "children": [],
@@ -387,34 +415,6 @@
             "repo": "ArduTouch",
             "stars": 214,
             "topics": []
-          },
-          "first_seen": "2026-08-28T19:29:52.019Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Moduleur",
-          "description": "Double-voice analog modular design with a touch of digital magic",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Fully analog DIY-friendly modular synth",
-            "homepage": "https://www.shmoergh.com/moduleur",
-            "id": 994144641,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-10-04T14:54:48Z",
-            "open_issues": 10,
-            "owner": "shmoergh",
-            "repo": "moduleur",
-            "stars": 214,
-            "topics": [
-              "analog",
-              "diy",
-              "diy-electronics",
-              "hardware-designs",
-              "modular",
-              "synthesizer"
-            ]
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
         },
@@ -459,7 +459,7 @@
             "open_issues": 13,
             "owner": "schollz",
             "repo": "_core",
-            "stars": 155,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1575,7 +1575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T14:27:28.389Z",
+    "last_updated": "2026-10-10T13:53:06.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1587,7 +1587,7 @@
       "open_issues": 0,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 583,
+      "stars": 584,
       "topics": [
         "awesome-list",
         "diy",
