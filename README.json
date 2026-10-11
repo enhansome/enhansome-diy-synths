@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "This is a list of synthesizers and related hardware you can build on your own. All designs are open-source including firmware. Submit designs which is not in list and discuss your building experience.\nupd: 2026-06-27",
+      "description": "This is a list of synthesizers and related hardware you can build on your own. All designs are open-source including firmware. Submit designs which is not in list and discuss your building experience.\nupd: 2026-10-11",
       "items": [
         {
           "node_type": "item",
@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "bitfieldaudio",
             "repo": "OTTO",
-            "stars": 2750,
+            "stars": 2749,
             "topics": [
               "audio",
               "audio-processing",
@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1686,
+            "stars": 1688,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -142,7 +142,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-10T12:05:37Z",
-            "open_issues": 144,
+            "open_issues": 143,
             "owner": "xiphonics",
             "repo": "picoTracker",
             "stars": 515,
@@ -163,7 +163,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-09-29T15:23:17Z",
-            "open_issues": 74,
+            "open_issues": 77,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
             "stars": 452,
@@ -294,6 +294,27 @@
             ]
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CHOMPI",
+          "description": "Chromatic sampler and tape-music instrument",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "All of the production files, hardware and firmware, that make up the CHOMPI Sampler.",
+            "homepage": null,
+            "id": 1395798363,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-09-29T15:40:48Z",
+            "open_issues": 0,
+            "owner": "CHOMPI-Club",
+            "repo": "CHOMPI",
+            "stars": 276,
+            "topics": []
+          },
+          "first_seen": "2026-10-11T14:14:03.017Z"
         },
         {
           "node_type": "item",
@@ -648,7 +669,7 @@
             "open_issues": 0,
             "owner": "bastl-instruments",
             "repo": "kastle2",
-            "stars": 103,
+            "stars": 104,
             "topics": [
               "audio-processing",
               "bastl",
@@ -1575,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:53:06.869Z",
+    "last_updated": "2026-10-11T14:14:03.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1583,7 +1604,7 @@
       "id": 412188228,
       "language": "JavaScript",
       "license": null,
-      "last_commit": "2026-06-27T20:45:11Z",
+      "last_commit": "2026-10-11T10:08:08Z",
       "open_issues": 0,
       "owner": "Atarity",
       "repo": "diy-synths",
@@ -1599,7 +1620,7 @@
         "synthesizer"
       ]
     },
-    "original_repository_sha": "0d58563eca06af84e7722975dc80018277c0074e",
+    "original_repository_sha": "011cb02bfd526d792f7a096a3cde1366c34daeb3",
     "enhanced_repository": "enhansome/enhansome-diy-synths",
     "enhanced_repository_description": null,
     "title": "Awesome diy synths with stars"
