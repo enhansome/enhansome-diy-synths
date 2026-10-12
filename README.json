@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1688,
+            "stars": 1690,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -141,11 +141,11 @@
             "id": 624427818,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T12:05:37Z",
-            "open_issues": 143,
+            "last_commit": "2026-10-12T11:02:03Z",
+            "open_issues": 133,
             "owner": "xiphonics",
             "repo": "picoTracker",
-            "stars": 515,
+            "stars": 514,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -187,7 +187,7 @@
             "open_issues": 2,
             "owner": "prajwal1121",
             "repo": "Portable-Synth",
-            "stars": 449,
+            "stars": 450,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 276,
+            "stars": 279,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -353,7 +353,7 @@
             "open_issues": 0,
             "owner": "zueblin",
             "repo": "Polaron",
-            "stars": 224,
+            "stars": 225,
             "topics": [
               "arduino",
               "audio",
@@ -385,7 +385,7 @@
             "open_issues": 17,
             "owner": "plinkysynth",
             "repo": "plinky_public",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -406,7 +406,7 @@
             "open_issues": 10,
             "owner": "shmoergh",
             "repo": "moduleur",
-            "stars": 215,
+            "stars": 216,
             "topics": [
               "analog",
               "diy",
@@ -743,7 +743,7 @@
             "open_issues": 0,
             "owner": "polykit",
             "repo": "polykit-x-monosynth",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "adsr",
               "analog",
@@ -820,7 +820,7 @@
             "open_issues": 4,
             "owner": "hotchk155",
             "repo": "Voici-Le-Strum",
-            "stars": 71,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -904,7 +904,7 @@
             "open_issues": 1,
             "owner": "pangrus",
             "repo": "multi",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1009,7 +1009,7 @@
             "open_issues": 5,
             "owner": "NANOmodules",
             "repo": "NANO-Minipops",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1099,7 +1099,7 @@
             "id": 1251144824,
             "language": "C",
             "license": null,
-            "last_commit": "2026-09-28T09:41:26Z",
+            "last_commit": "2026-10-12T14:36:23Z",
             "open_issues": 0,
             "owner": "rob-scape",
             "repo": "noisferatu",
@@ -1237,7 +1237,7 @@
             "open_issues": 0,
             "owner": "e-licktronic",
             "repo": "Nava-v1.0",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1404,6 +1404,27 @@
         },
         {
           "node_type": "item",
+          "title": "Hidden Sound Explorer",
+          "description": "Electromagnetic fields analog transducer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Hidden Sound Explorer",
+            "homepage": null,
+            "id": 134702555,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2022-04-29T12:29:22Z",
+            "open_issues": 0,
+            "owner": "pangrus",
+            "repo": "HSE-Hidden_Sound_Explorer",
+            "stars": 14,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:29:52.019Z"
+        },
+        {
+          "node_type": "item",
           "title": "Beam Catcher",
           "description": "Analog light-based synthesizer",
           "children": [],
@@ -1425,27 +1446,6 @@
         },
         {
           "node_type": "item",
-          "title": "Hidden Sound Explorer",
-          "description": "Electromagnetic fields analog transducer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Hidden Sound Explorer",
-            "homepage": null,
-            "id": 134702555,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2022-04-29T12:29:22Z",
-            "open_issues": 0,
-            "owner": "pangrus",
-            "repo": "HSE-Hidden_Sound_Explorer",
-            "stars": 13,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:29:52.019Z"
-        },
-        {
-          "node_type": "item",
           "title": "Mozard",
           "description": "Arduino, Mozzi -based, 6 engines synth",
           "children": [],
@@ -1460,7 +1460,7 @@
             "open_issues": 0,
             "owner": "thomasfredericks",
             "repo": "Mozard",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T14:14:03.017Z",
+    "last_updated": "2026-10-12T16:51:35.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1608,7 +1608,7 @@
       "open_issues": 0,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 584,
+      "stars": 586,
       "topics": [
         "awesome-list",
         "diy",
