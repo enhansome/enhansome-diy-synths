@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "bitfieldaudio",
             "repo": "OTTO",
-            "stars": 2749,
+            "stars": 2750,
             "topics": [
               "audio",
               "audio-processing",
@@ -95,7 +95,7 @@
             "open_issues": 0,
             "owner": "shanteacontrols",
             "repo": "OpenDeck",
-            "stars": 957,
+            "stars": 958,
             "topics": [
               "midi",
               "midi-controller",
@@ -141,11 +141,11 @@
             "id": 624427818,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T11:02:03Z",
+            "last_commit": "2026-10-13T05:51:43Z",
             "open_issues": 133,
             "owner": "xiphonics",
             "repo": "picoTracker",
-            "stars": 514,
+            "stars": 515,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -162,8 +162,8 @@
             "id": 848864434,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-29T15:23:17Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-13T13:40:42Z",
+            "open_issues": 72,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
             "stars": 452,
@@ -229,7 +229,7 @@
             "open_issues": 28,
             "owner": "rasteri",
             "repo": "SC1000",
-            "stars": 356,
+            "stars": 357,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -277,7 +277,7 @@
             "id": 124693844,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-08T17:59:35Z",
+            "last_commit": "2026-10-13T13:49:07Z",
             "open_issues": 2,
             "owner": "midilab",
             "repo": "aciduino",
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 279,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -406,7 +406,7 @@
             "open_issues": 10,
             "owner": "shmoergh",
             "repo": "moduleur",
-            "stars": 216,
+            "stars": 217,
             "topics": [
               "analog",
               "diy",
@@ -564,7 +564,7 @@
             "open_issues": 11,
             "owner": "Jaffe-",
             "repo": "NESizer2",
-            "stars": 126,
+            "stars": 127,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1099,7 +1099,7 @@
             "id": 1251144824,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-12T14:36:23Z",
+            "last_commit": "2026-10-12T17:15:00Z",
             "open_issues": 0,
             "owner": "rob-scape",
             "repo": "noisferatu",
@@ -1509,27 +1509,6 @@
         },
         {
           "node_type": "item",
-          "title": "Drone & Drama",
-          "description": "Simple Teensy-based drone synth",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DIY Electronic Musical Instrument",
-            "homepage": null,
-            "id": 293319387,
-            "language": "nesC",
-            "license": null,
-            "last_commit": "2023-09-16T17:05:24Z",
-            "open_issues": 0,
-            "owner": "bjc01",
-            "repo": "D-D_Teensy",
-            "stars": 5,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:29:52.019Z"
-        },
-        {
-          "node_type": "item",
           "title": "Real SID shield",
           "description": "Digital interface to SID chip of Commodore 64",
           "children": [],
@@ -1544,6 +1523,27 @@
             "open_issues": 0,
             "owner": "emceha",
             "repo": "RealSIDShield",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:29:52.019Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Drone & Drama",
+          "description": "Simple Teensy-based drone synth",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "DIY Electronic Musical Instrument",
+            "homepage": null,
+            "id": 293319387,
+            "language": "nesC",
+            "license": null,
+            "last_commit": "2023-09-16T17:05:24Z",
+            "open_issues": 0,
+            "owner": "bjc01",
+            "repo": "D-D_Teensy",
             "stars": 5,
             "topics": []
           },
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T16:51:35.960Z",
+    "last_updated": "2026-10-13T15:09:55.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1605,7 +1605,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-10-11T10:08:08Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "Atarity",
       "repo": "diy-synths",
       "stars": 586,
