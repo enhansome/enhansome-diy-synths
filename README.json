@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1692,
+            "stars": 1693,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -145,7 +145,7 @@
             "open_issues": 133,
             "owner": "xiphonics",
             "repo": "picoTracker",
-            "stars": 515,
+            "stars": 516,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -163,7 +163,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-10-13T13:40:42Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
             "stars": 453,
@@ -277,8 +277,8 @@
             "id": 124693844,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-13T13:49:07Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-14T15:06:48Z",
+            "open_issues": 2,
             "owner": "midilab",
             "repo": "aciduino",
             "stars": 333,
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 285,
+            "stars": 287,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -333,6 +333,27 @@
             "owner": "bastl-instruments",
             "repo": "kastle",
             "stars": 267,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:29:52.019Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Plinky",
+          "description": "8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "a public release of the plinky sw and hw",
+            "homepage": null,
+            "id": 660207910,
+            "language": "C",
+            "license": "NOASSERTION",
+            "last_commit": "2025-10-31T15:52:38Z",
+            "open_issues": 17,
+            "owner": "plinkysynth",
+            "repo": "plinky_public",
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -366,27 +387,6 @@
               "teensy",
               "teensyduino"
             ]
-          },
-          "first_seen": "2026-08-28T19:29:52.019Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Plinky",
-          "description": "8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "a public release of the plinky sw and hw",
-            "homepage": null,
-            "id": 660207910,
-            "language": "C",
-            "license": "NOASSERTION",
-            "last_commit": "2025-10-31T15:52:38Z",
-            "open_issues": 17,
-            "owner": "plinkysynth",
-            "repo": "plinky_public",
-            "stars": 224,
-            "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
         },
@@ -476,7 +476,7 @@
             "id": 679110604,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T10:17:12Z",
+            "last_commit": "2026-10-14T19:35:39Z",
             "open_issues": 13,
             "owner": "schollz",
             "repo": "_core",
@@ -666,7 +666,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-14T09:19:35Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "bastl-instruments",
             "repo": "kastle2",
             "stars": 105,
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T12:57:04.668Z",
+    "last_updated": "2026-10-15T12:44:05.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 586,
+      "stars": 587,
       "topics": [
         "awesome-list",
         "diy",
