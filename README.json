@@ -124,7 +124,7 @@
             "open_issues": 1,
             "owner": "monome",
             "repo": "norns-shield",
-            "stars": 646,
+            "stars": 647,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -163,10 +163,10 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-10-13T13:40:42Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 453,
+            "stars": 454,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 287,
+            "stars": 289,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -522,7 +522,7 @@
             "open_issues": 9,
             "owner": "Meebleeps",
             "repo": "MeeBleeps-Freaq-FM-Synth",
-            "stars": 140,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -778,7 +778,7 @@
             "open_issues": 6,
             "owner": "Meebleeps",
             "repo": "MeeBleeps-Mutant-Synth",
-            "stars": 86,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1099,7 +1099,7 @@
             "id": 1251144824,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-12T17:15:00Z",
+            "last_commit": "2026-10-15T15:14:19Z",
             "open_issues": 0,
             "owner": "rob-scape",
             "repo": "noisferatu",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T12:44:05.027Z",
+    "last_updated": "2026-10-16T12:34:56.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
