@@ -10,9 +10,9 @@ your building experience.
 
 ![DIY-synths-title](/pics/meta/repo-title.jpg)
 
-1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,750 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
+1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,751 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
 2. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) ⚠️ Archived — An experimental physical interface for the NSynth AI algorithm
-3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,693 | 🐛 83 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
+3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,696 | 🐛 83 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
 4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 958 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 — Platform for ultimate MIDI control deck building
 5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 647 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
 6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 516 | 🐛 133 | 🌐 C++ | 📅 2026-10-13 — Low cost music tracker platform
@@ -29,7 +29,7 @@ your building experience.
 17. [Moduleur](https://github.com/shmoergh/moduleur) ⭐ 218 | 🐛 10 | 🌐 HTML | 📅 2026-10-04 — Double-voice analog modular design with a touch of digital magic
 18. [ArduTouch](https://github.com/maltman23/ArduTouch) ⭐ 214 | 🐛 2 | 🌐 C++ | 📅 2021-01-03 — Arduino-compatible music synthesizer
 19. [Pikocore](https://github.com/schollz/pikocore) ⭐ 178 | 🐛 5 | 🌐 C++ | 📅 2026-08-12 — Hackable, lo-fi music mangler based on the Raspberry Pi Pico
-20. [Zeptocore](https://github.com/schollz/_core) ⭐ 157 | 🐛 13 | 🌐 C | 📅 2026-10-14 — Player and synthesizer, featuring stereo playback
+20. [Zeptocore](https://github.com/schollz/_core) ⭐ 158 | 🐛 13 | 🌐 C | 📅 2026-10-14 — Player and synthesizer, featuring stereo playback
 21. [PreenFM 2](https://github.com/Ixox/preenfm2) ⭐ 150 | 🐛 12 | 🌐 C | 📅 2024-03-23 — Beloved old FM synthesis in small, modern DIY box
 22. [Wirehead Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) ⭐ 141 | 🐛 9 | 🌐 G-code | 📅 2024-10-24 — Dual-voice, 2 operator, 8-bit FM synth in Volca form-factor
 23. [DrumKid](https://github.com/mattybrad/drumkid) ⭐ 137 | 🐛 12 | 🌐 HTML | 📅 2025-03-27 — Lo-fi aleatoric Arduino drum machine
@@ -55,7 +55,7 @@ your building experience.
 43. [Meeblip SE](https://github.com/MeeBlip/meeblip-circuits) ⭐ 47 | 🐛 0 | 📅 2011-12-05 — Hackable monophonic synth
 44. [Nano minipops](https://github.com/NANOmodules/NANO-Minipops) ⭐ 47 | 🐛 5 | 🌐 C | 📅 2018-10-30 — Korg Minipops drum machine made around Arduino
 45. [Nyblcore](https://github.com/schollz/nyblcore) ⭐ 46 | 🐛 1 | 🌐 C++ | 📅 2026-01-25 — Tiny ATtiny85-based sample player device
-46. [Overcycler](https://github.com/gligli/overcycler) ⭐ 45 | 🐛 5 | 🌐 C | 📅 2025-07-14 — Polyphonic hybrid single cycle / analog synthesizer
+46. [Overcycler](https://github.com/gligli/overcycler) ⭐ 45 | 🐛 4 | 🌐 C | 📅 2025-07-14 — Polyphonic hybrid single cycle / analog synthesizer
 47. [Hypjolin](https://github.com/triglav-modular/Hypjolin) ⭐ 44 | 🐛 0 | 📅 2023-07-21 — Cross-modulating ultra-chaos generator
 48. [Noisferatu](https://github.com/rob-scape/noisferatu) ⭐ 44 | 🐛 0 | 🌐 C | 📅 2026-10-15 — Compact, generative texture synthesizer
 49. [Fasma Festival](https://github.com/ghztomash/fasma_drum) ⭐ 34 | 🐛 2 | 🌐 C++ | 📅 2018-06-10 — Yet another Teensy drum machine with clock sync
@@ -110,4 +110,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
