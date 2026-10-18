@@ -95,7 +95,7 @@
             "open_issues": 0,
             "owner": "shanteacontrols",
             "repo": "OpenDeck",
-            "stars": 958,
+            "stars": 959,
             "topics": [
               "midi",
               "midi-controller",
@@ -455,7 +455,7 @@
             "open_issues": 5,
             "owner": "schollz",
             "repo": "pikocore",
-            "stars": 178,
+            "stars": 179,
             "topics": [
               "pico",
               "pikocore",
@@ -1234,7 +1234,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2022-08-23T10:11:31Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "e-licktronic",
             "repo": "Nava-v1.0",
             "stars": 29,
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:41:18.659Z",
+    "last_updated": "2026-10-18T12:07:27.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 587,
+      "stars": 588,
       "topics": [
         "awesome-list",
         "diy",
