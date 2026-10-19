@@ -95,7 +95,7 @@
             "open_issues": 0,
             "owner": "shanteacontrols",
             "repo": "OpenDeck",
-            "stars": 959,
+            "stars": 960,
             "topics": [
               "midi",
               "midi-controller",
@@ -145,7 +145,7 @@
             "open_issues": 133,
             "owner": "xiphonics",
             "repo": "picoTracker",
-            "stars": 516,
+            "stars": 517,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 289,
+            "stars": 291,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -353,7 +353,7 @@
             "open_issues": 17,
             "owner": "plinkysynth",
             "repo": "plinky_public",
-            "stars": 225,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -455,7 +455,7 @@
             "open_issues": 5,
             "owner": "schollz",
             "repo": "pikocore",
-            "stars": 179,
+            "stars": 180,
             "topics": [
               "pico",
               "pikocore",
@@ -476,8 +476,8 @@
             "id": 679110604,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T19:35:39Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-18T16:55:57Z",
+            "open_issues": 14,
             "owner": "schollz",
             "repo": "_core",
             "stars": 158,
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:07:27.899Z",
+    "last_updated": "2026-10-19T14:48:13.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
