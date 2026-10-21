@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "bitfieldaudio",
             "repo": "OTTO",
-            "stars": 2751,
+            "stars": 2752,
             "topics": [
               "audio",
               "audio-processing",
@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1697,
+            "stars": 1696,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -145,7 +145,7 @@
             "open_issues": 133,
             "owner": "xiphonics",
             "repo": "picoTracker",
-            "stars": 517,
+            "stars": 518,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -166,7 +166,7 @@
             "open_issues": 75,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 454,
+            "stars": 455,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -701,7 +701,7 @@
             "open_issues": 7,
             "owner": "mattvenn",
             "repo": "teensy-audio-fx",
-            "stars": 94,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T12:48:53.475Z",
+    "last_updated": "2026-10-21T13:01:47.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
