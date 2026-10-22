@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1696,
+            "stars": 1698,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -166,7 +166,7 @@
             "open_issues": 75,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 455,
+            "stars": 456,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1041,6 +1041,27 @@
         },
         {
           "node_type": "item",
+          "title": "Hypjolin",
+          "description": "Cross-modulating ultra-chaos generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cross-modulating ultra-chaos generator",
+            "homepage": "https://triglavmodular.hu/the-hypjolin",
+            "id": 528826036,
+            "language": null,
+            "license": "Unlicense",
+            "last_commit": "2023-07-21T15:32:29Z",
+            "open_issues": 0,
+            "owner": "triglav-modular",
+            "repo": "Hypjolin",
+            "stars": 45,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:29:52.019Z"
+        },
+        {
+          "node_type": "item",
           "title": "Overcycler",
           "description": "Polyphonic hybrid single cycle / analog synthesizer",
           "children": [],
@@ -1063,27 +1084,6 @@
               "polyphonic",
               "synthesizer"
             ]
-          },
-          "first_seen": "2026-08-28T19:29:52.019Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Hypjolin",
-          "description": "Cross-modulating ultra-chaos generator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Cross-modulating ultra-chaos generator",
-            "homepage": "https://triglavmodular.hu/the-hypjolin",
-            "id": 528826036,
-            "language": null,
-            "license": "Unlicense",
-            "last_commit": "2023-07-21T15:32:29Z",
-            "open_issues": 0,
-            "owner": "triglav-modular",
-            "repo": "Hypjolin",
-            "stars": 44,
-            "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
         },
@@ -1131,27 +1131,6 @@
         },
         {
           "node_type": "item",
-          "title": "Lunchbeat",
-          "description": "1-bit percussion sounds and a sequencer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "1 bit groovebox - printed circuit board version",
-            "homepage": "http://www.buranelectrix.com/lunchbeat/lunchbeat.php",
-            "id": 13936615,
-            "language": "C",
-            "license": null,
-            "last_commit": "2014-01-14T23:52:58Z",
-            "open_issues": 0,
-            "owner": "buranelectrix",
-            "repo": "lunchbeat-PCB",
-            "stars": 33,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:29:52.019Z"
-        },
-        {
-          "node_type": "item",
           "title": "Roundabout",
           "description": "Compact, CMOS-based, patchable synth",
           "children": [],
@@ -1166,6 +1145,27 @@
             "open_issues": 0,
             "owner": "MattKuebrich",
             "repo": "roundabout",
+            "stars": 34,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:29:52.019Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Lunchbeat",
+          "description": "1-bit percussion sounds and a sequencer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "1 bit groovebox - printed circuit board version",
+            "homepage": "http://www.buranelectrix.com/lunchbeat/lunchbeat.php",
+            "id": 13936615,
+            "language": "C",
+            "license": null,
+            "last_commit": "2014-01-14T23:52:58Z",
+            "open_issues": 0,
+            "owner": "buranelectrix",
+            "repo": "lunchbeat-PCB",
             "stars": 33,
             "topics": []
           },
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T13:01:47.692Z",
+    "last_updated": "2026-10-22T13:03:43.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
