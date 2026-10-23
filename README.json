@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1698,
+            "stars": 1699,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -166,7 +166,7 @@
             "open_issues": 75,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 456,
+            "stars": 457,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 293,
+            "stars": 294,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -406,7 +406,7 @@
             "open_issues": 10,
             "owner": "shmoergh",
             "repo": "moduleur",
-            "stars": 218,
+            "stars": 219,
             "topics": [
               "analog",
               "diy",
@@ -501,7 +501,7 @@
             "open_issues": 12,
             "owner": "Ixox",
             "repo": "preenfm2",
-            "stars": 150,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1329,7 +1329,7 @@
             "open_issues": 0,
             "owner": "Atarity",
             "repo": "totoro-synth",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "analog",
               "diy-electronics",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T13:03:43.013Z",
+    "last_updated": "2026-10-23T12:42:33.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 589,
+      "stars": 591,
       "topics": [
         "awesome-list",
         "diy",
