@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1699,
+            "stars": 1700,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -124,7 +124,7 @@
             "open_issues": 1,
             "owner": "monome",
             "repo": "norns-shield",
-            "stars": 647,
+            "stars": 648,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -145,7 +145,7 @@
             "open_issues": 133,
             "owner": "xiphonics",
             "repo": "picoTracker",
-            "stars": 518,
+            "stars": 519,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 294,
+            "stars": 296,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T12:42:33.140Z",
+    "last_updated": "2026-10-24T12:06:37.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
