@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "bitfieldaudio",
             "repo": "OTTO",
-            "stars": 2754,
+            "stars": 2755,
             "topics": [
               "audio",
               "audio-processing",
@@ -145,7 +145,7 @@
             "open_issues": 133,
             "owner": "xiphonics",
             "repo": "picoTracker",
-            "stars": 519,
+            "stars": 520,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -187,7 +187,7 @@
             "open_issues": 2,
             "owner": "prajwal1121",
             "repo": "Portable-Synth",
-            "stars": 450,
+            "stars": 451,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 303,
+            "stars": 304,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -402,8 +402,8 @@
             "id": 994144641,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-04T14:54:48Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-27T07:24:34Z",
+            "open_issues": 11,
             "owner": "shmoergh",
             "repo": "moduleur",
             "stars": 219,
@@ -455,7 +455,7 @@
             "open_issues": 5,
             "owner": "schollz",
             "repo": "pikocore",
-            "stars": 180,
+            "stars": 181,
             "topics": [
               "pico",
               "pikocore",
@@ -476,7 +476,7 @@
             "id": 679110604,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-18T16:55:57Z",
+            "last_commit": "2026-10-26T19:28:05Z",
             "open_issues": 14,
             "owner": "schollz",
             "repo": "_core",
@@ -669,7 +669,7 @@
             "open_issues": 1,
             "owner": "bastl-instruments",
             "repo": "kastle2",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "audio-processing",
               "bastl",
@@ -743,7 +743,7 @@
             "open_issues": 0,
             "owner": "polykit",
             "repo": "polykit-x-monosynth",
-            "stars": 92,
+            "stars": 93,
             "topics": [
               "adsr",
               "analog",
@@ -925,7 +925,7 @@
             "open_issues": 0,
             "owner": "CaratacusPotts",
             "repo": "Matrix-Sequencer",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T14:25:54.569Z",
+    "last_updated": "2026-10-27T13:24:26.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
