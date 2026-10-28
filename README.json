@@ -145,7 +145,7 @@
             "open_issues": 133,
             "owner": "xiphonics",
             "repo": "picoTracker",
-            "stars": 520,
+            "stars": 521,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -166,7 +166,7 @@
             "open_issues": 75,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 460,
+            "stars": 461,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 304,
+            "stars": 308,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -332,7 +332,7 @@
             "open_issues": 10,
             "owner": "bastl-instruments",
             "repo": "kastle",
-            "stars": 268,
+            "stars": 265,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -455,7 +455,7 @@
             "open_issues": 5,
             "owner": "schollz",
             "repo": "pikocore",
-            "stars": 181,
+            "stars": 182,
             "topics": [
               "pico",
               "pikocore",
@@ -522,7 +522,7 @@
             "open_issues": 9,
             "owner": "Meebleeps",
             "repo": "MeeBleeps-Freaq-FM-Synth",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T13:24:26.052Z",
+    "last_updated": "2026-10-28T14:10:47.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
