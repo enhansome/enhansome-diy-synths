@@ -49,7 +49,7 @@
             "open_issues": 45,
             "owner": "googlecreativelab",
             "repo": "open-nsynth-super",
-            "stars": 2494,
+            "stars": 2493,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1701,
+            "stars": 1702,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -187,7 +187,7 @@
             "open_issues": 2,
             "owner": "prajwal1121",
             "repo": "Portable-Synth",
-            "stars": 451,
+            "stars": 452,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 309,
+            "stars": 311,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -374,7 +374,7 @@
             "open_issues": 0,
             "owner": "zueblin",
             "repo": "Polaron",
-            "stars": 225,
+            "stars": 226,
             "topics": [
               "arduino",
               "audio",
@@ -498,7 +498,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2024-03-23T10:55:56Z",
-            "open_issues": 12,
+            "open_issues": 14,
             "owner": "Ixox",
             "repo": "preenfm2",
             "stars": 151,
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T14:31:37.378Z",
+    "last_updated": "2026-10-30T14:23:14.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 591,
+      "stars": 592,
       "topics": [
         "awesome-list",
         "diy",
