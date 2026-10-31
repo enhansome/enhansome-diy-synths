@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1702,
+            "stars": 1705,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 311,
+            "stars": 314,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -480,7 +480,7 @@
             "open_issues": 14,
             "owner": "schollz",
             "repo": "_core",
-            "stars": 160,
+            "stars": 161,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -606,7 +606,7 @@
             "open_issues": 3,
             "owner": "lonesoulsurfer",
             "repo": "Acid_Drip_Bassline_and_Drum_Synth",
-            "stars": 120,
+            "stars": 121,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T14:23:14.858Z",
+    "last_updated": "2026-10-31T13:44:56.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 592,
+      "stars": 593,
       "topics": [
         "awesome-list",
         "diy",
