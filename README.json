@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "bitfieldaudio",
             "repo": "OTTO",
-            "stars": 2755,
+            "stars": 2756,
             "topics": [
               "audio",
               "audio-processing",
@@ -49,7 +49,7 @@
             "open_issues": 45,
             "owner": "googlecreativelab",
             "repo": "open-nsynth-super",
-            "stars": 2493,
+            "stars": 2494,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -166,7 +166,7 @@
             "open_issues": 75,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 461,
+            "stars": 463,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 314,
+            "stars": 317,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -406,7 +406,7 @@
             "open_issues": 11,
             "owner": "shmoergh",
             "repo": "moduleur",
-            "stars": 219,
+            "stars": 220,
             "topics": [
               "analog",
               "diy",
@@ -498,10 +498,10 @@
             "language": "C",
             "license": null,
             "last_commit": "2024-03-23T10:55:56Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "Ixox",
             "repo": "preenfm2",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -666,10 +666,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-14T09:19:35Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "bastl-instruments",
             "repo": "kastle2",
-            "stars": 106,
+            "stars": 107,
             "topics": [
               "audio-processing",
               "bastl",
@@ -701,7 +701,7 @@
             "open_issues": 7,
             "owner": "mattvenn",
             "repo": "teensy-audio-fx",
-            "stars": 95,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -722,7 +722,7 @@
             "open_issues": 0,
             "owner": "oskitone",
             "repo": "poly555",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T13:44:56.467Z",
+    "last_updated": "2026-11-01T14:23:07.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 593,
+      "stars": 594,
       "topics": [
         "awesome-list",
         "diy",
