@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1705,
+            "stars": 1706,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -95,7 +95,7 @@
             "open_issues": 0,
             "owner": "shanteacontrols",
             "repo": "OpenDeck",
-            "stars": 960,
+            "stars": 961,
             "topics": [
               "midi",
               "midi-controller",
@@ -124,7 +124,7 @@
             "open_issues": 1,
             "owner": "monome",
             "repo": "norns-shield",
-            "stars": 648,
+            "stars": 649,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -166,7 +166,7 @@
             "open_issues": 75,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 463,
+            "stars": 465,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -208,7 +208,7 @@
             "open_issues": 23,
             "owner": "16n-faderbank",
             "repo": "16n",
-            "stars": 384,
+            "stars": 385,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -332,7 +332,7 @@
             "open_issues": 10,
             "owner": "bastl-instruments",
             "repo": "kastle",
-            "stars": 265,
+            "stars": 266,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -476,7 +476,7 @@
             "id": 679110604,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T19:28:05Z",
+            "last_commit": "2026-11-02T10:07:07Z",
             "open_issues": 14,
             "owner": "schollz",
             "repo": "_core",
@@ -666,10 +666,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-14T09:19:35Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "bastl-instruments",
             "repo": "kastle2",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "audio-processing",
               "bastl",
@@ -1016,6 +1016,27 @@
         },
         {
           "node_type": "item",
+          "title": "Noisferatu",
+          "description": "Compact, generative texture synthesizer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "NOISFERATU is a compact handheld generative texture synthesizer. ",
+            "homepage": null,
+            "id": 1251144824,
+            "language": "C",
+            "license": null,
+            "last_commit": "2026-10-15T15:14:19Z",
+            "open_issues": 0,
+            "owner": "rob-scape",
+            "repo": "noisferatu",
+            "stars": 46,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:29:52.019Z"
+        },
+        {
+          "node_type": "item",
           "title": "Nyblcore",
           "description": "Tiny ATtiny85-based sample player device",
           "children": [],
@@ -1055,27 +1076,6 @@
             "open_issues": 0,
             "owner": "triglav-modular",
             "repo": "Hypjolin",
-            "stars": 45,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:29:52.019Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Noisferatu",
-          "description": "Compact, generative texture synthesizer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "NOISFERATU is a compact handheld generative texture synthesizer. ",
-            "homepage": null,
-            "id": 1251144824,
-            "language": "C",
-            "license": null,
-            "last_commit": "2026-10-15T15:14:19Z",
-            "open_issues": 0,
-            "owner": "rob-scape",
-            "repo": "noisferatu",
             "stars": 45,
             "topics": []
           },
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T14:23:07.803Z",
+    "last_updated": "2026-11-02T17:16:20.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
