@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "bitfieldaudio",
             "repo": "OTTO",
-            "stars": 2756,
+            "stars": 2757,
             "topics": [
               "audio",
               "audio-processing",
@@ -281,7 +281,7 @@
             "open_issues": 2,
             "owner": "midilab",
             "repo": "aciduino",
-            "stars": 333,
+            "stars": 334,
             "topics": [
               "303",
               "arduino",
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 317,
+            "stars": 319,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -476,7 +476,7 @@
             "id": 679110604,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T10:07:07Z",
+            "last_commit": "2026-11-03T11:18:47Z",
             "open_issues": 14,
             "owner": "schollz",
             "repo": "_core",
@@ -606,7 +606,7 @@
             "open_issues": 3,
             "owner": "lonesoulsurfer",
             "repo": "Acid_Drip_Bassline_and_Drum_Synth",
-            "stars": 121,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -722,7 +722,7 @@
             "open_issues": 0,
             "owner": "oskitone",
             "repo": "poly555",
-            "stars": 94,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T17:16:20.951Z",
+    "last_updated": "2026-11-03T15:22:17.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
