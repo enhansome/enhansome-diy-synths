@@ -12,11 +12,11 @@ your building experience.
 
 1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,757 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
 2. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) ⚠️ Archived — An experimental physical interface for the NSynth AI algorithm
-3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,707 | 🐛 83 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
-4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 961 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 — Platform for ultimate MIDI control deck building
+3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,709 | 🐛 83 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
+4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 960 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 — Platform for ultimate MIDI control deck building
 5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 649 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
 6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 521 | 🐛 133 | 🌐 C++ | 📅 2026-10-13 — Low cost music tracker platform
-7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 466 | 🐛 75 | 🌐 C++ | 📅 2026-10-13 — Suzuki's Omnichord-like pocket instrument based on Teensy
+7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 467 | 🐛 75 | 🌐 C++ | 📅 2026-10-13 — Suzuki's Omnichord-like pocket instrument based on Teensy
 8. [Portable synth](https://github.com/prajwal1121/Portable-Synth) ⭐ 452 | 🐛 2 | 🌐 C++ | 📅 2021-10-12 — OP-1 style portable groovebox based on Teensy 4
 9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 385 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
 10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 358 | 🐛 28 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
@@ -29,7 +29,7 @@ your building experience.
 17. [Moduleur](https://github.com/shmoergh/moduleur) ⭐ 220 | 🐛 11 | 🌐 HTML | 📅 2026-10-27 — Double-voice analog modular design with a touch of digital magic
 18. [ArduTouch](https://github.com/maltman23/ArduTouch) ⭐ 214 | 🐛 2 | 🌐 C++ | 📅 2021-01-03 — Arduino-compatible music synthesizer
 19. [Pikocore](https://github.com/schollz/pikocore) ⭐ 182 | 🐛 5 | 🌐 C++ | 📅 2026-08-12 — Hackable, lo-fi music mangler based on the Raspberry Pi Pico
-20. [Zeptocore](https://github.com/schollz/_core) ⭐ 161 | 🐛 14 | 🌐 C | 📅 2026-11-03 — Player and synthesizer, featuring stereo playback
+20. [Zeptocore](https://github.com/schollz/_core) ⭐ 161 | 🐛 14 | 🌐 C | 📅 2026-11-05 — Player and synthesizer, featuring stereo playback
 21. [PreenFM 2](https://github.com/Ixox/preenfm2) ⭐ 152 | 🐛 15 | 🌐 C | 📅 2024-03-23 — Beloved old FM synthesis in small, modern DIY box
 22. [Wirehead Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) ⭐ 142 | 🐛 9 | 🌐 G-code | 📅 2024-10-24 — Dual-voice, 2 operator, 8-bit FM synth in Volca form-factor
 23. [DrumKid](https://github.com/mattybrad/drumkid) ⭐ 137 | 🐛 12 | 🌐 HTML | 📅 2025-03-27 — Lo-fi aleatoric Arduino drum machine
@@ -49,7 +49,7 @@ your building experience.
 37. [Teensy Beats Shield](https://github.com/trailhead/teensy-beats) ⭐ 67 | 🐛 3 | 🌐 C++ | 📅 2021-02-08 — Handheld audio sequencer in PO style
 38. [N32B](https://github.com/Shik-Tech/N32B) ⭐ 59 | 🐛 0 | 📅 2023-02-25 — Hi-res macro MIDI controller
 39. [Multi](https://github.com/pangrus/multi/) ⭐ 58 | 🐛 1 | 🌐 C++ | 📅 2025-01-12 — Generative sequencer with swappable synth engines
-40. [Matrix sequencer](https://github.com/CaratacusPotts/Matrix-Sequencer) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2026-02-17 — Standalone MIDI sequencer
+40. [Matrix sequencer](https://github.com/CaratacusPotts/Matrix-Sequencer) ⭐ 52 | 🐛 0 | 🌐 C++ | 📅 2026-02-17 — Standalone MIDI sequencer
 41. [Meeblip Triode](https://github.com/MeeBlip/meeblip-triode) ⭐ 50 | 🐛 3 | 🌐 Eagle | 📅 2017-03-08 — Hackable monophonic synth based on ATmega32
 42. [Meeblip Micro](https://github.com/MeeBlip/meeblip-circuits) ⭐ 47 | 🐛 0 | 📅 2011-12-05 — Hackable monophonic synth
 43. [Meeblip SE](https://github.com/MeeBlip/meeblip-circuits) ⭐ 47 | 🐛 0 | 📅 2011-12-05 — Hackable monophonic synth
@@ -110,4 +110,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
