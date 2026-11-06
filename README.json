@@ -166,7 +166,7 @@
             "open_issues": 75,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 467,
+            "stars": 469,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -208,7 +208,7 @@
             "open_issues": 23,
             "owner": "16n-faderbank",
             "repo": "16n",
-            "stars": 385,
+            "stars": 384,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 319,
+            "stars": 320,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T15:39:33.988Z",
+    "last_updated": "2026-11-06T15:13:21.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 594,
+      "stars": 595,
       "topics": [
         "awesome-list",
         "diy",
