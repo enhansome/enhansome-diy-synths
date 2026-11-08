@@ -95,7 +95,7 @@
             "open_issues": 0,
             "owner": "shanteacontrols",
             "repo": "OpenDeck",
-            "stars": 960,
+            "stars": 961,
             "topics": [
               "midi",
               "midi-controller",
@@ -124,7 +124,7 @@
             "open_issues": 1,
             "owner": "monome",
             "repo": "norns-shield",
-            "stars": 649,
+            "stars": 650,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -208,7 +208,7 @@
             "open_issues": 24,
             "owner": "16n-faderbank",
             "repo": "16n",
-            "stars": 383,
+            "stars": 384,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 321,
+            "stars": 322,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -406,7 +406,7 @@
             "open_issues": 11,
             "owner": "shmoergh",
             "repo": "moduleur",
-            "stars": 221,
+            "stars": 222,
             "topics": [
               "analog",
               "diy",
@@ -606,7 +606,7 @@
             "open_issues": 3,
             "owner": "lonesoulsurfer",
             "repo": "Acid_Drip_Bassline_and_Drum_Synth",
-            "stars": 120,
+            "stars": 121,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -669,7 +669,7 @@
             "open_issues": 3,
             "owner": "bastl-instruments",
             "repo": "kastle2",
-            "stars": 109,
+            "stars": 110,
             "topics": [
               "audio-processing",
               "bastl",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:14:12.207Z",
+    "last_updated": "2026-11-08T14:23:19.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 596,
+      "stars": 597,
       "topics": [
         "awesome-list",
         "diy",
