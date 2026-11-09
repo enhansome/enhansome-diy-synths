@@ -145,7 +145,7 @@
             "open_issues": 133,
             "owner": "xiphonics",
             "repo": "picoTracker",
-            "stars": 522,
+            "stars": 523,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -406,7 +406,7 @@
             "open_issues": 11,
             "owner": "shmoergh",
             "repo": "moduleur",
-            "stars": 222,
+            "stars": 223,
             "topics": [
               "analog",
               "diy",
@@ -455,7 +455,7 @@
             "open_issues": 5,
             "owner": "schollz",
             "repo": "pikocore",
-            "stars": 182,
+            "stars": 184,
             "topics": [
               "pico",
               "pikocore",
@@ -476,11 +476,11 @@
             "id": 679110604,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T14:49:37Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-09T15:56:26Z",
+            "open_issues": 15,
             "owner": "schollz",
             "repo": "_core",
-            "stars": 161,
+            "stars": 162,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -669,7 +669,7 @@
             "open_issues": 3,
             "owner": "bastl-instruments",
             "repo": "kastle2",
-            "stars": 110,
+            "stars": 111,
             "topics": [
               "audio-processing",
               "bastl",
@@ -1341,6 +1341,27 @@
         },
         {
           "node_type": "item",
+          "title": "Flounder",
+          "description": "Teensy based USB midi keyboard + controls + stereo audio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "usb midi keyboard + controls + stereo audio",
+            "homepage": null,
+            "id": 502480149,
+            "language": "C++",
+            "license": null,
+            "last_commit": "2023-10-05T14:08:22Z",
+            "open_issues": 0,
+            "owner": "MattKuebrich",
+            "repo": "flounder",
+            "stars": 18,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:29:52.019Z"
+        },
+        {
+          "node_type": "item",
           "title": "Protean",
           "description": "CMOS-based motion texture source",
           "children": [],
@@ -1356,27 +1377,6 @@
             "owner": "pangrus",
             "repo": "Protean",
             "stars": 18,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:29:52.019Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Flounder",
-          "description": "Teensy based USB midi keyboard + controls + stereo audio",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "usb midi keyboard + controls + stereo audio",
-            "homepage": null,
-            "id": 502480149,
-            "language": "C++",
-            "license": null,
-            "last_commit": "2023-10-05T14:08:22Z",
-            "open_issues": 0,
-            "owner": "MattKuebrich",
-            "repo": "flounder",
-            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T14:23:19.937Z",
+    "last_updated": "2026-11-09T17:41:28.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 597,
+      "stars": 598,
       "topics": [
         "awesome-list",
         "diy",
