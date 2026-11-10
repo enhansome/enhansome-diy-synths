@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1709,
+            "stars": 1708,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -95,7 +95,7 @@
             "open_issues": 0,
             "owner": "shanteacontrols",
             "repo": "OpenDeck",
-            "stars": 961,
+            "stars": 962,
             "topics": [
               "midi",
               "midi-controller",
@@ -166,7 +166,7 @@
             "open_issues": 75,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 470,
+            "stars": 471,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -229,7 +229,7 @@
             "open_issues": 28,
             "owner": "rasteri",
             "repo": "SC1000",
-            "stars": 358,
+            "stars": 359,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -281,7 +281,7 @@
             "open_issues": 2,
             "owner": "midilab",
             "repo": "aciduino",
-            "stars": 334,
+            "stars": 335,
             "topics": [
               "303",
               "arduino",
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 322,
+            "stars": 323,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T17:41:28.218Z",
+    "last_updated": "2026-11-10T15:41:08.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
