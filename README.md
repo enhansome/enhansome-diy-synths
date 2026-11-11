@@ -12,17 +12,17 @@ your building experience.
 
 1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,756 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
 2. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) ⚠️ Archived — An experimental physical interface for the NSynth AI algorithm
-3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,708 | 🐛 83 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
+3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,709 | 🐛 83 | 🌐 C++ | 📅 2026-04-18 — FM synthesizer closely modeled on the famous DX7
 4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 962 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 — Platform for ultimate MIDI control deck building
 5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 650 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
-6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 523 | 🐛 133 | 🌐 C++ | 📅 2026-10-13 — Low cost music tracker platform
+6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 524 | 🐛 133 | 🌐 C++ | 📅 2026-10-13 — Low cost music tracker platform
 7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 471 | 🐛 75 | 🌐 C++ | 📅 2026-10-13 — Suzuki's Omnichord-like pocket instrument based on Teensy
 8. [Portable synth](https://github.com/prajwal1121/Portable-Synth) ⭐ 452 | 🐛 2 | 🌐 C++ | 📅 2021-10-12 — OP-1 style portable groovebox based on Teensy 4
 9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 384 | 🐛 24 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
 10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 359 | 🐛 28 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
 11. [PicoStepSeq](https://github.com/todbot/picostepseq) ⭐ 352 | 🐛 3 | 🌐 C | 📅 2025-10-19 — 8-step MIDI sequencer
 12. [Aciduino](https://github.com/midilab/aciduino/tree/master/v1/) ⭐ 335 | 🐛 2 | 🌐 C++ | 📅 2026-10-14 — Roland TB-303 step sequencer clone aimed for live interaction
-13. [CHOMPI](https://github.com/CHOMPI-Club/CHOMPI) ⭐ 323 | 🐛 0 | 🌐 C++ | 📅 2026-09-29 — Chromatic sampler and tape-music instrument
+13. [CHOMPI](https://github.com/CHOMPI-Club/CHOMPI) ⭐ 324 | 🐛 0 | 🌐 C++ | 📅 2026-09-29 — Chromatic sampler and tape-music instrument
 14. [Kastle](https://github.com/bastl-instruments/kastle) ⭐ 266 | 🐛 10 | 🌐 C | 📅 2025-01-29 — Lo-fi, pocketable modular synth
 15. [Plinky](https://github.com/plinkysynth/plinky_public/tree/main) ⭐ 227 | 🐛 17 | 🌐 C | 📅 2025-10-31 — 8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds
 16. [Polaron](https://github.com/zueblin/Polaron) ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2020-09-05 — Digital drum machine based on Teensy 3
@@ -37,8 +37,8 @@ your building experience.
 25. [Hog](https://github.com/shmoergh/hog/) ⭐ 124 | 🐛 10 | 🌐 C++ | 📅 2025-07-13 — Double-voice analog monophonic synthesizer with two oscillators
 26. [Acid Drip](https://github.com/lonesoulsurfer/Acid_Drip_Bassline_and_Drum_Synth) ⭐ 121 | 🐛 3 | 🌐 C++ | 📅 2026-09-13 — Acid bassline synth and drum machine
 27. [Mega MIDI](https://github.com/AidanHockey5/MegaMIDI) ⭐ 116 | 🐛 2 | 🌐 C++ | 📅 2022-04-03 — MIDI-compatible Sega Genesis/Megadrive synthesizer with real sound chips
-28. [YM2149 Synth](https://github.com/trash80/Ym2149Synth) ⭐ 112 | 🐛 1 | 🌐 Max | 📅 2017-07-26 — Little chip that was used in various retro arcade machines and consoles now ready to serve
-29. [Kastle 2](https://github.com/bastl-instruments/kastle2) ⭐ 111 | 🐛 3 | 🌐 C++ | 📅 2026-08-14 — Patchable, pocketable and open platforrm
+28. [Kastle 2](https://github.com/bastl-instruments/kastle2) ⭐ 112 | 🐛 3 | 🌐 C++ | 📅 2026-08-14 — Patchable, pocketable and open platforrm
+29. [YM2149 Synth](https://github.com/trash80/Ym2149Synth) ⭐ 112 | 🐛 1 | 🌐 Max | 📅 2017-07-26 — Little chip that was used in various retro arcade machines and consoles now ready to serve
 30. [Teensy Audio FX](https://github.com/mattvenn/teensy-audio-fx) ⭐ 96 | 🐛 7 | 🌐 C++ | 📅 2021-09-18 — Playable effects modeled on the Teenage Engineering PO series
 31. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) ⭐ 94 | 🐛 0 | 📅 2023-12-24 — Full analog, semi modular synthesizer
 32. [POLY555](https://github.com/oskitone/poly555) ⭐ 93 | 🐛 0 | 🌐 OpenSCAD | 📅 2024-11-23 — Polyphonic, analog, square wave synth based on the 555 timer
@@ -68,7 +68,7 @@ your building experience.
 56. [Grandbot](https://github.com/handeyeco/Grandbot) ⭐ 23 | 🐛 1 | 🌐 C++ | 📅 2026-09-15 — Generative, pattern-based MIDI arpeggiator
 57. [Lil' mono](https://github.com/diysynth/STANDALONE-DEVICES) ⭐ 23 | 🐛 1 | 📅 2024-07-15 — Simple east-coast style analog synthesizer
 58. [Totoro](https://github.com/Atarity/totoro-synth) ⭐ 22 | 🐛 0 | 🌐 Prolog | 📅 2025-03-29 — Cheap and easy to solder 2 oscillators synth on single IC
-59. [Flounder](https://github.com/MattKuebrich/flounder) ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2023-10-05 — Teensy based USB midi keyboard + controls + stereo audio
+59. [Flounder](https://github.com/MattKuebrich/flounder) ⭐ 19 | 🐛 0 | 🌐 C++ | 📅 2023-10-05 — Teensy based USB midi keyboard + controls + stereo audio
 60. [Protean](https://github.com/pangrus/Protean) ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2023-11-02 — CMOS-based motion texture source
 61. [Yocto](https://github.com/e-licktronic/Yocto-V2.0) ⭐ 16 | 🐛 0 | 🌐 C++ | 📅 2023-09-27 — Clone of Roland TR-808 drum machine
 62. [Hidden Sound Explorer](https://github.com/pangrus/HSE-Hidden_Sound_Explorer) ⭐ 14 | 🐛 0 | 📅 2022-04-29 — Electromagnetic fields analog transducer
@@ -110,4 +110,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

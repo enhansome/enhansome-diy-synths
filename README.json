@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1708,
+            "stars": 1709,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -145,7 +145,7 @@
             "open_issues": 133,
             "owner": "xiphonics",
             "repo": "picoTracker",
-            "stars": 523,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 323,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -634,6 +634,38 @@
         },
         {
           "node_type": "item",
+          "title": "Kastle 2",
+          "description": "Patchable, pocketable and open platforrm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A modular DSP platform that fits into your pocket! Comes with open-source codebase and schematics. Citadel compatible.",
+            "homepage": null,
+            "id": 1138201931,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-08-14T09:19:35Z",
+            "open_issues": 3,
+            "owner": "bastl-instruments",
+            "repo": "kastle2",
+            "stars": 112,
+            "topics": [
+              "audio-processing",
+              "bastl",
+              "diy-electronics",
+              "diy-synth",
+              "dsp",
+              "eurorack",
+              "fixed-point-arithmetic",
+              "pi-pico",
+              "rp2040",
+              "synthesizer"
+            ]
+          },
+          "first_seen": "2026-08-28T19:29:52.019Z"
+        },
+        {
+          "node_type": "item",
           "title": "YM2149 Synth",
           "description": "Little chip that was used in various retro arcade machines and consoles now ready to serve",
           "children": [],
@@ -650,38 +682,6 @@
             "repo": "Ym2149Synth",
             "stars": 112,
             "topics": []
-          },
-          "first_seen": "2026-08-28T19:29:52.019Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Kastle 2",
-          "description": "Patchable, pocketable and open platforrm",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A modular DSP platform that fits into your pocket! Comes with open-source codebase and schematics. Citadel compatible.",
-            "homepage": null,
-            "id": 1138201931,
-            "language": "C++",
-            "license": "MIT",
-            "last_commit": "2026-08-14T09:19:35Z",
-            "open_issues": 3,
-            "owner": "bastl-instruments",
-            "repo": "kastle2",
-            "stars": 111,
-            "topics": [
-              "audio-processing",
-              "bastl",
-              "diy-electronics",
-              "diy-synth",
-              "dsp",
-              "eurorack",
-              "fixed-point-arithmetic",
-              "pi-pico",
-              "rp2040",
-              "synthesizer"
-            ]
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
         },
@@ -1355,7 +1355,7 @@
             "open_issues": 0,
             "owner": "MattKuebrich",
             "repo": "flounder",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T15:41:08.984Z",
+    "last_updated": "2026-11-11T15:28:42.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
