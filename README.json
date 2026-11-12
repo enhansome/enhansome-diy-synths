@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "bitfieldaudio",
             "repo": "OTTO",
-            "stars": 2756,
+            "stars": 2757,
             "topics": [
               "audio",
               "audio-processing",
@@ -95,7 +95,7 @@
             "open_issues": 0,
             "owner": "shanteacontrols",
             "repo": "OpenDeck",
-            "stars": 962,
+            "stars": 963,
             "topics": [
               "midi",
               "midi-controller",
@@ -281,7 +281,7 @@
             "open_issues": 2,
             "owner": "midilab",
             "repo": "aciduino",
-            "stars": 335,
+            "stars": 336,
             "topics": [
               "303",
               "arduino",
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "CHOMPI-Club",
             "repo": "CHOMPI",
-            "stars": 324,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-10-11T14:14:03.017Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T15:28:42.154Z",
+    "last_updated": "2026-11-12T16:04:20.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
