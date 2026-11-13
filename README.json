@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "bitfieldaudio",
             "repo": "OTTO",
-            "stars": 2757,
+            "stars": 2758,
             "topics": [
               "audio",
               "audio-processing",
@@ -124,7 +124,7 @@
             "open_issues": 1,
             "owner": "monome",
             "repo": "norns-shield",
-            "stars": 650,
+            "stars": 648,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -166,7 +166,7 @@
             "open_issues": 75,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 471,
+            "stars": 472,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -208,7 +208,7 @@
             "open_issues": 24,
             "owner": "16n-faderbank",
             "repo": "16n",
-            "stars": 384,
+            "stars": 385,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -353,7 +353,7 @@
             "open_issues": 17,
             "owner": "plinkysynth",
             "repo": "plinky_public",
-            "stars": 227,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -406,7 +406,7 @@
             "open_issues": 11,
             "owner": "shmoergh",
             "repo": "moduleur",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "analog",
               "diy",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T16:04:20.223Z",
+    "last_updated": "2026-11-13T15:31:29.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
