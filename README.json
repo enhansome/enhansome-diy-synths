@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1709,
+            "stars": 1710,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -187,7 +187,7 @@
             "open_issues": 2,
             "owner": "prajwal1121",
             "repo": "Portable-Synth",
-            "stars": 452,
+            "stars": 453,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -208,7 +208,7 @@
             "open_issues": 24,
             "owner": "16n-faderbank",
             "repo": "16n",
-            "stars": 385,
+            "stars": 386,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -455,7 +455,7 @@
             "open_issues": 5,
             "owner": "schollz",
             "repo": "pikocore",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "pico",
               "pikocore",
@@ -597,17 +597,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "All in one acid bassline and groove box - run off a Raspberry Pi",
-            "homepage": null,
+            "description": "DIY RP2040 groovebox: acid bassline synth, DRIFT synth and drum machine. Mozzi audio, ILI9341 screen, 16 Cherry MX pads.",
+            "homepage": "https://www.instructables.com/Acid-Drip-a-Acid-Bassline-Synth-Running-on-a-Raspb/",
             "id": 1264548131,
             "language": "C++",
-            "license": null,
-            "last_commit": "2026-09-13T07:09:29Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-14T06:24:52Z",
             "open_issues": 3,
             "owner": "lonesoulsurfer",
             "repo": "Acid_Drip_Bassline_and_Drum_Synth",
             "stars": 121,
-            "topics": []
+            "topics": [
+              "arduino",
+              "diy-electronics",
+              "drum-machine",
+              "groovebox",
+              "kicad",
+              "mozzi",
+              "raspberry-pi-pico",
+              "rp2040",
+              "sequencer",
+              "synthesizer",
+              "tb-303"
+            ]
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
         },
@@ -1187,7 +1199,7 @@
             "open_issues": 0,
             "owner": "thomasfredericks",
             "repo": "Op-Synth",
-            "stars": 30,
+            "stars": 31,
             "topics": [
               "analog",
               "art",
@@ -1596,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T15:31:29.462Z",
+    "last_updated": "2026-11-14T14:21:18.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
