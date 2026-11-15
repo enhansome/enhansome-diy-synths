@@ -66,7 +66,7 @@
             "id": 455922808,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-04-18T09:39:51Z",
+            "last_commit": "2026-11-15T12:57:02Z",
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
@@ -124,7 +124,7 @@
             "open_issues": 1,
             "owner": "monome",
             "repo": "norns-shield",
-            "stars": 648,
+            "stars": 649,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -162,11 +162,11 @@
             "id": 848864434,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-13T13:40:42Z",
+            "last_commit": "2026-11-15T11:06:49Z",
             "open_issues": 75,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 472,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -229,7 +229,7 @@
             "open_issues": 28,
             "owner": "rasteri",
             "repo": "SC1000",
-            "stars": 359,
+            "stars": 360,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -455,7 +455,7 @@
             "open_issues": 5,
             "owner": "schollz",
             "repo": "pikocore",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "pico",
               "pikocore",
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:21:18.637Z",
+    "last_updated": "2026-11-15T14:52:28.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1620,7 +1620,7 @@
       "open_issues": 1,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 598,
+      "stars": 599,
       "topics": [
         "awesome-list",
         "diy",
