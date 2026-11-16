@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "bitfieldaudio",
             "repo": "OTTO",
-            "stars": 2758,
+            "stars": 2757,
             "topics": [
               "audio",
               "audio-processing",
@@ -49,7 +49,7 @@
             "open_issues": 45,
             "owner": "googlecreativelab",
             "repo": "open-nsynth-super",
-            "stars": 2494,
+            "stars": 2493,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1710,
+            "stars": 1711,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -95,7 +95,7 @@
             "open_issues": 0,
             "owner": "shanteacontrols",
             "repo": "OpenDeck",
-            "stars": 963,
+            "stars": 964,
             "topics": [
               "midi",
               "midi-controller",
@@ -250,7 +250,7 @@
             "open_issues": 3,
             "owner": "todbot",
             "repo": "picostepseq",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "circuitpython",
               "midi",
@@ -281,7 +281,7 @@
             "open_issues": 2,
             "owner": "midilab",
             "repo": "aciduino",
-            "stars": 336,
+            "stars": 337,
             "topics": [
               "303",
               "arduino",
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T14:52:28.288Z",
+    "last_updated": "2026-11-16T17:12:32.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
