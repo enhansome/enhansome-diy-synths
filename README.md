@@ -12,7 +12,7 @@ your building experience.
 
 1. [OTTO](https://github.com/bitfieldaudio/OTTO) ⭐ 2,758 | 🐛 19 | 🌐 C++ | 📅 2023-01-23 — Digital groovebox with synths, looper, samplers, effects and a sequencer
 2. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) ⚠️ Archived — An experimental physical interface for the NSynth AI algorithm
-3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,714 | 🐛 83 | 🌐 C++ | 📅 2026-11-15 — FM synthesizer closely modeled on the famous DX7
+3. [Mini Dexed](https://github.com/probonopd/MiniDexed) ⭐ 1,716 | 🐛 83 | 🌐 C++ | 📅 2026-11-15 — FM synthesizer closely modeled on the famous DX7
 4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 964 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 — Platform for ultimate MIDI control deck building
 5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 649 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
 6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 524 | 🐛 133 | 🌐 C++ | 📅 2026-10-13 — Low cost music tracker platform
@@ -110,4 +110,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
