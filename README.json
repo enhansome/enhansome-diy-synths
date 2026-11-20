@@ -95,7 +95,7 @@
             "open_issues": 0,
             "owner": "shanteacontrols",
             "repo": "OpenDeck",
-            "stars": 966,
+            "stars": 967,
             "topics": [
               "midi",
               "midi-controller",
@@ -124,7 +124,7 @@
             "open_issues": 1,
             "owner": "monome",
             "repo": "norns-shield",
-            "stars": 649,
+            "stars": 648,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -229,7 +229,7 @@
             "open_issues": 28,
             "owner": "rasteri",
             "repo": "SC1000",
-            "stars": 361,
+            "stars": 360,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -332,7 +332,7 @@
             "open_issues": 10,
             "owner": "bastl-instruments",
             "repo": "kastle",
-            "stars": 267,
+            "stars": 268,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -660,7 +660,7 @@
             "open_issues": 3,
             "owner": "bastl-instruments",
             "repo": "kastle2",
-            "stars": 113,
+            "stars": 114,
             "topics": [
               "audio-processing",
               "bastl",
@@ -1598,7 +1598,7 @@
             "open_issues": 1,
             "owner": "poetaster",
             "repo": "spires",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:40:13.207Z",
+    "last_updated": "2026-11-20T16:15:54.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
@@ -1620,7 +1620,7 @@
       "open_issues": 1,
       "owner": "Atarity",
       "repo": "diy-synths",
-      "stars": 599,
+      "stars": 601,
       "topics": [
         "awesome-list",
         "diy",
