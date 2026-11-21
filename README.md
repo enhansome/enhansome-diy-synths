@@ -16,19 +16,19 @@ your building experience.
 4. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) ⭐ 967 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 — Platform for ultimate MIDI control deck building
 5. [Norns shield](https://github.com/monome/norns-shield) ⭐ 648 | 🐛 1 | 📅 2026-02-07 — Dynamic instrument, creation platform and musical computer
 6. [PicoTracker](https://github.com/xiphonics/picoTracker) ⭐ 523 | 🐛 133 | 🌐 C++ | 📅 2026-10-13 — Low cost music tracker platform
-7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 474 | 🐛 75 | 🌐 C++ | 📅 2026-11-15 — Suzuki's Omnichord-like pocket instrument based on Teensy
+7. [Minichord](https://github.com/BenjaminPoilve/minichord) ⭐ 475 | 🐛 75 | 🌐 C++ | 📅 2026-11-15 — Suzuki's Omnichord-like pocket instrument based on Teensy
 8. [Portable synth](https://github.com/prajwal1121/Portable-Synth) ⭐ 453 | 🐛 2 | 🌐 C++ | 📅 2021-10-12 — OP-1 style portable groovebox based on Teensy 4
 9. [Faderbank 16n](https://github.com/16n-faderbank/16n) ⭐ 386 | 🐛 23 | 🌐 C++ | 📅 2025-04-06 — 16 faders MIDI-controller compatible with modular world
 10. [SC1000](https://github.com/rasteri/SC1000/tree/master) ⭐ 360 | 🐛 28 | 🌐 C | 📅 2023-12-21 — Portable digital scratch instrument
 11. [PicoStepSeq](https://github.com/todbot/picostepseq) ⭐ 353 | 🐛 3 | 🌐 C | 📅 2025-10-19 — 8-step MIDI sequencer
 12. [Aciduino](https://github.com/midilab/aciduino/tree/master/v1/) ⭐ 338 | 🐛 2 | 🌐 C++ | 📅 2026-11-19 — Roland TB-303 step sequencer clone aimed for live interaction
 13. [CHOMPI](https://github.com/CHOMPI-Club/CHOMPI) ⭐ 328 | 🐛 0 | 🌐 C++ | 📅 2026-09-29 — Chromatic sampler and tape-music instrument
-14. [Kastle](https://github.com/bastl-instruments/kastle) ⭐ 268 | 🐛 10 | 🌐 C | 📅 2025-01-29 — Lo-fi, pocketable modular synth
-15. [Plinky](https://github.com/plinkysynth/plinky_public/tree/main) ⭐ 226 | 🐛 17 | 🌐 C | 📅 2025-10-31 — 8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds
-16. [Polaron](https://github.com/zueblin/Polaron) ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2020-09-05 — Digital drum machine based on Teensy 3
-17. [Moduleur](https://github.com/shmoergh/moduleur) ⭐ 224 | 🐛 11 | 🌐 HTML | 📅 2026-10-27 — Double-voice analog modular design with a touch of digital magic
+14. [Kastle](https://github.com/bastl-instruments/kastle) ⭐ 269 | 🐛 10 | 🌐 C | 📅 2025-01-29 — Lo-fi, pocketable modular synth
+15. [Polaron](https://github.com/zueblin/Polaron) ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2020-09-05 — Digital drum machine based on Teensy 3
+16. [Moduleur](https://github.com/shmoergh/moduleur) ⭐ 225 | 🐛 11 | 🌐 HTML | 📅 2026-10-27 — Double-voice analog modular design with a touch of digital magic
+17. [Plinky](https://github.com/plinkysynth/plinky_public/tree/main) ⭐ 225 | 🐛 17 | 🌐 C | 📅 2025-10-31 — 8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds
 18. [ArduTouch](https://github.com/maltman23/ArduTouch) ⭐ 214 | 🐛 2 | 🌐 C++ | 📅 2021-01-03 — Arduino-compatible music synthesizer
-19. [Pikocore](https://github.com/schollz/pikocore) ⭐ 186 | 🐛 5 | 🌐 C++ | 📅 2026-08-12 — Hackable, lo-fi music mangler based on the Raspberry Pi Pico
+19. [Pikocore](https://github.com/schollz/pikocore) ⭐ 187 | 🐛 5 | 🌐 C++ | 📅 2026-08-12 — Hackable, lo-fi music mangler based on the Raspberry Pi Pico
 20. [Zeptocore](https://github.com/schollz/_core) ⭐ 162 | 🐛 15 | 🌐 C | 📅 2026-11-09 — Player and synthesizer, featuring stereo playback
 21. [PreenFM 2](https://github.com/Ixox/preenfm2) ⭐ 152 | 🐛 15 | 🌐 C | 📅 2024-03-23 — Beloved old FM synthesis in small, modern DIY box
 22. [Wirehead Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) ⭐ 142 | 🐛 9 | 🌐 G-code | 📅 2024-10-24 — Dual-voice, 2 operator, 8-bit FM synth in Volca form-factor
@@ -37,7 +37,7 @@ your building experience.
 25. [Hog](https://github.com/shmoergh/hog/) ⭐ 124 | 🐛 10 | 🌐 C++ | 📅 2025-07-13 — Double-voice analog monophonic synthesizer with two oscillators
 26. [Acid Drip](https://github.com/lonesoulsurfer/Acid_Drip_Bassline_and_Drum_Synth) ⭐ 121 | 🐛 3 | 🌐 C++ | 📅 2026-11-14 — Acid bassline synth and drum machine
 27. [Mega MIDI](https://github.com/AidanHockey5/MegaMIDI) ⭐ 116 | 🐛 2 | 🌐 C++ | 📅 2022-04-03 — MIDI-compatible Sega Genesis/Megadrive synthesizer with real sound chips
-28. [Kastle 2](https://github.com/bastl-instruments/kastle2) ⭐ 114 | 🐛 3 | 🌐 C++ | 📅 2026-08-14 — Patchable, pocketable and open platforrm
+28. [Kastle 2](https://github.com/bastl-instruments/kastle2) ⭐ 115 | 🐛 3 | 🌐 C++ | 📅 2026-08-14 — Patchable, pocketable and open platforrm
 29. [YM2149 Synth](https://github.com/trash80/Ym2149Synth) ⭐ 112 | 🐛 1 | 🌐 Max | 📅 2017-07-26 — Little chip that was used in various retro arcade machines and consoles now ready to serve
 30. [Teensy Audio FX](https://github.com/mattvenn/teensy-audio-fx) ⭐ 96 | 🐛 7 | 🌐 C++ | 📅 2021-09-18 — Playable effects modeled on the Teenage Engineering PO series
 31. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) ⭐ 94 | 🐛 0 | 📅 2023-12-24 — Full analog, semi modular synthesizer
@@ -49,7 +49,7 @@ your building experience.
 37. [Teensy Beats Shield](https://github.com/trailhead/teensy-beats) ⭐ 67 | 🐛 3 | 🌐 C++ | 📅 2021-02-08 — Handheld audio sequencer in PO style
 38. [N32B](https://github.com/Shik-Tech/N32B) ⭐ 59 | 🐛 0 | 📅 2023-02-25 — Hi-res macro MIDI controller
 39. [Multi](https://github.com/pangrus/multi/) ⭐ 58 | 🐛 1 | 🌐 C++ | 📅 2025-01-12 — Generative sequencer with swappable synth engines
-40. [Matrix sequencer](https://github.com/CaratacusPotts/Matrix-Sequencer) ⭐ 52 | 🐛 0 | 🌐 C++ | 📅 2026-02-17 — Standalone MIDI sequencer
+40. [Matrix sequencer](https://github.com/CaratacusPotts/Matrix-Sequencer) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2026-02-17 — Standalone MIDI sequencer
 41. [Meeblip Triode](https://github.com/MeeBlip/meeblip-triode) ⭐ 50 | 🐛 3 | 🌐 Eagle | 📅 2017-03-08 — Hackable monophonic synth based on ATmega32
 42. [Meeblip Micro](https://github.com/MeeBlip/meeblip-circuits) ⭐ 47 | 🐛 0 | 📅 2011-12-05 — Hackable monophonic synth
 43. [Meeblip SE](https://github.com/MeeBlip/meeblip-circuits) ⭐ 47 | 🐛 0 | 📅 2011-12-05 — Hackable monophonic synth
@@ -110,4 +110,4 @@ your building experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._

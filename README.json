@@ -166,7 +166,7 @@
             "open_issues": 75,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 474,
+            "stars": 475,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -332,28 +332,7 @@
             "open_issues": 10,
             "owner": "bastl-instruments",
             "repo": "kastle",
-            "stars": 268,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:29:52.019Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Plinky",
-          "description": "8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "a public release of the plinky sw and hw",
-            "homepage": null,
-            "id": 660207910,
-            "language": "C",
-            "license": "NOASSERTION",
-            "last_commit": "2025-10-31T15:52:38Z",
-            "open_issues": 17,
-            "owner": "plinkysynth",
-            "repo": "plinky_public",
-            "stars": 226,
+            "stars": 269,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -406,7 +385,7 @@
             "open_issues": 11,
             "owner": "shmoergh",
             "repo": "moduleur",
-            "stars": 224,
+            "stars": 225,
             "topics": [
               "analog",
               "diy",
@@ -415,6 +394,27 @@
               "modular",
               "synthesizer"
             ]
+          },
+          "first_seen": "2026-08-28T19:29:52.019Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Plinky",
+          "description": "8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "a public release of the plinky sw and hw",
+            "homepage": null,
+            "id": 660207910,
+            "language": "C",
+            "license": "NOASSERTION",
+            "last_commit": "2025-10-31T15:52:38Z",
+            "open_issues": 17,
+            "owner": "plinkysynth",
+            "repo": "plinky_public",
+            "stars": 225,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
         },
@@ -455,7 +455,7 @@
             "open_issues": 5,
             "owner": "schollz",
             "repo": "pikocore",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "pico",
               "pikocore",
@@ -660,7 +660,7 @@
             "open_issues": 3,
             "owner": "bastl-instruments",
             "repo": "kastle2",
-            "stars": 114,
+            "stars": 115,
             "topics": [
               "audio-processing",
               "bastl",
@@ -937,7 +937,7 @@
             "open_issues": 0,
             "owner": "CaratacusPotts",
             "repo": "Matrix-Sequencer",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:15:54.332Z",
+    "last_updated": "2026-11-21T15:28:26.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
