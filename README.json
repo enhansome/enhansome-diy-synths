@@ -49,7 +49,7 @@
             "open_issues": 45,
             "owner": "googlecreativelab",
             "repo": "open-nsynth-super",
-            "stars": 2493,
+            "stars": 2492,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -95,7 +95,7 @@
             "open_issues": 0,
             "owner": "shanteacontrols",
             "repo": "OpenDeck",
-            "stars": 967,
+            "stars": 968,
             "topics": [
               "midi",
               "midi-controller",
@@ -166,7 +166,7 @@
             "open_issues": 75,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 475,
+            "stars": 476,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -187,7 +187,7 @@
             "open_issues": 2,
             "owner": "prajwal1121",
             "repo": "Portable-Synth",
-            "stars": 453,
+            "stars": 454,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -277,8 +277,8 @@
             "id": 124693844,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-22T11:52:17Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-23T09:42:08Z",
+            "open_issues": 1,
             "owner": "midilab",
             "repo": "aciduino",
             "stars": 338,
@@ -480,7 +480,7 @@
             "open_issues": 15,
             "owner": "schollz",
             "repo": "_core",
-            "stars": 163,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -564,7 +564,7 @@
             "open_issues": 11,
             "owner": "Jaffe-",
             "repo": "NESizer2",
-            "stars": 127,
+            "stars": 128,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T15:28:52.250Z",
+    "last_updated": "2026-11-23T19:22:33.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
