@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1716,
+            "stars": 1717,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -339,6 +339,34 @@
         },
         {
           "node_type": "item",
+          "title": "Moduleur",
+          "description": "Double-voice analog modular design with a touch of digital magic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fully analog DIY-friendly modular synth",
+            "homepage": "https://www.shmoergh.com/moduleur",
+            "id": 994144641,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-10-27T07:24:34Z",
+            "open_issues": 11,
+            "owner": "shmoergh",
+            "repo": "moduleur",
+            "stars": 226,
+            "topics": [
+              "analog",
+              "diy",
+              "diy-electronics",
+              "hardware-designs",
+              "modular",
+              "synthesizer"
+            ]
+          },
+          "first_seen": "2026-08-28T19:29:52.019Z"
+        },
+        {
+          "node_type": "item",
           "title": "Polaron",
           "description": "Digital drum machine based on Teensy 3",
           "children": [],
@@ -365,34 +393,6 @@
               "synthesizer",
               "teensy",
               "teensyduino"
-            ]
-          },
-          "first_seen": "2026-08-28T19:29:52.019Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Moduleur",
-          "description": "Double-voice analog modular design with a touch of digital magic",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Fully analog DIY-friendly modular synth",
-            "homepage": "https://www.shmoergh.com/moduleur",
-            "id": 994144641,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-10-27T07:24:34Z",
-            "open_issues": 11,
-            "owner": "shmoergh",
-            "repo": "moduleur",
-            "stars": 225,
-            "topics": [
-              "analog",
-              "diy",
-              "diy-electronics",
-              "hardware-designs",
-              "modular",
-              "synthesizer"
             ]
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -476,7 +476,7 @@
             "id": 679110604,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T15:56:26Z",
+            "last_commit": "2026-11-25T04:15:00Z",
             "open_issues": 15,
             "owner": "schollz",
             "repo": "_core",
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T18:58:47.255Z",
+    "last_updated": "2026-11-25T18:03:27.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
