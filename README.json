@@ -124,7 +124,7 @@
             "open_issues": 1,
             "owner": "monome",
             "repo": "norns-shield",
-            "stars": 649,
+            "stars": 650,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -166,7 +166,7 @@
             "open_issues": 75,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
-            "stars": 476,
+            "stars": 477,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -187,7 +187,7 @@
             "open_issues": 2,
             "owner": "prajwal1121",
             "repo": "Portable-Synth",
-            "stars": 454,
+            "stars": 455,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -229,7 +229,7 @@
             "open_issues": 28,
             "owner": "rasteri",
             "repo": "SC1000",
-            "stars": 361,
+            "stars": 362,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -281,7 +281,7 @@
             "open_issues": 1,
             "owner": "midilab",
             "repo": "aciduino",
-            "stars": 338,
+            "stars": 339,
             "topics": [
               "303",
               "arduino",
@@ -476,7 +476,7 @@
             "id": 679110604,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T04:15:00Z",
+            "last_commit": "2026-11-25T18:33:57Z",
             "open_issues": 15,
             "owner": "schollz",
             "repo": "_core",
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T18:03:27.344Z",
+    "last_updated": "2026-11-26T17:48:25.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
