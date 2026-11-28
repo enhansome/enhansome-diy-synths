@@ -70,7 +70,7 @@
             "open_issues": 83,
             "owner": "probonopd",
             "repo": "MiniDexed",
-            "stars": 1718,
+            "stars": 1720,
             "topics": [
               "frequency-modulation",
               "raspberry-pi",
@@ -145,7 +145,7 @@
             "open_issues": 133,
             "owner": "xiphonics",
             "repo": "picoTracker",
-            "stars": 523,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:52.019Z"
@@ -163,7 +163,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-11-15T11:06:49Z",
-            "open_issues": 75,
+            "open_issues": 76,
             "owner": "BenjaminPoilve",
             "repo": "minichord",
             "stars": 477,
@@ -277,7 +277,7 @@
             "id": 124693844,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-23T09:42:08Z",
+            "last_commit": "2026-11-28T10:26:37Z",
             "open_issues": 1,
             "owner": "midilab",
             "repo": "aciduino",
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T17:33:13.414Z",
+    "last_updated": "2026-11-28T16:17:23.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of open-source synths 🎹",
